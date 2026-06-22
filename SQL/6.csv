@@ -1,0 +1,4 @@
+risk_segment,loans,default_rate_pct,avg_int_rate,total_exposure
+Low,613598,12.42,10.25,8584185000
+Medium,583349,24.08,14.98,8463332525
+High,148403,34.99,18.77,2352389050

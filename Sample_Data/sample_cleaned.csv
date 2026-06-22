@@ -1,0 +1,1001 @@
+issue_year,loan_amnt,term,int_rate,installment,grade,sub_grade,emp_length,home_ownership,annual_inc,income_band,verification_status,purpose,addr_state,dti,dti_band,fico,revol_util,delinq_2yrs,loan_status,is_default,risk_score,risk_segment
+2015,3600.00,36,13.99,123.03,C,C4,10.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,PA,5.91,0-10,677.0,29.70,0,"Fully Paid",0,2,Medium
+2015,24700.00,36,11.99,820.28,C,C1,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",small_business,SD,16.06,10-20,717.0,19.20,1,"Fully Paid",0,2,Medium
+2015,20000.00,60,10.78,432.66,B,B4,10.0,MORTGAGE,63000.00,40-70k,"Not Verified",home_improvement,IL,10.78,10-20,697.0,56.20,0,"Fully Paid",0,0,Low
+2015,10400.00,60,22.45,289.91,F,F1,3.0,MORTGAGE,104433.00,100-150k,"Source Verified",major_purchase,PA,25.37,20-30,697.0,64.50,1,"Fully Paid",0,5,High
+2015,11950.00,36,13.44,405.18,C,C3,4.0,RENT,34000.00,<40k,"Source Verified",debt_consolidation,GA,10.20,10-20,692.0,68.40,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,9.17,637.58,B,B2,10.0,MORTGAGE,180000.00,150k+,"Not Verified",debt_consolidation,MN,14.67,10-20,682.0,84.50,0,"Fully Paid",0,1,Low
+2015,20000.00,36,8.49,631.26,B,B1,10.0,MORTGAGE,85000.00,70-100k,"Not Verified",major_purchase,SC,17.61,10-20,707.0,5.70,1,"Fully Paid",0,1,Low
+2015,10000.00,36,6.49,306.45,A,A2,6.0,RENT,85000.00,70-100k,"Not Verified",credit_card,PA,13.07,10-20,687.0,34.50,0,"Fully Paid",0,0,Low
+2015,8000.00,36,11.48,263.74,B,B5,10.0,MORTGAGE,42000.00,40-70k,"Not Verified",credit_card,RI,34.80,30-40,702.0,39.10,0,"Fully Paid",0,1,Low
+2015,1400.00,36,12.88,47.10,C,C2,3.0,MORTGAGE,64000.00,40-70k,"Not Verified",other,NC,34.95,30-40,702.0,67.20,0,"Fully Paid",0,3,Medium
+2015,18000.00,60,19.48,471.70,E,E2,7.0,RENT,150000.00,100-150k,"Not Verified",debt_consolidation,CA,9.39,0-10,667.0,40.70,0,"Charged Off",1,3,Medium
+2015,28000.00,36,6.49,858.05,A,A2,10.0,MORTGAGE,92000.00,70-100k,"Not Verified",debt_consolidation,NC,21.60,20-30,722.0,64.50,0,"Fully Paid",0,1,Low
+2015,9600.00,36,7.49,298.58,A,A4,8.0,MORTGAGE,60000.00,40-70k,"Not Verified",credit_card,SC,22.44,20-30,697.0,59.40,0,"Fully Paid",0,0,Low
+2015,25000.00,36,7.49,777.55,A,A4,10.0,MORTGAGE,109000.00,100-150k,"Not Verified",debt_consolidation,VA,26.02,20-30,747.0,54.30,0,"Fully Paid",0,1,Low
+2015,18000.00,60,11.99,400.31,C,C1,10.0,MORTGAGE,112000.00,100-150k,"Not Verified",debt_consolidation,AZ,8.68,0-10,802.0,15.50,0,"Fully Paid",0,1,Low
+2015,8650.00,36,19.89,320.99,E,E3,8.0,RENT,55000.00,40-70k,Verified,debt_consolidation,IN,25.49,20-30,677.0,46.00,0,"Fully Paid",0,4,High
+2015,29900.00,60,12.88,678.49,C,C2,10.0,MORTGAGE,65000.00,40-70k,Verified,debt_consolidation,MD,21.77,20-30,717.0,46.70,0,"Fully Paid",0,1,Low
+2015,16000.00,60,14.85,379.39,C,C5,10.0,MORTGAGE,48000.00,40-70k,"Not Verified",credit_card,SC,33.18,30-40,687.0,29.60,0,"Fully Paid",0,2,Medium
+2015,28000.00,36,13.44,949.38,C,C3,2.0,OWN,125000.00,100-150k,"Source Verified",debt_consolidation,NY,7.49,0-10,697.0,63.10,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,13.44,169.54,C,C3,2.0,RENT,79000.00,70-100k,Verified,credit_card,MD,12.70,10-20,667.0,101.50,0,"Fully Paid",0,3,Medium
+2015,6000.00,36,7.49,186.61,A,A4,10.0,MORTGAGE,100000.00,70-100k,"Not Verified",debt_consolidation,TX,13.28,10-20,697.0,72.00,1,"Fully Paid",0,2,Medium
+2015,4225.00,36,14.85,146.16,C,C5,5.0,RENT,35000.00,<40k,"Source Verified",debt_consolidation,KS,15.22,10-20,727.0,24.60,2,"Charged Off",1,2,Medium
+2015,20000.00,36,5.32,602.30,A,A1,9.0,OWN,65000.00,40-70k,"Not Verified",debt_consolidation,NY,18.83,10-20,837.0,3.00,0,"Fully Paid",0,0,Low
+2015,16000.00,60,17.97,406.04,D,D4,0.0,MORTGAGE,109000.00,100-150k,"Source Verified",debt_consolidation,NM,23.35,20-30,682.0,87.60,0,"Fully Paid",0,2,Medium
+2015,17600.00,36,5.32,530.03,A,A1,0.0,MORTGAGE,88000.00,70-100k,"Source Verified",credit_card,KS,26.59,20-30,782.0,34.40,0,"Fully Paid",0,1,Low
+2015,15000.00,36,5.32,451.73,A,A1,10.0,MORTGAGE,44000.00,40-70k,"Source Verified",home_improvement,VA,15.34,10-20,687.0,50.30,0,"Fully Paid",0,0,Low
+2015,16000.00,36,12.88,538.18,C,C2,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",small_business,AL,18.96,10-20,677.0,54.30,0,"Charged Off",1,2,Medium
+2015,24250.00,60,24.24,701.01,F,F3,4.0,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,NY,20.84,20-30,662.0,65.30,0,"Charged Off",1,4,High
+2015,12000.00,36,10.78,391.62,B,B4,1.0,RENT,98000.00,70-100k,"Not Verified",debt_consolidation,WA,24.04,20-30,692.0,62.80,0,"Fully Paid",0,1,Low
+2015,25000.00,60,13.99,581.58,C,C4,9.0,MORTGAGE,79000.00,70-100k,"Not Verified",debt_consolidation,MD,34.53,30-40,732.0,18.60,0,"Charged Off",1,2,Medium
+2015,7000.00,36,7.49,217.72,A,A4,10.0,MORTGAGE,59000.00,40-70k,"Not Verified",credit_card,MD,13.06,10-20,732.0,24.20,1,"Fully Paid",0,1,Low
+2015,21000.00,60,13.99,488.53,C,C4,0.0,RENT,52000.00,40-70k,"Source Verified",credit_card,OH,14.47,10-20,682.0,87.40,0,"Fully Paid",0,2,Medium
+2015,27500.00,60,14.85,652.06,C,C5,10.0,MORTGAGE,195000.00,150k+,"Not Verified",other,LA,6.79,0-10,702.0,50.90,0,"Fully Paid",0,1,Low
+2015,7200.00,36,11.48,237.36,B,B5,10.0,MORTGAGE,72500.00,70-100k,Verified,home_improvement,GA,8.47,0-10,727.0,35.20,0,"Fully Paid",0,0,Low
+2015,20000.00,36,14.85,691.84,C,C5,6.0,RENT,110000.00,100-150k,"Not Verified",credit_card,IL,12.45,10-20,692.0,84.50,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,15.77,700.88,D,D1,5.0,RENT,70000.00,40-70k,"Not Verified",house,FL,22.21,20-30,682.0,36.60,0,"Fully Paid",0,1,Low
+2015,10000.00,60,17.97,253.78,D,D4,2.0,MORTGAGE,55000.00,40-70k,"Not Verified",credit_card,CO,35.70,30-40,687.0,78.00,0,"Charged Off",1,3,Medium
+2015,20000.00,36,9.80,643.47,B,B3,5.0,RENT,75000.00,70-100k,"Not Verified",debt_consolidation,WA,23.45,20-30,727.0,9.60,0,"Fully Paid",0,0,Low
+2015,8650.00,36,5.32,260.50,A,A1,0.0,MORTGAGE,100000.00,70-100k,"Not Verified",credit_card,IN,7.28,0-10,752.0,26.70,0,"Fully Paid",0,0,Low
+2015,21000.00,60,13.44,482.56,C,C3,2.0,RENT,54649.00,40-70k,"Source Verified",debt_consolidation,TX,12.14,10-20,672.0,26.80,0,"Fully Paid",0,2,Medium
+2015,7200.00,36,15.77,252.32,D,D1,0.0,RENT,55000.00,40-70k,"Not Verified",debt_consolidation,NY,17.35,10-20,682.0,69.00,0,"Fully Paid",0,2,Medium
+2015,8800.00,36,9.80,283.13,B,B3,10.0,MORTGAGE,92000.00,70-100k,"Source Verified",credit_card,MI,5.18,0-10,667.0,76.60,0,"Fully Paid",0,2,Medium
+2015,2500.00,36,17.27,89.47,D,D3,10.0,MORTGAGE,50000.00,40-70k,Verified,other,FL,17.60,10-20,672.0,31.10,3,"Fully Paid",0,3,Medium
+2015,11000.00,36,9.17,350.67,B,B2,10.0,MORTGAGE,69000.00,40-70k,"Not Verified",credit_card,OH,21.34,20-30,682.0,84.80,0,"Fully Paid",0,1,Low
+2015,10000.00,36,12.88,336.37,C,C2,4.0,MORTGAGE,91392.00,70-100k,"Not Verified",house,MO,9.44,0-10,712.0,41.70,0,"Fully Paid",0,1,Low
+2015,28000.00,60,18.49,718.51,D,D5,10.0,MORTGAGE,75000.00,70-100k,Verified,debt_consolidation,IN,31.88,30-40,687.0,51.90,0,"Fully Paid",0,2,Medium
+2015,35000.00,60,11.99,778.38,C,C1,10.0,MORTGAGE,128000.00,100-150k,"Source Verified",home_improvement,DC,6.46,0-10,687.0,27.40,0,"Fully Paid",0,1,Low
+2015,7200.00,36,9.17,229.53,B,B2,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,MA,19.25,10-20,677.0,47.60,0,"Fully Paid",0,1,Low
+2015,10000.00,36,7.91,312.95,A,A5,2.0,RENT,40100.00,40-70k,"Not Verified",credit_card,OH,10.81,10-20,682.0,45.00,0,"Fully Paid",0,0,Low
+2015,16000.00,60,13.44,367.67,C,C3,1.0,RENT,42000.00,40-70k,"Not Verified",credit_card,MA,9.60,0-10,672.0,44.80,0,"Charged Off",1,2,Medium
+2015,21875.00,36,11.99,726.46,C,C1,0.0,RENT,47590.00,40-70k,"Source Verified",credit_card,FL,17.76,10-20,702.0,57.10,0,"Fully Paid",0,1,Low
+2015,14025.00,60,18.49,359.90,D,D5,10.0,MORTGAGE,39000.00,<40k,Verified,debt_consolidation,WI,18.00,10-20,677.0,74.90,0,"Fully Paid",0,3,Medium
+2015,35000.00,60,12.88,794.21,C,C2,7.0,MORTGAGE,106000.00,100-150k,"Source Verified",debt_consolidation,AL,17.36,10-20,732.0,72.10,0,"Charged Off",1,2,Medium
+2015,20000.00,36,12.88,672.73,C,C2,10.0,MORTGAGE,145000.00,100-150k,"Not Verified",debt_consolidation,RI,12.28,10-20,697.0,80.20,0,"Fully Paid",0,2,Medium
+2015,14000.00,60,14.85,331.96,C,C5,2.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,AZ,24.29,20-30,692.0,73.90,0,"Charged Off",1,2,Medium
+2015,20000.00,60,13.99,465.27,C,C4,10.0,OWN,70000.00,40-70k,"Source Verified",debt_consolidation,MD,16.90,10-20,682.0,42.00,0,"Charged Off",1,1,Low
+2015,4200.00,36,13.44,142.41,C,C3,10.0,MORTGAGE,102500.00,100-150k,"Not Verified",debt_consolidation,NY,26.21,20-30,702.0,88.50,0,"Fully Paid",0,3,Medium
+2015,19000.00,60,14.85,450.52,C,C5,9.0,OWN,75000.00,70-100k,"Not Verified",credit_card,NY,13.09,10-20,667.0,63.70,0,"Fully Paid",0,3,Medium
+2015,15850.00,60,23.13,448.01,F,F2,10.0,OWN,45000.00,40-70k,"Not Verified",debt_consolidation,OH,34.85,30-40,757.0,21.30,0,"Fully Paid",0,3,Medium
+2015,30000.00,36,15.77,1051.31,D,D1,2.0,MORTGAGE,175000.00,150k+,"Not Verified",home_improvement,OH,18.50,10-20,727.0,50.30,0,"Fully Paid",0,1,Low
+2015,1500.00,36,6.49,45.97,A,A2,NULL,MORTGAGE,45000.00,40-70k,"Not Verified",vacation,HI,16.11,10-20,747.0,21.20,0,"Fully Paid",0,0,Low
+2015,25000.00,36,5.32,752.87,A,A1,1.0,MORTGAGE,150000.00,100-150k,"Not Verified",credit_card,VT,9.54,0-10,797.0,42.50,0,"Fully Paid",0,0,Low
+2015,20200.00,60,18.49,518.35,D,D5,4.0,RENT,60000.00,40-70k,"Source Verified",debt_consolidation,CA,34.84,30-40,722.0,40.60,0,"Charged Off",1,2,Medium
+2015,23975.00,60,19.89,633.73,E,E3,10.0,RENT,70000.00,40-70k,"Not Verified",credit_card,VA,33.20,30-40,687.0,94.90,0,"Charged Off",1,4,High
+2015,15000.00,60,10.78,324.50,B,B4,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",debt_consolidation,AL,29.28,20-30,722.0,69.80,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,10.78,326.35,B,B4,3.0,MORTGAGE,41600.00,40-70k,"Not Verified",debt_consolidation,IN,15.78,10-20,697.0,52.50,0,"Fully Paid",0,0,Low
+2015,15000.00,36,8.49,473.45,B,B1,6.0,MORTGAGE,110000.00,100-150k,"Not Verified",credit_card,NJ,13.24,10-20,672.0,41.40,0,"Fully Paid",0,1,Low
+2015,23100.00,60,20.50,618.46,E,E4,2.0,OWN,110000.00,100-150k,"Not Verified",car,DE,20.43,20-30,662.0,94.90,0,"Charged Off",1,4,High
+2015,27300.00,36,17.27,977.00,D,D3,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",home_improvement,NY,25.63,20-30,662.0,83.00,0,"Charged Off",1,4,High
+2015,25000.00,60,11.48,549.57,B,B5,10.0,MORTGAGE,135000.00,100-150k,"Not Verified",credit_card,TX,4.65,0-10,707.0,13.50,0,"Fully Paid",0,0,Low
+2015,15000.00,36,10.78,489.52,B,B4,1.0,RENT,40000.00,<40k,Verified,credit_card,TX,10.17,10-20,672.0,75.30,0,"Fully Paid",0,2,Medium
+2015,10000.00,60,16.59,246.33,D,D2,0.0,RENT,30000.00,<40k,"Source Verified",debt_consolidation,OH,30.84,30-40,717.0,26.60,0,"Fully Paid",0,2,Medium
+2015,18500.00,60,12.88,419.80,C,C2,10.0,MORTGAGE,70000.00,40-70k,"Source Verified",debt_consolidation,TX,13.20,10-20,677.0,57.80,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,7.91,156.48,A,A5,6.0,RENT,32000.00,<40k,"Source Verified",credit_card,OH,13.73,10-20,687.0,41.10,0,"Fully Paid",0,0,Low
+2015,9000.00,36,9.17,286.92,B,B2,1.0,OWN,50000.00,40-70k,"Not Verified",debt_consolidation,KS,11.98,10-20,802.0,48.50,0,"Fully Paid",0,0,Low
+2015,11000.00,36,6.49,337.09,A,A2,10.0,MORTGAGE,85000.00,70-100k,"Not Verified",credit_card,MA,15.00,10-20,757.0,20.10,0,"Fully Paid",0,0,Low
+2015,20000.00,36,6.49,612.89,A,A2,6.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,TN,29.15,20-30,752.0,23.80,0,"Fully Paid",0,1,Low
+2015,15000.00,36,5.32,451.73,A,A1,NULL,RENT,80000.00,70-100k,"Not Verified",debt_consolidation,VA,20.18,20-30,777.0,21.40,0,"Fully Paid",0,0,Low
+2015,12000.00,36,5.32,361.38,A,A1,4.0,MORTGAGE,53750.00,40-70k,"Source Verified",debt_consolidation,AZ,15.30,10-20,702.0,17.20,1,"Fully Paid",0,1,Low
+2015,8000.00,36,10.78,261.08,B,B4,0.0,MORTGAGE,45000.00,40-70k,"Not Verified",debt_consolidation,MI,21.23,20-30,672.0,35.50,0,"Fully Paid",0,1,Low
+2015,12000.00,36,10.78,391.62,B,B4,3.0,RENT,40000.00,<40k,"Not Verified",credit_card,NJ,31.95,30-40,667.0,41.40,3,"Fully Paid",0,3,Medium
+2015,18000.00,36,7.49,559.83,A,A4,5.0,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,NH,25.65,20-30,717.0,33.20,0,"Fully Paid",0,1,Low
+2015,3600.00,36,11.48,118.68,B,B5,0.0,MORTGAGE,85000.00,70-100k,"Source Verified",debt_consolidation,VA,17.44,10-20,677.0,28.70,0,"Fully Paid",0,1,Low
+2015,7200.00,36,17.27,257.67,D,D3,9.0,OWN,20000.00,<40k,Verified,debt_consolidation,MA,13.21,10-20,707.0,32.60,1,"Charged Off",1,2,Medium
+2015,15000.00,60,13.44,344.69,C,C3,4.0,RENT,77213.00,70-100k,"Source Verified",credit_card,FL,18.17,10-20,672.0,25.80,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,9.80,160.87,B,B3,6.0,OWN,72000.00,70-100k,"Not Verified",other,NC,6.52,0-10,712.0,56.30,0,"Fully Paid",0,0,Low
+2015,11550.00,60,16.59,284.51,D,D2,5.0,RENT,38000.00,<40k,"Not Verified",credit_card,OH,21.07,20-30,702.0,39.70,0,"Charged Off",1,1,Low
+2015,33600.00,36,10.78,1096.53,B,B4,8.0,RENT,104000.00,100-150k,"Source Verified",debt_consolidation,OH,14.01,10-20,692.0,51.80,0,"Fully Paid",0,0,Low
+2015,17475.00,36,13.99,597.17,C,C4,2.0,RENT,39750.00,<40k,"Not Verified",debt_consolidation,IL,23.58,20-30,697.0,52.30,0,"Charged Off",1,1,Low
+2015,9000.00,36,8.49,284.07,B,B1,8.0,MORTGAGE,47000.00,40-70k,"Not Verified",debt_consolidation,FL,8.43,0-10,677.0,26.70,0,"Fully Paid",0,1,Low
+2015,12000.00,60,9.80,253.79,B,B3,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",debt_consolidation,KS,23.84,20-30,787.0,13.40,0,"Fully Paid",0,0,Low
+2015,4000.00,36,9.17,127.52,B,B2,2.0,RENT,44500.00,40-70k,Verified,debt_consolidation,NE,15.83,10-20,672.0,4.20,0,"Fully Paid",0,1,Low
+2015,10500.00,36,15.77,367.96,D,D1,3.0,RENT,70100.00,70-100k,"Source Verified",credit_card,KS,8.51,0-10,662.0,77.40,0,"Fully Paid",0,3,Medium
+2015,14000.00,36,9.80,450.43,B,B3,4.0,MORTGAGE,100000.00,70-100k,"Not Verified",medical,OH,15.97,10-20,687.0,36.10,0,"Fully Paid",0,0,Low
+2015,6000.00,36,7.91,187.77,A,A5,10.0,MORTGAGE,105000.00,100-150k,"Not Verified",car,OH,14.45,10-20,687.0,65.30,0,"Fully Paid",0,1,Low
+2015,15000.00,36,9.80,482.61,B,B3,3.0,MORTGAGE,92000.00,70-100k,"Not Verified",debt_consolidation,OR,13.89,10-20,682.0,35.20,0,"Fully Paid",0,0,Low
+2015,12000.00,36,9.17,382.55,B,B2,4.0,MORTGAGE,39400.00,<40k,"Not Verified",debt_consolidation,CA,26.32,20-30,707.0,34.60,0,"Fully Paid",0,1,Low
+2015,10000.00,36,11.48,329.67,B,B5,2.0,RENT,33000.00,<40k,"Not Verified",debt_consolidation,IN,21.75,20-30,712.0,35.60,0,"Fully Paid",0,0,Low
+2015,4200.00,36,13.99,143.53,C,C4,2.0,RENT,32000.00,<40k,"Source Verified",other,TN,31.02,30-40,707.0,11.70,0,"Fully Paid",0,2,Medium
+2015,35000.00,60,20.50,937.06,E,E4,8.0,MORTGAGE,120000.00,100-150k,"Source Verified",debt_consolidation,GA,35.69,30-40,702.0,32.20,1,"Fully Paid",0,4,High
+2015,5475.00,36,18.99,200.67,E,E1,10.0,MORTGAGE,108000.00,100-150k,Verified,debt_consolidation,FL,33.47,30-40,672.0,41.00,4,"Charged Off",1,5,High
+2015,6000.00,36,13.44,203.44,C,C3,3.0,OWN,38700.00,<40k,"Source Verified",debt_consolidation,NC,23.26,20-30,692.0,19.20,0,"Fully Paid",0,1,Low
+2015,24000.00,36,9.17,765.10,B,B2,10.0,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,RI,10.11,10-20,662.0,39.50,0,"Fully Paid",0,1,Low
+2015,10000.00,36,12.88,336.37,C,C2,0.0,RENT,60000.00,40-70k,Verified,debt_consolidation,WA,3.30,0-10,717.0,64.10,0,"Fully Paid",0,2,Medium
+2015,6900.00,36,19.89,256.05,E,E3,10.0,RENT,80000.00,70-100k,"Source Verified",debt_consolidation,NY,9.57,0-10,667.0,35.90,0,"Fully Paid",0,3,Medium
+2015,15975.00,36,16.59,566.30,D,D2,4.0,MORTGAGE,58800.00,40-70k,"Not Verified",debt_consolidation,CA,20.45,20-30,667.0,71.80,0,"Fully Paid",0,3,Medium
+2015,21600.00,36,13.44,732.38,C,C3,9.0,MORTGAGE,54000.00,40-70k,Verified,debt_consolidation,WI,17.64,10-20,692.0,60.80,0,"Fully Paid",0,2,Medium
+2015,14400.00,60,19.48,377.36,E,E2,3.0,RENT,73320.00,70-100k,"Source Verified",debt_consolidation,NY,17.02,10-20,662.0,96.80,0,"Charged Off",1,4,High
+2015,8000.00,36,13.99,273.39,C,C4,0.0,RENT,42000.00,40-70k,"Not Verified",other,OR,23.26,20-30,707.0,40.50,0,"Fully Paid",0,1,Low
+2015,7000.00,36,13.99,239.21,C,C4,2.0,RENT,83000.00,70-100k,"Source Verified",debt_consolidation,DE,21.96,20-30,682.0,83.10,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,10.78,652.70,B,B4,0.0,OWN,55000.00,40-70k,"Not Verified",debt_consolidation,AL,36.94,30-40,742.0,43.00,0,"Fully Paid",0,1,Low
+2015,25825.00,60,26.06,774.14,F,F5,6.0,RENT,68000.00,40-70k,Verified,debt_consolidation,MD,31.68,30-40,677.0,69.70,0,"Charged Off",1,5,High
+2015,24575.00,60,22.45,685.04,F,F1,10.0,MORTGAGE,92000.00,70-100k,Verified,debt_consolidation,OH,24.16,20-30,727.0,79.30,0,"Fully Paid",0,3,Medium
+2015,3200.00,36,8.49,101.01,B,B1,10.0,RENT,30407.00,<40k,"Not Verified",medical,MN,20.61,20-30,712.0,30.30,0,"Fully Paid",0,0,Low
+2015,22875.00,60,15.77,553.49,D,D1,10.0,MORTGAGE,137000.00,100-150k,"Not Verified",debt_consolidation,CA,32.30,30-40,702.0,45.80,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,13.44,1186.72,C,C3,0.0,MORTGAGE,125000.00,100-150k,"Source Verified",debt_consolidation,MN,24.19,20-30,712.0,51.90,0,"Fully Paid",0,1,Low
+2015,2400.00,36,17.27,85.89,D,D3,2.0,MORTGAGE,52000.00,40-70k,Verified,home_improvement,IN,28.38,20-30,672.0,41.50,1,"Fully Paid",0,4,High
+2015,25000.00,36,7.49,777.55,A,A4,NULL,MORTGAGE,132000.00,100-150k,"Not Verified",debt_consolidation,MI,13.83,10-20,747.0,48.00,0,"Fully Paid",0,0,Low
+2015,8800.00,36,12.88,296.00,C,C2,2.0,RENT,55000.00,40-70k,"Not Verified",credit_card,MA,35.52,30-40,717.0,37.50,0,"Fully Paid",0,2,Medium
+2015,2500.00,36,11.48,82.42,B,B5,NULL,RENT,16488.00,<40k,"Not Verified",debt_consolidation,CT,38.06,30-40,772.0,8.20,0,"Fully Paid",0,1,Low
+2015,8000.00,36,5.32,240.92,A,A1,1.0,RENT,50000.00,40-70k,"Not Verified",credit_card,MI,14.86,10-20,717.0,35.10,1,"Fully Paid",0,1,Low
+2015,20000.00,36,11.99,664.20,C,C1,10.0,MORTGAGE,78000.00,70-100k,"Not Verified",debt_consolidation,AL,27.10,20-30,707.0,48.20,0,"Charged Off",1,2,Medium
+2015,35000.00,60,12.88,794.21,C,C2,10.0,MORTGAGE,110000.00,100-150k,"Source Verified",major_purchase,MD,13.39,10-20,697.0,47.20,0,"Charged Off",1,1,Low
+2015,15000.00,36,7.49,466.53,A,A4,NULL,MORTGAGE,45000.00,40-70k,Verified,debt_consolidation,CA,10.67,10-20,712.0,43.50,3,"Fully Paid",0,1,Low
+2015,16000.00,36,15.77,560.70,D,D1,1.0,MORTGAGE,70000.00,40-70k,"Not Verified",debt_consolidation,NJ,8.78,0-10,707.0,76.10,0,"Charged Off",1,2,Medium
+2015,10800.00,60,13.99,251.25,C,C4,3.0,RENT,40000.00,<40k,"Source Verified",debt_consolidation,FL,26.13,20-30,667.0,71.20,0,"Fully Paid",0,4,High
+2015,7500.00,36,17.97,271.04,D,D4,10.0,OWN,15000.00,<40k,"Source Verified",debt_consolidation,FL,37.20,30-40,687.0,66.70,0,"Fully Paid",0,3,Medium
+2015,16000.00,36,10.78,522.16,B,B4,5.0,RENT,63000.00,40-70k,"Not Verified",debt_consolidation,NY,35.19,30-40,672.0,46.00,0,"Charged Off",1,2,Medium
+2015,9000.00,36,5.32,271.04,A,A1,10.0,MORTGAGE,49000.00,40-70k,"Not Verified",credit_card,CA,21.63,20-30,757.0,11.70,0,"Fully Paid",0,0,Low
+2015,9500.00,36,15.77,332.92,D,D1,10.0,RENT,28000.00,<40k,"Not Verified",other,MI,27.95,20-30,697.0,55.90,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,7.91,312.95,A,A5,2.0,OWN,25000.00,<40k,"Not Verified",debt_consolidation,CA,29.91,20-30,742.0,22.90,0,"Charged Off",1,1,Low
+2015,6000.00,36,7.91,187.77,A,A5,10.0,MORTGAGE,49000.00,40-70k,"Not Verified",debt_consolidation,CO,17.92,10-20,797.0,4.40,0,"Fully Paid",0,0,Low
+2015,15600.00,60,13.44,358.48,C,C3,10.0,MORTGAGE,52000.00,40-70k,"Not Verified",major_purchase,NY,15.37,10-20,722.0,69.30,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,8.49,1104.71,B,B1,0.0,OWN,90000.00,70-100k,"Source Verified",debt_consolidation,CA,13.36,10-20,752.0,42.90,0,"Fully Paid",0,0,Low
+2015,5000.00,36,11.48,164.84,B,B5,9.0,MORTGAGE,78000.00,70-100k,"Not Verified",debt_consolidation,TX,21.21,20-30,702.0,54.30,0,"Fully Paid",0,0,Low
+2015,20400.00,60,18.49,523.48,D,D5,2.0,MORTGAGE,75000.00,70-100k,"Source Verified",credit_card,AR,38.65,30-40,727.0,42.60,2,"Fully Paid",0,3,Medium
+2015,8000.00,36,17.97,289.10,D,D4,NULL,MORTGAGE,33130.00,<40k,"Not Verified",debt_consolidation,LA,11.52,10-20,667.0,27.40,1,"Charged Off",1,3,Medium
+2015,16000.00,36,10.78,522.16,B,B4,3.0,RENT,87500.00,70-100k,"Not Verified",debt_consolidation,IL,13.74,10-20,697.0,83.90,0,"Fully Paid",0,1,Low
+2015,18000.00,36,7.91,563.31,A,A5,10.0,MORTGAGE,80000.00,70-100k,"Not Verified",debt_consolidation,PA,15.56,10-20,742.0,82.60,0,"Charged Off",1,1,Low
+2015,35000.00,36,9.17,1115.77,B,B2,1.0,RENT,105000.00,100-150k,"Source Verified",debt_consolidation,FL,25.07,20-30,692.0,85.00,0,"Fully Paid",0,2,Medium
+2015,13150.00,36,5.32,396.01,A,A1,1.0,RENT,40000.00,<40k,"Not Verified",major_purchase,TX,20.25,20-30,767.0,20.10,0,"Fully Paid",0,0,Low
+2015,5600.00,36,9.17,178.53,B,B2,8.0,RENT,48000.00,40-70k,"Source Verified",credit_card,TX,19.85,10-20,662.0,64.80,0,"Fully Paid",0,2,Medium
+2015,23000.00,36,9.80,739.99,B,B3,9.0,MORTGAGE,90247.00,70-100k,"Not Verified",credit_card,VA,17.09,10-20,682.0,41.30,0,"Fully Paid",0,0,Low
+2015,12600.00,60,14.85,298.77,C,C5,1.0,MORTGAGE,175000.00,150k+,"Not Verified",credit_card,MD,11.75,10-20,692.0,47.50,0,"Fully Paid",0,1,Low
+2015,11000.00,36,16.59,389.94,D,D2,8.0,MORTGAGE,55000.00,40-70k,"Source Verified",debt_consolidation,IL,16.85,10-20,737.0,61.10,0,"Fully Paid",0,2,Medium
+2015,4000.00,36,11.99,132.84,C,C1,3.0,RENT,41501.00,40-70k,"Source Verified",debt_consolidation,NY,12.90,10-20,687.0,36.30,0,"Fully Paid",0,1,Low
+2015,20000.00,36,11.48,659.33,B,B5,5.0,RENT,60000.00,40-70k,"Not Verified",debt_consolidation,VA,22.62,20-30,687.0,61.50,0,"Fully Paid",0,1,Low
+2015,10000.00,36,9.17,318.79,B,B2,10.0,MORTGAGE,59307.00,40-70k,"Not Verified",credit_card,OH,32.70,30-40,692.0,59.50,1,"Fully Paid",0,2,Medium
+2015,18850.00,36,21.48,714.83,E,E5,0.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,NV,15.56,10-20,702.0,38.40,0,"Charged Off",1,2,Medium
+2015,21000.00,60,11.99,467.03,C,C1,10.0,MORTGAGE,82000.00,70-100k,"Not Verified",debt_consolidation,NY,15.07,10-20,732.0,35.00,0,"Fully Paid",0,1,Low
+2015,10500.00,36,8.49,331.42,B,B1,4.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,WV,15.39,10-20,687.0,62.60,1,"Fully Paid",0,2,Medium
+2015,4575.00,36,17.27,163.73,D,D3,5.0,RENT,56000.00,40-70k,"Not Verified",house,NJ,10.03,10-20,667.0,27.00,1,"Charged Off",1,3,Medium
+2015,5000.00,36,11.48,164.84,B,B5,1.0,RENT,17000.00,<40k,"Source Verified",other,NH,27.90,20-30,692.0,44.30,0,"Fully Paid",0,1,Low
+2015,8000.00,36,6.99,246.99,A,A3,NULL,MORTGAGE,45000.00,40-70k,"Not Verified",home_improvement,RI,15.15,10-20,792.0,23.70,0,"Fully Paid",0,0,Low
+2015,5000.00,36,11.99,166.05,C,C1,1.0,RENT,30000.00,<40k,"Source Verified",debt_consolidation,MD,9.16,0-10,677.0,28.30,0,"Charged Off",1,2,Medium
+2015,9075.00,36,5.32,273.30,A,A1,10.0,MORTGAGE,40000.00,<40k,"Not Verified",credit_card,MT,8.39,0-10,817.0,16.30,0,"Fully Paid",0,0,Low
+2015,12500.00,36,7.49,388.78,A,A4,10.0,RENT,52000.00,40-70k,"Not Verified",credit_card,CA,6.83,0-10,707.0,80.70,0,"Fully Paid",0,1,Low
+2015,19600.00,60,15.77,474.25,D,D1,8.0,MORTGAGE,80000.00,70-100k,"Source Verified",debt_consolidation,NH,18.99,10-20,712.0,81.10,0,"Charged Off",1,2,Medium
+2015,35000.00,36,13.99,1196.05,C,C4,2.0,MORTGAGE,90000.00,70-100k,"Source Verified",debt_consolidation,FL,10.97,10-20,742.0,12.30,0,"Fully Paid",0,1,Low
+2015,28000.00,60,8.49,574.33,B,B1,1.0,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,GA,24.83,20-30,687.0,72.00,0,"Fully Paid",0,1,Low
+2015,14000.00,60,15.77,338.75,D,D1,1.0,RENT,45500.00,40-70k,"Not Verified",debt_consolidation,TX,19.24,10-20,692.0,25.90,0,"Charged Off",1,1,Low
+2015,16000.00,36,9.80,514.78,B,B3,NULL,MORTGAGE,99906.00,70-100k,"Not Verified",credit_card,NY,6.97,0-10,662.0,69.80,0,"Fully Paid",0,2,Medium
+2015,14000.00,36,5.32,421.61,A,A1,4.0,RENT,120000.00,100-150k,"Not Verified",debt_consolidation,CA,6.73,0-10,777.0,16.90,0,"Fully Paid",0,0,Low
+2015,24000.00,36,8.49,757.51,B,B1,8.0,MORTGAGE,72000.00,70-100k,"Not Verified",debt_consolidation,TX,22.80,20-30,717.0,34.30,0,"Fully Paid",0,0,Low
+2015,35000.00,36,13.99,1196.05,C,C4,6.0,OWN,75000.00,70-100k,"Source Verified",debt_consolidation,FL,18.19,10-20,687.0,69.60,0,"Fully Paid",0,2,Medium
+2015,8000.00,36,11.48,263.74,B,B5,0.0,RENT,21610.00,<40k,Verified,credit_card,TN,31.06,30-40,707.0,48.40,0,"Fully Paid",0,1,Low
+2015,3600.00,36,13.44,122.07,C,C3,1.0,RENT,25000.00,<40k,"Source Verified",debt_consolidation,PA,26.45,20-30,712.0,30.70,0,"Fully Paid",0,2,Medium
+2015,10500.00,36,13.99,358.82,C,C4,10.0,MORTGAGE,110000.00,100-150k,"Not Verified",debt_consolidation,CA,30.73,30-40,662.0,81.20,1,"Fully Paid",0,5,High
+2015,3000.00,36,11.48,98.90,B,B5,10.0,MORTGAGE,105000.00,100-150k,Verified,home_improvement,CA,12.09,10-20,687.0,57.90,0,"Fully Paid",0,0,Low
+2015,16000.00,36,14.85,553.48,C,C5,2.0,RENT,43000.00,40-70k,"Source Verified",credit_card,NY,17.11,10-20,677.0,51.20,0,"Fully Paid",0,2,Medium
+2015,8000.00,36,7.49,248.82,A,A4,10.0,MORTGAGE,57000.00,40-70k,"Not Verified",debt_consolidation,PA,25.01,20-30,742.0,41.10,0,"Fully Paid",0,1,Low
+2015,19500.00,36,7.49,606.49,A,A4,0.0,RENT,85000.00,70-100k,"Not Verified",debt_consolidation,CA,13.74,10-20,732.0,70.70,0,"Fully Paid",0,1,Low
+2015,2000.00,36,8.49,63.13,B,B1,8.0,MORTGAGE,140000.00,100-150k,"Source Verified",other,SC,6.78,0-10,847.5,6.80,0,"Fully Paid",0,0,Low
+2015,16000.00,36,5.32,481.84,A,A1,8.0,MORTGAGE,96000.00,70-100k,"Not Verified",debt_consolidation,MN,14.45,10-20,727.0,29.80,0,"Fully Paid",0,0,Low
+2015,3500.00,36,10.78,114.23,B,B4,8.0,MORTGAGE,122400.00,100-150k,"Source Verified",vacation,CA,17.97,10-20,662.0,58.60,0,"Fully Paid",0,1,Low
+2015,24000.00,36,11.48,791.20,B,B5,3.0,OWN,95000.00,70-100k,Verified,debt_consolidation,IL,26.89,20-30,677.0,102.00,0,"Fully Paid",0,3,Medium
+2015,6000.00,36,5.32,180.69,A,A1,2.0,OWN,120000.00,100-150k,"Not Verified",credit_card,NY,3.98,0-10,782.0,19.40,0,"Fully Paid",0,0,Low
+2015,24000.00,36,7.91,751.08,A,A5,9.0,MORTGAGE,100000.00,70-100k,"Not Verified",debt_consolidation,MI,26.83,20-30,677.0,56.40,1,"Fully Paid",0,3,Medium
+2015,14875.00,60,18.49,381.71,D,D5,3.0,RENT,37231.00,<40k,Verified,debt_consolidation,TN,36.30,30-40,667.0,27.90,1,"Charged Off",1,4,High
+2015,10000.00,36,11.99,332.10,C,C1,7.0,RENT,45000.00,40-70k,"Not Verified",other,MD,37.55,30-40,687.0,24.40,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,6.99,463.09,A,A3,2.0,MORTGAGE,93000.00,70-100k,"Not Verified",credit_card,MA,14.86,10-20,757.0,43.20,0,"Fully Paid",0,0,Low
+2015,10000.00,36,5.32,301.15,A,A1,10.0,RENT,68000.00,40-70k,"Not Verified",credit_card,IN,14.61,10-20,732.0,46.60,0,"Fully Paid",0,0,Low
+2015,24000.00,60,19.48,628.93,E,E2,10.0,RENT,97000.00,70-100k,Verified,debt_consolidation,CO,7.23,0-10,687.0,52.50,0,"Fully Paid",0,2,Medium
+2015,23525.00,60,17.97,597.00,D,D4,5.0,MORTGAGE,70000.00,40-70k,"Not Verified",debt_consolidation,NJ,13.33,10-20,677.0,90.90,0,"Fully Paid",0,3,Medium
+2015,11000.00,36,10.78,358.99,B,B4,10.0,RENT,297000.00,150k+,Verified,other,MD,12.69,10-20,672.0,61.90,1,"Fully Paid",0,3,Medium
+2015,24000.00,36,9.17,765.10,B,B2,2.0,MORTGAGE,210000.00,150k+,"Source Verified",debt_consolidation,MN,20.16,20-30,692.0,65.10,0,"Fully Paid",0,1,Low
+2015,16000.00,36,8.49,505.01,B,B1,10.0,MORTGAGE,140000.00,100-150k,"Not Verified",credit_card,TX,14.68,10-20,672.0,77.30,2,"Fully Paid",0,3,Medium
+2015,15000.00,60,7.91,303.51,A,A5,5.0,RENT,90000.00,70-100k,Verified,debt_consolidation,NY,17.07,10-20,687.0,62.00,0,"Charged Off",1,1,Low
+2015,5000.00,36,11.99,166.05,C,C1,8.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,GA,19.56,10-20,677.0,50.80,0,"Charged Off",1,2,Medium
+2015,15000.00,36,10.78,489.52,B,B4,3.0,OWN,85000.00,70-100k,"Source Verified",credit_card,IN,10.14,10-20,687.0,44.70,0,"Fully Paid",0,0,Low
+2015,15000.00,36,9.80,482.61,B,B3,10.0,RENT,60000.00,40-70k,"Not Verified",credit_card,OH,25.56,20-30,722.0,25.50,0,"Fully Paid",0,1,Low
+2015,3500.00,36,13.99,119.61,C,C4,10.0,RENT,105000.00,100-150k,Verified,other,CA,17.65,10-20,667.0,78.90,0,"Fully Paid",0,3,Medium
+2015,20000.00,36,9.17,637.58,B,B2,2.0,RENT,130000.00,100-150k,"Source Verified",debt_consolidation,NY,12.77,10-20,717.0,36.50,0,"Fully Paid",0,0,Low
+2015,35000.00,60,18.49,898.13,D,D5,9.0,MORTGAGE,132500.00,100-150k,"Source Verified",debt_consolidation,TX,14.48,10-20,672.0,83.90,0,"Fully Paid",0,3,Medium
+2015,2000.00,36,11.99,66.42,C,C1,10.0,MORTGAGE,180000.00,150k+,"Not Verified",other,IL,12.66,10-20,667.0,75.80,0,"Fully Paid",0,3,Medium
+2015,12000.00,36,9.80,386.09,B,B3,2.0,RENT,39500.00,<40k,Verified,credit_card,TX,25.43,20-30,727.0,65.70,0,"Fully Paid",0,2,Medium
+2015,8000.00,36,6.99,246.99,A,A3,1.0,MORTGAGE,80000.00,70-100k,"Not Verified",credit_card,PA,18.92,10-20,742.0,36.20,0,"Fully Paid",0,0,Low
+2015,10000.00,36,9.80,321.74,B,B3,10.0,MORTGAGE,92000.00,70-100k,"Source Verified",debt_consolidation,WA,10.55,10-20,682.0,54.60,1,"Charged Off",1,1,Low
+2015,35000.00,36,13.99,1196.05,C,C4,10.0,RENT,100000.00,70-100k,"Source Verified",debt_consolidation,CA,19.43,10-20,667.0,80.60,6,"Fully Paid",0,4,High
+2015,25600.00,60,7.91,517.98,A,A5,3.0,OWN,150000.00,100-150k,"Not Verified",debt_consolidation,TX,10.88,10-20,742.0,31.90,0,"Fully Paid",0,0,Low
+2015,4325.00,36,11.99,143.64,C,C1,10.0,OWN,90000.00,70-100k,"Not Verified",major_purchase,VA,16.96,10-20,732.0,37.80,1,"Fully Paid",0,2,Medium
+2015,6000.00,36,6.99,185.24,A,A3,10.0,OWN,48000.00,40-70k,"Not Verified",credit_card,FL,33.78,30-40,762.0,26.60,0,"Fully Paid",0,1,Low
+2015,18200.00,60,15.77,440.37,D,D1,8.0,RENT,65000.00,40-70k,"Not Verified",credit_card,GA,29.28,20-30,662.0,59.80,0,"Charged Off",1,3,Medium
+2015,10000.00,36,6.99,308.73,A,A3,3.0,RENT,54000.00,40-70k,"Not Verified",credit_card,MN,19.38,10-20,702.0,65.30,0,"Fully Paid",0,1,Low
+2015,30000.00,60,13.44,689.37,C,C3,5.0,MORTGAGE,81000.00,70-100k,"Source Verified",debt_consolidation,MD,12.03,10-20,727.0,52.50,3,"Fully Paid",0,2,Medium
+2015,13200.00,36,5.32,397.52,A,A1,2.0,MORTGAGE,150000.00,100-150k,"Not Verified",home_improvement,TX,15.45,10-20,742.0,27.70,0,"Fully Paid",0,0,Low
+2015,10000.00,36,6.99,308.73,A,A3,5.0,RENT,220000.00,150k+,"Not Verified",debt_consolidation,IL,4.76,0-10,712.0,47.60,0,"Fully Paid",0,0,Low
+2015,3000.00,36,11.48,98.90,B,B5,5.0,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,TX,22.82,20-30,667.0,56.40,1,"Fully Paid",0,2,Medium
+2015,20000.00,36,9.80,643.47,B,B3,10.0,OWN,96000.00,70-100k,"Not Verified",debt_consolidation,FL,19.04,10-20,767.0,37.80,0,"Fully Paid",0,0,Low
+2015,13875.00,60,11.99,308.58,C,C1,10.0,MORTGAGE,32500.00,<40k,"Source Verified",credit_card,LA,23.53,20-30,712.0,81.40,0,"Fully Paid",0,2,Medium
+2015,18000.00,36,6.49,551.61,A,A2,10.0,MORTGAGE,76000.00,70-100k,Verified,debt_consolidation,TX,14.40,10-20,757.0,26.90,1,"Fully Paid",0,1,Low
+2015,15225.00,36,8.49,480.55,B,B1,3.0,OWN,40000.00,<40k,"Not Verified",debt_consolidation,AL,21.21,20-30,687.0,31.00,0,"Charged Off",1,0,Low
+2015,16000.00,60,11.48,351.73,B,B5,6.0,RENT,65000.00,40-70k,"Not Verified",debt_consolidation,FL,21.16,20-30,707.0,53.90,0,"Charged Off",1,0,Low
+2015,21000.00,60,9.80,444.13,B,B3,7.0,RENT,125000.00,100-150k,"Not Verified",other,CA,6.20,0-10,752.0,3.20,0,"Charged Off",1,0,Low
+2015,13000.00,60,16.59,320.23,D,D2,0.0,RENT,40000.00,<40k,Verified,debt_consolidation,HI,16.74,10-20,662.0,100.60,0,"Charged Off",1,3,Medium
+2015,20000.00,36,7.91,625.90,A,A5,5.0,OWN,120000.00,100-150k,"Not Verified",major_purchase,CA,4.99,0-10,707.0,2.50,3,"Fully Paid",0,1,Low
+2015,31075.00,36,7.49,966.49,A,A4,10.0,RENT,70000.00,40-70k,"Source Verified",credit_card,GA,17.18,10-20,727.0,48.60,0,"Fully Paid",0,0,Low
+2015,18000.00,36,6.99,555.71,A,A3,10.0,OWN,120000.00,100-150k,"Not Verified",credit_card,CO,14.88,10-20,712.0,63.50,1,"Fully Paid",0,2,Medium
+2015,5000.00,36,9.17,159.40,B,B2,NULL,MORTGAGE,74967.00,70-100k,Verified,other,WY,33.39,30-40,687.0,58.50,0,"Fully Paid",0,1,Low
+2015,4675.00,36,17.27,167.31,D,D3,0.0,MORTGAGE,13000.00,<40k,"Not Verified",credit_card,MI,34.07,30-40,677.0,44.10,1,"Fully Paid",0,4,High
+2015,6000.00,36,9.80,193.05,B,B3,4.0,MORTGAGE,85140.00,70-100k,"Not Verified",debt_consolidation,CA,14.42,10-20,712.0,57.50,0,"Fully Paid",0,0,Low
+2015,12000.00,60,12.88,272.31,C,C2,10.0,MORTGAGE,90000.00,70-100k,"Not Verified",debt_consolidation,CA,12.62,10-20,662.0,30.60,0,"Fully Paid",0,2,Medium
+2015,13000.00,60,13.99,302.42,C,C4,10.0,RENT,115000.00,100-150k,"Not Verified",home_improvement,AZ,9.90,0-10,702.0,45.20,0,"Fully Paid",0,1,Low
+2015,1800.00,36,11.48,59.34,B,B5,10.0,RENT,50000.00,40-70k,"Not Verified",other,NY,20.38,20-30,662.0,95.70,0,"Fully Paid",0,2,Medium
+2015,4475.00,36,16.59,158.64,D,D2,10.0,RENT,114000.00,100-150k,"Not Verified",credit_card,TN,8.36,0-10,672.0,44.00,4,"Fully Paid",0,3,Medium
+2015,14400.00,36,6.49,441.29,A,A2,8.0,MORTGAGE,70000.00,40-70k,"Not Verified",debt_consolidation,NC,16.32,10-20,697.0,74.80,0,"Fully Paid",0,1,Low
+2015,5875.00,36,7.91,183.86,A,A5,5.0,RENT,70000.00,40-70k,"Not Verified",debt_consolidation,CA,9.53,0-10,672.0,45.10,0,"Fully Paid",0,1,Low
+2015,20000.00,36,17.97,722.75,D,D4,7.0,MORTGAGE,180000.00,150k+,"Not Verified",debt_consolidation,TX,25.10,20-30,662.0,92.10,0,"Fully Paid",0,4,High
+2015,10000.00,36,6.99,308.73,A,A3,5.0,MORTGAGE,115000.00,100-150k,"Not Verified",debt_consolidation,RI,23.26,20-30,717.0,72.90,0,"Fully Paid",0,1,Low
+2015,34100.00,60,12.88,773.79,C,C2,8.0,MORTGAGE,92892.00,70-100k,Verified,debt_consolidation,GA,29.14,20-30,737.0,65.20,0,"Fully Paid",0,3,Medium
+2015,24000.00,36,11.48,791.20,B,B5,3.0,RENT,56457.00,40-70k,Verified,credit_card,MA,12.37,10-20,682.0,86.50,0,"Fully Paid",0,1,Low
+2015,5200.00,36,10.78,169.71,B,B4,7.0,MORTGAGE,160000.00,150k+,"Not Verified",debt_consolidation,TX,8.00,0-10,662.0,39.70,1,"Fully Paid",0,2,Medium
+2015,16800.00,36,11.99,557.93,C,C1,0.0,RENT,50000.00,40-70k,"Source Verified",debt_consolidation,CO,5.76,0-10,677.0,40.70,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,11.99,332.10,C,C1,7.0,RENT,40000.00,<40k,"Not Verified",debt_consolidation,NJ,10.95,10-20,667.0,27.20,0,"Fully Paid",0,2,Medium
+2015,22000.00,60,17.97,558.30,D,D4,10.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,MI,22.34,20-30,667.0,74.30,1,"Fully Paid",0,4,High
+2015,28000.00,36,5.32,843.22,A,A1,10.0,MORTGAGE,144000.00,100-150k,Verified,debt_consolidation,IL,29.88,20-30,717.0,69.00,0,"Fully Paid",0,2,Medium
+2015,7200.00,36,6.49,220.65,A,A2,10.0,MORTGAGE,60000.00,40-70k,"Not Verified",credit_card,TN,20.68,20-30,727.0,67.50,0,"Fully Paid",0,1,Low
+2015,18000.00,36,11.99,597.78,C,C1,9.0,RENT,41000.00,40-70k,"Not Verified",debt_consolidation,CA,38.35,30-40,692.0,61.80,0,"Fully Paid",0,3,Medium
+2015,8400.00,36,7.49,261.26,A,A4,1.0,OWN,30000.00,<40k,"Not Verified",debt_consolidation,OK,29.20,20-30,732.0,46.00,0,"Fully Paid",0,1,Low
+2015,5000.00,36,14.85,172.96,C,C5,2.0,RENT,67000.00,40-70k,"Source Verified",credit_card,PA,31.08,30-40,672.0,57.60,0,"Fully Paid",0,3,Medium
+2015,5000.00,36,9.80,160.87,B,B3,10.0,RENT,55000.00,40-70k,"Not Verified",debt_consolidation,CA,10.93,10-20,667.0,58.00,0,"Charged Off",1,1,Low
+2015,2400.00,36,11.48,79.12,B,B5,5.0,MORTGAGE,60000.00,40-70k,Verified,debt_consolidation,NC,24.14,20-30,672.0,62.60,0,"Charged Off",1,2,Medium
+2015,15000.00,36,5.32,451.73,A,A1,9.0,OWN,60000.00,40-70k,"Not Verified",debt_consolidation,TX,21.48,20-30,792.0,15.70,0,"Fully Paid",0,0,Low
+2015,6075.00,36,9.17,193.67,B,B2,9.0,MORTGAGE,64400.00,40-70k,Verified,debt_consolidation,NJ,27.37,20-30,732.0,17.70,0,"Fully Paid",0,1,Low
+2015,20000.00,36,10.78,652.70,B,B4,2.0,RENT,55000.00,40-70k,Verified,debt_consolidation,IL,22.58,20-30,672.0,62.90,0,"Fully Paid",0,2,Medium
+2015,6025.00,36,14.85,208.42,C,C5,10.0,RENT,110000.00,100-150k,Verified,debt_consolidation,MA,21.32,20-30,667.0,38.40,1,"Fully Paid",0,3,Medium
+2015,8400.00,36,9.17,267.79,B,B2,2.0,MORTGAGE,70000.00,40-70k,"Source Verified",debt_consolidation,GA,12.96,10-20,692.0,60.50,0,"Fully Paid",0,1,Low
+2015,15000.00,60,12.88,340.38,C,C2,2.0,RENT,90000.00,70-100k,"Not Verified",debt_consolidation,CA,21.17,20-30,712.0,35.00,0,"Fully Paid",0,1,Low
+2015,12000.00,36,15.77,420.53,D,D1,0.0,MORTGAGE,143000.00,100-150k,"Source Verified",debt_consolidation,CA,3.61,0-10,697.0,30.20,1,"Fully Paid",0,2,Medium
+2015,28800.00,36,12.88,968.73,C,C2,8.0,MORTGAGE,60000.00,40-70k,"Not Verified",home_improvement,VA,6.68,0-10,702.0,48.00,0,"Fully Paid",0,1,Low
+2015,5000.00,36,5.32,150.58,A,A1,10.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,CA,19.22,10-20,732.0,16.90,0,"Fully Paid",0,0,Low
+2015,5000.00,36,12.88,168.19,C,C2,7.0,MORTGAGE,60000.00,40-70k,"Not Verified",home_improvement,VA,30.24,30-40,687.0,44.90,2,"Fully Paid",0,3,Medium
+2015,31500.00,60,11.99,700.55,C,C1,10.0,MORTGAGE,120000.00,100-150k,"Source Verified",debt_consolidation,CA,10.55,10-20,757.0,25.50,0,"Fully Paid",0,1,Low
+2015,24000.00,60,18.49,615.86,D,D5,10.0,RENT,165000.00,150k+,"Source Verified",debt_consolidation,CA,13.05,10-20,662.0,79.10,1,"Fully Paid",0,4,High
+2015,20000.00,60,12.88,453.84,C,C2,0.0,MORTGAGE,110000.00,100-150k,Verified,debt_consolidation,TX,23.89,20-30,672.0,57.00,0,"Charged Off",1,2,Medium
+2015,24000.00,60,10.78,519.19,B,B4,2.0,MORTGAGE,110000.00,100-150k,Verified,debt_consolidation,MI,20.82,20-30,737.0,34.60,0,"Fully Paid",0,0,Low
+2015,21850.00,60,17.27,546.21,D,D3,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",debt_consolidation,NY,12.74,10-20,662.0,97.20,2,"Fully Paid",0,4,High
+2015,9500.00,36,6.49,291.13,A,A2,10.0,MORTGAGE,126500.00,100-150k,"Not Verified",home_improvement,AL,8.67,0-10,682.0,18.80,1,"Fully Paid",0,1,Low
+2015,20000.00,36,8.49,631.26,B,B1,10.0,MORTGAGE,98000.00,70-100k,"Not Verified",debt_consolidation,MN,16.70,10-20,677.0,71.80,1,"Fully Paid",0,3,Medium
+2015,20000.00,60,16.59,492.66,D,D2,10.0,MORTGAGE,135000.00,100-150k,"Source Verified",home_improvement,TX,26.92,20-30,687.0,78.00,0,"Charged Off",1,3,Medium
+2015,20000.00,60,12.88,453.84,C,C2,0.0,RENT,65000.00,40-70k,"Not Verified",credit_card,MA,16.93,10-20,737.0,24.10,0,"Fully Paid",0,1,Low
+2015,12000.00,36,6.99,370.48,A,A3,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",credit_card,VA,20.12,20-30,792.0,28.90,0,"Fully Paid",0,0,Low
+2015,10000.00,36,12.88,336.37,C,C2,10.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,AL,14.73,10-20,672.0,48.30,0,"Fully Paid",0,2,Medium
+2015,12000.00,60,9.80,253.79,B,B3,10.0,MORTGAGE,36500.00,<40k,"Not Verified",debt_consolidation,SC,18.91,10-20,807.0,26.50,0,"Fully Paid",0,0,Low
+2015,12000.00,60,7.91,242.81,A,A5,8.0,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,GA,6.40,0-10,752.0,59.80,0,"Fully Paid",0,0,Low
+2015,6425.00,36,15.77,225.16,D,D1,1.0,RENT,41000.00,40-70k,"Not Verified",debt_consolidation,NJ,2.87,0-10,672.0,7.00,1,"Fully Paid",0,3,Medium
+2015,12700.00,36,17.97,458.95,D,D4,3.0,RENT,32760.00,<40k,"Not Verified",debt_consolidation,PA,34.32,30-40,677.0,38.10,0,"Fully Paid",0,3,Medium
+2015,35000.00,36,13.99,1196.05,C,C4,10.0,OWN,121000.00,100-150k,"Source Verified",credit_card,NY,9.23,0-10,682.0,34.80,0,"Fully Paid",0,1,Low
+2015,15000.00,36,13.99,512.60,C,C4,2.0,OWN,48000.00,40-70k,"Source Verified",credit_card,NV,31.29,30-40,672.0,41.70,0,"Charged Off",1,3,Medium
+2015,20550.00,60,16.59,506.21,D,D2,10.0,RENT,60000.00,40-70k,"Not Verified",debt_consolidation,NV,26.38,20-30,717.0,39.70,0,"Fully Paid",0,2,Medium
+2015,25000.00,36,6.99,771.82,A,A3,10.0,MORTGAGE,127000.00,100-150k,"Source Verified",home_improvement,TX,25.48,20-30,727.0,39.10,1,"Fully Paid",0,2,Medium
+2015,14000.00,60,19.48,366.88,E,E2,10.0,RENT,115000.00,100-150k,"Source Verified",debt_consolidation,CA,13.36,10-20,662.0,48.20,0,"Fully Paid",0,3,Medium
+2015,16925.00,60,21.48,462.46,E,E5,10.0,RENT,47000.00,40-70k,Verified,major_purchase,MN,22.09,20-30,682.0,42.00,0,"Charged Off",1,2,Medium
+2015,4700.00,36,13.44,159.36,C,C3,3.0,RENT,22000.00,<40k,Verified,debt_consolidation,FL,17.64,10-20,707.0,26.70,0,"Fully Paid",0,1,Low
+2015,5000.00,36,8.49,157.82,B,B1,NULL,OWN,25000.00,<40k,"Not Verified",debt_consolidation,KY,13.63,10-20,677.0,20.10,0,"Fully Paid",0,1,Low
+2015,12000.00,36,14.85,415.11,C,C5,2.0,MORTGAGE,92500.00,70-100k,"Source Verified",debt_consolidation,GA,17.66,10-20,672.0,2.40,1,"Fully Paid",0,3,Medium
+2015,12000.00,36,9.80,386.09,B,B3,10.0,RENT,55000.00,40-70k,"Source Verified",debt_consolidation,MD,12.61,10-20,662.0,63.20,1,"Fully Paid",0,3,Medium
+2015,15000.00,36,6.99,463.09,A,A3,1.0,MORTGAGE,117000.00,100-150k,"Source Verified",debt_consolidation,WA,4.66,0-10,702.0,20.40,2,"Fully Paid",0,1,Low
+2015,4900.00,36,13.44,166.15,C,C3,2.0,MORTGAGE,123000.00,100-150k,"Not Verified",debt_consolidation,FL,25.60,20-30,687.0,64.80,0,"Fully Paid",0,3,Medium
+2015,18000.00,36,7.49,559.83,A,A4,0.0,MORTGAGE,70000.00,40-70k,"Source Verified",credit_card,MO,16.82,10-20,692.0,87.20,1,"Fully Paid",0,2,Medium
+2015,18000.00,60,14.85,426.81,C,C5,5.0,RENT,48000.00,40-70k,"Source Verified",debt_consolidation,CO,19.76,10-20,662.0,30.90,5,"Charged Off",1,3,Medium
+2015,25000.00,36,17.27,894.69,D,D3,10.0,MORTGAGE,120000.00,100-150k,"Not Verified",debt_consolidation,AL,21.33,20-30,662.0,74.20,2,"Charged Off",1,4,High
+2015,15000.00,36,12.88,504.55,C,C2,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,MI,13.92,10-20,667.0,40.10,0,"Fully Paid",0,2,Medium
+2015,3600.00,36,11.48,118.68,B,B5,1.0,MORTGAGE,97000.00,70-100k,"Source Verified",car,IL,18.93,10-20,662.0,59.70,1,"Fully Paid",0,2,Medium
+2015,33000.00,36,8.49,1041.58,B,B1,5.0,MORTGAGE,92250.00,70-100k,Verified,other,VA,20.68,20-30,737.0,36.60,0,"Fully Paid",0,0,Low
+2015,14950.00,60,18.99,387.73,E,E1,10.0,MORTGAGE,68000.00,40-70k,Verified,debt_consolidation,WI,31.36,30-40,687.0,57.00,1,"Fully Paid",0,4,High
+2015,15000.00,36,12.88,504.55,C,C2,10.0,MORTGAGE,154000.00,150k+,"Not Verified",debt_consolidation,NJ,35.77,30-40,732.0,47.00,1,"Fully Paid",0,3,Medium
+2015,7000.00,36,16.59,248.15,D,D2,2.0,MORTGAGE,30100.00,<40k,Verified,debt_consolidation,OH,25.68,20-30,682.0,64.80,3,"Fully Paid",0,4,High
+2015,35000.00,36,12.88,1177.27,C,C2,4.0,RENT,98000.00,70-100k,"Source Verified",debt_consolidation,MO,18.93,10-20,692.0,40.40,0,"Fully Paid",0,1,Low
+2015,8000.00,36,8.49,252.51,B,B1,NULL,MORTGAGE,58000.00,40-70k,"Not Verified",credit_card,CA,5.90,0-10,732.0,30.10,0,"Fully Paid",0,0,Low
+2015,20000.00,36,11.99,664.20,C,C1,8.0,MORTGAGE,40000.00,<40k,"Not Verified",credit_card,NY,22.84,20-30,712.0,22.60,0,"Charged Off",1,1,Low
+2015,14375.00,60,19.89,379.98,E,E3,0.0,MORTGAGE,80000.00,70-100k,"Source Verified",debt_consolidation,TX,37.32,30-40,697.0,62.10,0,"Fully Paid",0,4,High
+2015,21000.00,36,9.17,669.46,B,B2,0.0,MORTGAGE,85000.00,70-100k,"Not Verified",debt_consolidation,MA,10.51,10-20,707.0,41.60,0,"Fully Paid",0,0,Low
+2015,3700.00,36,12.88,124.46,C,C2,10.0,OWN,65000.00,40-70k,"Source Verified",debt_consolidation,VA,20.81,20-30,702.0,8.10,1,"Fully Paid",0,2,Medium
+2015,8400.00,36,9.17,267.79,B,B2,10.0,RENT,85000.00,70-100k,"Not Verified",credit_card,NH,26.77,20-30,662.0,45.90,1,"Charged Off",1,3,Medium
+2015,7200.00,36,11.48,237.36,B,B5,1.0,RENT,22000.00,<40k,"Not Verified",debt_consolidation,TX,23.57,20-30,752.0,8.60,0,"Fully Paid",0,0,Low
+2015,16800.00,36,8.49,530.26,B,B1,8.0,MORTGAGE,85400.00,70-100k,"Not Verified",debt_consolidation,PA,17.27,10-20,707.0,43.50,0,"Fully Paid",0,0,Low
+2015,9000.00,36,5.32,271.04,A,A1,7.0,MORTGAGE,150000.00,100-150k,"Not Verified",major_purchase,HI,0.63,0-10,797.0,7.00,0,"Fully Paid",0,0,Low
+2015,6000.00,36,13.99,205.04,C,C4,6.0,MORTGAGE,43700.00,40-70k,Verified,home_improvement,FL,31.87,30-40,662.0,10.30,1,"Fully Paid",0,4,High
+2015,34000.00,36,10.78,1109.58,B,B4,7.0,RENT,76497.00,70-100k,Verified,debt_consolidation,NV,13.32,10-20,707.0,96.90,0,"Fully Paid",0,1,Low
+2015,16000.00,36,12.88,538.18,C,C2,10.0,MORTGAGE,91000.00,70-100k,"Source Verified",debt_consolidation,NJ,11.78,10-20,667.0,40.70,3,"Charged Off",1,3,Medium
+2015,11200.00,36,8.49,353.51,B,B1,10.0,MORTGAGE,70000.00,40-70k,"Not Verified",debt_consolidation,MA,15.88,10-20,687.0,40.80,1,"Fully Paid",0,1,Low
+2015,6000.00,36,7.91,187.77,A,A5,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,KY,19.42,10-20,787.0,24.00,0,"Fully Paid",0,0,Low
+2015,9100.00,36,6.49,278.87,A,A2,4.0,RENT,84000.00,70-100k,"Not Verified",credit_card,OH,15.57,10-20,732.0,21.70,0,"Fully Paid",0,0,Low
+2015,10000.00,36,6.99,308.73,A,A3,10.0,MORTGAGE,60000.00,40-70k,"Not Verified",other,TN,29.15,20-30,712.0,32.70,0,"Fully Paid",0,1,Low
+2015,30000.00,60,27.49,924.87,G,G2,1.0,MORTGAGE,115000.00,100-150k,Verified,other,CO,17.73,10-20,677.0,58.70,0,"Charged Off",1,3,Medium
+2015,8450.00,36,11.99,280.63,C,C1,10.0,RENT,37380.00,<40k,"Not Verified",debt_consolidation,NC,15.09,10-20,672.0,37.00,0,"Fully Paid",0,2,Medium
+2015,8775.00,36,22.45,337.17,F,F1,10.0,RENT,75000.00,70-100k,"Source Verified",credit_card,GA,20.37,20-30,662.0,33.40,0,"Fully Paid",0,3,Medium
+2015,6000.00,36,5.32,180.69,A,A1,5.0,MORTGAGE,72000.00,70-100k,"Source Verified",debt_consolidation,TX,17.08,10-20,692.0,87.80,1,"Fully Paid",0,2,Medium
+2015,10000.00,36,5.32,301.15,A,A1,10.0,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,WY,5.17,0-10,772.0,20.40,0,"Fully Paid",0,0,Low
+2015,10000.00,36,15.77,350.44,D,D1,4.0,RENT,128000.00,100-150k,Verified,debt_consolidation,CA,36.23,30-40,687.0,67.40,1,"Charged Off",1,4,High
+2015,7200.00,36,17.27,257.67,D,D3,3.0,RENT,22000.00,<40k,Verified,debt_consolidation,MD,38.63,30-40,702.0,60.90,0,"Fully Paid",0,3,Medium
+2015,20000.00,60,14.85,474.23,C,C5,5.0,OWN,75000.00,70-100k,"Not Verified",debt_consolidation,CA,18.76,10-20,707.0,89.00,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,9.17,637.58,B,B2,2.0,RENT,95750.00,70-100k,"Source Verified",debt_consolidation,FL,19.14,10-20,687.0,27.90,1,"Charged Off",1,1,Low
+2015,5000.00,36,5.32,150.58,A,A1,8.0,MORTGAGE,130000.00,100-150k,"Not Verified",debt_consolidation,CA,10.44,10-20,722.0,25.10,0,"Fully Paid",0,0,Low
+2015,15000.00,60,9.80,317.24,B,B3,0.0,MORTGAGE,35179.00,<40k,"Not Verified",debt_consolidation,CO,23.47,20-30,707.0,45.40,0,"Charged Off",1,0,Low
+2015,23950.00,36,17.97,865.49,D,D4,3.0,RENT,160000.00,150k+,Verified,credit_card,PA,18.41,10-20,677.0,59.00,0,"Charged Off",1,2,Medium
+2015,15000.00,36,10.78,489.52,B,B4,10.0,MORTGAGE,160000.00,150k+,"Not Verified",debt_consolidation,FL,24.79,20-30,672.0,78.80,0,"Fully Paid",0,2,Medium
+2015,2250.00,36,8.49,71.02,B,B1,0.0,MORTGAGE,60000.00,40-70k,"Source Verified",credit_card,IN,16.88,10-20,692.0,59.50,0,"Fully Paid",0,0,Low
+2015,14000.00,36,13.44,474.69,C,C3,1.0,MORTGAGE,40000.00,<40k,"Not Verified",debt_consolidation,LA,37.39,30-40,672.0,63.80,0,"Fully Paid",0,4,High
+2015,14000.00,36,12.88,470.91,C,C2,2.0,RENT,80000.00,70-100k,"Source Verified",debt_consolidation,CA,5.04,0-10,662.0,37.80,0,"Charged Off",1,2,Medium
+2015,18000.00,36,7.49,559.83,A,A4,3.0,MORTGAGE,83000.00,70-100k,"Source Verified",debt_consolidation,VA,7.93,0-10,702.0,24.10,0,"Fully Paid",0,0,Low
+2015,12000.00,36,5.32,361.38,A,A1,3.0,MORTGAGE,72500.00,70-100k,"Not Verified",other,MD,2.71,0-10,747.0,26.90,0,"Fully Paid",0,0,Low
+2015,5600.00,36,10.78,182.76,B,B4,10.0,OWN,46000.00,40-70k,"Source Verified",credit_card,MD,13.18,10-20,662.0,84.40,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,16.59,1240.72,D,D2,1.0,RENT,83000.00,70-100k,Verified,debt_consolidation,CA,25.52,20-30,702.0,78.40,0,"Fully Paid",0,3,Medium
+2015,8000.00,36,12.88,269.09,C,C2,3.0,RENT,43500.00,40-70k,"Source Verified",other,GA,22.48,20-30,702.0,22.10,0,"Charged Off",1,1,Low
+2015,2400.00,36,13.44,81.38,C,C3,3.0,RENT,26000.00,<40k,"Source Verified",debt_consolidation,WA,16.39,10-20,672.0,35.30,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,17.27,1252.56,D,D3,0.0,MORTGAGE,98000.00,70-100k,"Source Verified",debt_consolidation,FL,19.74,10-20,687.0,47.80,0,"Fully Paid",0,1,Low
+2015,7000.00,36,12.88,235.46,C,C2,10.0,OWN,55000.00,40-70k,"Source Verified",other,AZ,37.22,30-40,737.0,0.00,0,"Fully Paid",0,2,Medium
+2015,8000.00,36,11.99,265.68,C,C1,2.0,OWN,23200.00,<40k,Verified,debt_consolidation,OR,33.78,30-40,677.0,40.80,0,"Fully Paid",0,3,Medium
+2015,6125.00,36,17.27,219.20,D,D3,4.0,RENT,70000.00,40-70k,"Source Verified",debt_consolidation,NY,17.36,10-20,692.0,27.10,0,"Fully Paid",0,1,Low
+2015,10400.00,36,13.44,352.63,C,C3,10.0,MORTGAGE,150000.00,100-150k,Verified,debt_consolidation,MO,18.51,10-20,672.0,66.70,1,"Charged Off",1,4,High
+2015,30000.00,36,7.91,938.85,A,A5,5.0,MORTGAGE,134000.00,100-150k,"Not Verified",debt_consolidation,AL,17.10,10-20,727.0,42.40,0,"Fully Paid",0,0,Low
+2015,4000.00,36,14.85,138.37,C,C5,5.0,MORTGAGE,30000.00,<40k,"Not Verified",debt_consolidation,IL,8.18,0-10,667.0,20.10,1,"Fully Paid",0,3,Medium
+2015,10000.00,36,10.78,326.35,B,B4,10.0,MORTGAGE,125000.00,100-150k,"Not Verified",debt_consolidation,FL,19.92,10-20,687.0,24.00,1,"Fully Paid",0,1,Low
+2015,16000.00,36,7.91,500.72,A,A5,0.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,KY,24.41,20-30,717.0,64.80,0,"Fully Paid",0,1,Low
+2015,24000.00,60,17.27,599.96,D,D3,10.0,MORTGAGE,67000.00,40-70k,"Not Verified",home_improvement,NY,29.07,20-30,692.0,62.90,4,"Charged Off",1,4,High
+2015,19225.00,60,26.99,586.93,G,G1,0.0,MORTGAGE,56600.00,40-70k,Verified,debt_consolidation,OH,18.21,10-20,712.0,44.70,0,"Charged Off",1,2,Medium
+2015,13000.00,60,12.88,295.00,C,C2,5.0,MORTGAGE,130000.00,100-150k,"Not Verified",home_improvement,OK,5.51,0-10,707.0,29.40,0,"Charged Off",1,1,Low
+2015,2000.00,36,6.49,61.29,A,A2,3.0,OWN,35037.00,<40k,"Not Verified",credit_card,MD,8.51,0-10,762.0,11.00,0,"Fully Paid",0,0,Low
+2015,19200.00,36,5.32,578.21,A,A1,0.0,MORTGAGE,50000.00,40-70k,"Source Verified",debt_consolidation,SC,19.24,10-20,692.0,82.20,0,"Fully Paid",0,1,Low
+2015,10000.00,60,13.44,229.79,C,C3,10.0,RENT,140000.00,100-150k,"Source Verified",debt_consolidation,CA,9.99,0-10,662.0,42.70,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,7.91,1095.33,A,A5,4.0,MORTGAGE,165000.00,150k+,"Source Verified",debt_consolidation,NY,18.89,10-20,712.0,50.00,0,"Fully Paid",0,0,Low
+2015,15000.00,36,12.88,504.55,C,C2,10.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,AL,36.40,30-40,677.0,62.00,0,"Fully Paid",0,4,High
+2015,35000.00,36,15.77,1226.53,D,D1,0.0,RENT,84468.00,70-100k,"Source Verified",debt_consolidation,NC,16.85,10-20,667.0,55.90,1,"Fully Paid",0,3,Medium
+2015,18000.00,36,8.49,568.14,B,B1,0.0,RENT,55000.00,40-70k,"Source Verified",credit_card,OH,27.17,20-30,672.0,71.70,0,"Fully Paid",0,3,Medium
+2015,8000.00,36,9.80,257.39,B,B3,6.0,RENT,40000.00,<40k,"Not Verified",debt_consolidation,CA,25.15,20-30,687.0,35.30,0,"Charged Off",1,1,Low
+2015,15000.00,60,12.88,340.38,C,C2,10.0,OWN,50000.00,40-70k,"Not Verified",debt_consolidation,AZ,30.08,30-40,807.0,9.50,0,"Fully Paid",0,2,Medium
+2015,17400.00,60,8.49,356.91,B,B1,10.0,MORTGAGE,175000.00,150k+,"Source Verified",debt_consolidation,OR,7.04,0-10,697.0,32.10,0,"Fully Paid",0,0,Low
+2015,35000.00,36,11.99,1162.34,C,C1,10.0,MORTGAGE,156000.00,150k+,Verified,credit_card,TN,14.98,10-20,712.0,88.50,0,"Fully Paid",0,2,Medium
+2015,12000.00,36,9.17,382.55,B,B2,3.0,RENT,100000.00,70-100k,"Source Verified",debt_consolidation,IL,12.13,10-20,747.0,6.10,0,"Fully Paid",0,0,Low
+2015,24000.00,36,9.17,765.10,B,B2,10.0,RENT,66000.00,40-70k,Verified,debt_consolidation,CA,23.98,20-30,667.0,61.70,1,"Fully Paid",0,3,Medium
+2015,8000.00,36,7.91,250.36,A,A5,5.0,OWN,66500.00,40-70k,Verified,home_improvement,TX,29.22,20-30,727.0,40.70,0,"Fully Paid",0,1,Low
+2015,16775.00,60,19.89,443.41,E,E3,1.0,MORTGAGE,74000.00,70-100k,Verified,debt_consolidation,GA,29.91,20-30,677.0,35.00,0,"Fully Paid",0,4,High
+2015,8000.00,36,8.49,252.51,B,B1,3.0,MORTGAGE,48000.00,40-70k,"Not Verified",credit_card,AZ,15.15,10-20,672.0,86.00,0,"Fully Paid",0,2,Medium
+2015,21000.00,36,10.78,685.33,B,B4,0.0,MORTGAGE,100000.00,70-100k,"Not Verified",debt_consolidation,CO,29.75,20-30,732.0,31.30,0,"Fully Paid",0,1,Low
+2015,10000.00,36,12.88,336.37,C,C2,0.0,MORTGAGE,113000.00,100-150k,"Source Verified",credit_card,OR,21.59,20-30,692.0,76.00,0,"Fully Paid",0,2,Medium
+2015,6000.00,36,7.91,187.77,A,A5,0.0,MORTGAGE,81120.00,70-100k,"Not Verified",debt_consolidation,NC,18.45,10-20,687.0,34.90,0,"Fully Paid",0,0,Low
+2015,6000.00,36,18.49,218.40,D,D5,NULL,MORTGAGE,54744.00,40-70k,Verified,debt_consolidation,NJ,23.96,20-30,667.0,34.30,1,"Fully Paid",0,3,Medium
+2015,8400.00,36,11.48,276.92,B,B5,0.0,RENT,80000.00,70-100k,"Source Verified",credit_card,NY,13.92,10-20,712.0,29.10,0,"Fully Paid",0,0,Low
+2015,10000.00,60,12.88,226.92,C,C2,10.0,RENT,33000.00,<40k,"Not Verified",credit_card,HI,23.23,20-30,667.0,48.80,1,"Fully Paid",0,3,Medium
+2015,6000.00,36,9.17,191.28,B,B2,2.0,OWN,72000.00,70-100k,"Not Verified",credit_card,CO,2.80,0-10,662.0,9.80,0,"Fully Paid",0,1,Low
+2015,20000.00,36,8.49,631.26,B,B1,10.0,RENT,70000.00,40-70k,"Source Verified",credit_card,NY,12.51,10-20,677.0,62.20,0,"Fully Paid",0,2,Medium
+2015,4600.00,36,11.99,152.77,C,C1,NULL,RENT,14688.00,<40k,Verified,credit_card,FL,14.79,10-20,672.0,31.50,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,17.27,715.75,D,D3,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",other,NC,33.75,30-40,707.0,58.10,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,9.17,478.19,B,B2,2.0,RENT,48112.00,40-70k,"Not Verified",credit_card,CA,31.62,30-40,687.0,58.00,1,"Fully Paid",0,2,Medium
+2015,12000.00,36,12.88,403.64,C,C2,4.0,MORTGAGE,40000.00,<40k,"Not Verified",debt_consolidation,AZ,23.98,20-30,692.0,48.10,0,"Fully Paid",0,1,Low
+2015,5000.00,36,10.78,163.18,B,B4,10.0,OWN,75000.00,70-100k,"Source Verified",debt_consolidation,NC,16.70,10-20,707.0,60.50,0,"Fully Paid",0,1,Low
+2015,6000.00,36,10.78,195.81,B,B4,0.0,MORTGAGE,57000.00,40-70k,"Source Verified",debt_consolidation,MD,18.34,10-20,692.0,21.10,2,"Fully Paid",0,1,Low
+2015,6000.00,36,5.32,180.69,A,A1,10.0,RENT,43000.00,40-70k,"Source Verified",debt_consolidation,NY,20.37,20-30,682.0,24.50,0,"Fully Paid",0,0,Low
+2015,28000.00,60,20.50,749.65,E,E4,10.0,RENT,84000.00,70-100k,"Source Verified",debt_consolidation,CA,37.26,30-40,702.0,48.50,0,"Charged Off",1,3,Medium
+2015,15000.00,36,5.32,451.73,A,A1,3.0,OWN,81000.00,70-100k,"Not Verified",credit_card,TX,16.95,10-20,802.0,9.40,0,"Fully Paid",0,0,Low
+2015,10500.00,36,8.49,331.42,B,B1,10.0,MORTGAGE,168400.00,150k+,Verified,other,TX,27.58,20-30,717.0,61.50,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,13.44,339.07,C,C3,3.0,MORTGAGE,34000.00,<40k,"Source Verified",debt_consolidation,MA,11.19,10-20,722.0,15.10,0,"Fully Paid",0,1,Low
+2015,3600.00,36,7.49,111.97,A,A4,0.0,MORTGAGE,62000.00,40-70k,"Not Verified",debt_consolidation,MI,22.42,20-30,722.0,19.60,0,"Fully Paid",0,0,Low
+2015,10000.00,36,11.48,329.67,B,B5,10.0,MORTGAGE,72000.00,70-100k,"Not Verified",other,VA,26.90,20-30,682.0,61.40,0,"Fully Paid",0,2,Medium
+2015,30000.00,36,8.49,946.89,B,B1,10.0,RENT,115000.00,100-150k,"Source Verified",credit_card,NV,13.54,10-20,692.0,46.20,1,"Fully Paid",0,1,Low
+2015,8000.00,36,11.99,265.68,C,C1,2.0,RENT,35000.00,<40k,"Source Verified",debt_consolidation,NY,10.12,10-20,722.0,26.90,0,"Fully Paid",0,1,Low
+2015,15000.00,60,16.59,369.49,D,D2,1.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,CT,10.17,10-20,662.0,54.40,0,"Charged Off",1,2,Medium
+2015,21600.00,36,8.49,681.76,B,B1,2.0,MORTGAGE,60000.00,40-70k,Verified,debt_consolidation,CO,17.42,10-20,687.0,67.70,0,"Fully Paid",0,1,Low
+2015,12000.00,36,9.17,382.55,B,B2,10.0,MORTGAGE,105000.00,100-150k,"Source Verified",credit_card,TN,16.86,10-20,672.0,34.10,1,"Fully Paid",0,2,Medium
+2015,28000.00,36,7.91,876.26,A,A5,8.0,MORTGAGE,102000.00,100-150k,"Source Verified",credit_card,IN,21.05,20-30,702.0,39.90,1,"Fully Paid",0,1,Low
+2015,6400.00,36,11.48,210.99,B,B5,10.0,RENT,33000.00,<40k,Verified,credit_card,FL,15.60,10-20,687.0,56.50,0,"Fully Paid",0,0,Low
+2015,15000.00,36,9.17,478.19,B,B2,10.0,RENT,48000.00,40-70k,"Source Verified",car,NY,12.20,10-20,682.0,60.10,0,"Fully Paid",0,1,Low
+2015,13000.00,36,7.91,406.84,A,A5,2.0,RENT,70000.00,40-70k,"Not Verified",credit_card,TX,26.32,20-30,712.0,40.60,0,"Fully Paid",0,1,Low
+2015,10000.00,36,13.44,339.07,C,C3,3.0,RENT,80000.00,70-100k,"Not Verified",credit_card,CT,15.56,10-20,672.0,57.00,1,"Fully Paid",0,3,Medium
+2015,24800.00,36,7.91,776.12,A,A5,10.0,MORTGAGE,95000.00,70-100k,"Source Verified",debt_consolidation,CO,14.76,10-20,767.0,34.30,0,"Fully Paid",0,0,Low
+2015,12000.00,60,10.78,259.60,B,B4,10.0,OWN,56000.00,40-70k,"Not Verified",other,AR,25.98,20-30,707.0,28.60,0,"Charged Off",1,1,Low
+2015,15000.00,36,11.99,498.15,C,C1,1.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,CA,17.56,10-20,667.0,88.30,0,"Fully Paid",0,3,Medium
+2015,24000.00,36,5.32,722.76,A,A1,3.0,MORTGAGE,120000.00,100-150k,"Not Verified",credit_card,NJ,15.82,10-20,727.0,35.40,0,"Fully Paid",0,0,Low
+2015,2000.00,36,13.44,67.82,C,C3,10.0,OWN,75600.00,70-100k,Verified,debt_consolidation,KY,10.17,10-20,687.0,92.70,1,"Fully Paid",0,3,Medium
+2015,22600.00,36,15.77,791.99,D,D1,3.0,MORTGAGE,53867.00,40-70k,"Not Verified",debt_consolidation,CA,25.31,20-30,677.0,53.50,0,"Fully Paid",0,3,Medium
+2015,13500.00,36,23.13,523.50,F,F2,10.0,RENT,50000.00,40-70k,"Source Verified",debt_consolidation,FL,25.30,20-30,662.0,23.00,0,"Charged Off",1,4,High
+2015,6000.00,36,10.78,195.81,B,B4,10.0,MORTGAGE,66000.00,40-70k,"Not Verified",car,MN,19.96,10-20,697.0,23.90,1,"Charged Off",1,1,Low
+2015,5000.00,36,6.49,153.23,A,A2,10.0,OWN,55000.00,40-70k,"Not Verified",debt_consolidation,NH,29.15,20-30,702.0,42.20,0,"Fully Paid",0,1,Low
+2015,20000.00,36,7.49,622.04,A,A4,10.0,MORTGAGE,100000.00,70-100k,"Not Verified",credit_card,MA,12.18,10-20,737.0,46.80,0,"Fully Paid",0,0,Low
+2015,12000.00,36,9.80,386.09,B,B3,10.0,MORTGAGE,103000.00,100-150k,"Source Verified",debt_consolidation,VA,18.54,10-20,682.0,74.90,1,"Fully Paid",0,2,Medium
+2015,32000.00,36,11.48,1054.93,B,B5,10.0,MORTGAGE,107000.00,100-150k,Verified,credit_card,VT,19.13,10-20,712.0,89.00,0,"Fully Paid",0,1,Low
+2015,15200.00,60,13.99,353.60,C,C4,10.0,OWN,69998.00,40-70k,Verified,debt_consolidation,MO,14.52,10-20,662.0,85.60,0,"Charged Off",1,3,Medium
+2015,12500.00,60,11.99,278.00,C,C1,0.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,NC,16.98,10-20,687.0,69.00,0,"Fully Paid",0,2,Medium
+2015,21000.00,36,10.78,685.33,B,B4,4.0,MORTGAGE,81000.00,70-100k,"Not Verified",debt_consolidation,IN,17.19,10-20,702.0,45.60,0,"Fully Paid",0,0,Low
+2015,16000.00,36,8.49,505.01,B,B1,3.0,RENT,35000.00,<40k,"Not Verified",credit_card,NE,24.49,20-30,707.0,50.90,0,"Fully Paid",0,0,Low
+2015,24650.00,36,11.48,812.63,B,B5,10.0,MORTGAGE,100000.00,70-100k,Verified,debt_consolidation,CA,22.64,20-30,727.0,56.00,0,"Fully Paid",0,0,Low
+2015,11000.00,36,7.91,344.25,A,A5,3.0,MORTGAGE,77000.00,70-100k,"Not Verified",debt_consolidation,OH,28.73,20-30,687.0,60.30,2,"Fully Paid",0,3,Medium
+2015,22400.00,60,14.85,531.14,C,C5,10.0,RENT,70000.00,40-70k,Verified,credit_card,RI,18.69,10-20,697.0,69.80,0,"Fully Paid",0,2,Medium
+2015,15125.00,60,18.49,388.12,D,D5,10.0,MORTGAGE,61000.00,40-70k,Verified,debt_consolidation,FL,25.38,20-30,682.0,47.00,0,"Charged Off",1,2,Medium
+2015,8000.00,36,7.91,250.36,A,A5,10.0,MORTGAGE,63800.00,40-70k,"Not Verified",debt_consolidation,TX,23.76,20-30,732.0,32.20,1,"Fully Paid",0,1,Low
+2015,8000.00,36,9.17,255.04,B,B2,2.0,RENT,52000.00,40-70k,"Source Verified",major_purchase,CA,11.86,10-20,667.0,26.20,1,"Fully Paid",0,2,Medium
+2015,11000.00,36,14.85,380.52,C,C5,2.0,RENT,42240.00,40-70k,"Source Verified",home_improvement,MA,19.18,10-20,687.0,26.10,1,"Fully Paid",0,2,Medium
+2015,28500.00,60,18.99,739.15,E,E1,0.0,MORTGAGE,70000.00,40-70k,"Source Verified",debt_consolidation,WA,29.37,20-30,692.0,77.00,0,"Fully Paid",0,4,High
+2015,25000.00,36,6.49,766.12,A,A2,5.0,OWN,120000.00,100-150k,"Not Verified",credit_card,TX,21.30,20-30,747.0,28.00,0,"Fully Paid",0,0,Low
+2015,7000.00,36,9.17,223.16,B,B2,5.0,RENT,70000.00,40-70k,"Not Verified",moving,CA,16.10,10-20,662.0,47.00,0,"Fully Paid",0,1,Low
+2015,12000.00,36,9.80,386.09,B,B3,0.0,MORTGAGE,100000.00,70-100k,"Source Verified",debt_consolidation,IL,12.07,10-20,667.0,65.40,0,"Fully Paid",0,2,Medium
+2015,5875.00,36,15.77,205.89,D,D1,10.0,RENT,56000.00,40-70k,Verified,debt_consolidation,IL,25.65,20-30,672.0,38.70,0,"Fully Paid",0,3,Medium
+2015,18000.00,60,18.49,461.90,D,D5,10.0,RENT,145000.00,100-150k,"Source Verified",debt_consolidation,CA,15.54,10-20,672.0,47.90,0,"Fully Paid",0,2,Medium
+2015,28000.00,36,7.91,876.26,A,A5,1.0,MORTGAGE,160000.00,150k+,"Not Verified",home_improvement,WA,23.69,20-30,712.0,75.20,0,"Fully Paid",0,1,Low
+2015,35000.00,60,9.80,740.21,B,B3,10.0,RENT,205000.00,150k+,"Source Verified",moving,CA,5.71,0-10,712.0,22.80,0,"Fully Paid",0,0,Low
+2015,31800.00,60,16.59,783.32,D,D2,0.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,AR,24.15,20-30,812.0,17.70,0,"Fully Paid",0,1,Low
+2015,25000.00,60,17.97,634.43,D,D4,10.0,MORTGAGE,105000.00,100-150k,"Not Verified",debt_consolidation,VA,22.57,20-30,682.0,31.30,0,"Fully Paid",0,1,Low
+2015,16000.00,36,17.27,572.60,D,D3,6.0,RENT,54000.00,40-70k,Verified,debt_consolidation,NY,20.73,20-30,717.0,27.80,0,"Fully Paid",0,1,Low
+2015,35000.00,60,16.59,862.15,D,D2,5.0,MORTGAGE,139000.00,100-150k,"Source Verified",credit_card,CA,14.95,10-20,672.0,77.80,0,"Fully Paid",0,3,Medium
+2015,18000.00,36,7.91,563.31,A,A5,1.0,OWN,60000.00,40-70k,"Not Verified",credit_card,FL,11.52,10-20,682.0,50.30,0,"Charged Off",1,0,Low
+2015,10000.00,36,7.49,311.02,A,A4,0.0,MORTGAGE,55500.00,40-70k,"Source Verified",debt_consolidation,PA,15.05,10-20,702.0,41.50,1,"Fully Paid",0,1,Low
+2015,8000.00,36,14.85,276.74,C,C5,2.0,RENT,53040.00,40-70k,Verified,credit_card,HI,20.54,20-30,662.0,63.00,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,5.32,451.73,A,A1,NULL,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,NJ,8.75,0-10,782.0,12.30,0,"Fully Paid",0,0,Low
+2015,20000.00,60,11.99,444.79,C,C1,4.0,MORTGAGE,155000.00,150k+,"Source Verified",house,NC,22.47,20-30,712.0,34.80,1,"Fully Paid",0,2,Medium
+2015,14000.00,60,19.89,370.06,E,E3,10.0,MORTGAGE,80000.00,70-100k,"Source Verified",small_business,TN,14.39,10-20,702.0,58.80,0,"Fully Paid",0,2,Medium
+2015,20500.00,36,8.49,647.04,B,B1,NULL,RENT,77700.00,70-100k,Verified,debt_consolidation,CA,18.56,10-20,687.0,39.00,0,"Fully Paid",0,0,Low
+2015,4700.00,36,13.99,160.62,C,C4,4.0,MORTGAGE,88000.00,70-100k,"Source Verified",debt_consolidation,VA,14.21,10-20,662.0,77.60,0,"Fully Paid",0,3,Medium
+2015,28000.00,60,9.17,583.55,B,B2,4.0,MORTGAGE,76008.00,70-100k,"Source Verified",debt_consolidation,CA,14.47,10-20,692.0,43.10,0,"Fully Paid",0,0,Low
+2015,12000.00,36,7.91,375.54,A,A5,10.0,MORTGAGE,71000.00,70-100k,"Not Verified",debt_consolidation,TN,24.86,20-30,717.0,38.30,1,"Fully Paid",0,1,Low
+2015,7200.00,36,7.91,225.33,A,A5,0.0,RENT,42500.00,40-70k,"Source Verified",credit_card,FL,11.07,10-20,672.0,47.10,5,"Fully Paid",0,2,Medium
+2015,11000.00,36,7.49,342.12,A,A4,NULL,OWN,33000.00,<40k,"Not Verified",debt_consolidation,DE,37.56,30-40,802.0,7.10,0,"Fully Paid",0,1,Low
+2015,11000.00,60,13.99,255.90,C,C4,5.0,MORTGAGE,52000.00,40-70k,"Not Verified",debt_consolidation,CA,5.70,0-10,662.0,56.80,0,"Charged Off",1,2,Medium
+2015,3500.00,36,9.80,112.61,B,B3,1.0,MORTGAGE,45000.00,40-70k,"Source Verified",car,WI,22.29,20-30,727.0,26.10,1,"Fully Paid",0,1,Low
+2015,23850.00,36,13.44,808.67,C,C3,3.0,OWN,111000.00,100-150k,"Source Verified",major_purchase,CA,13.58,10-20,662.0,53.30,0,"Fully Paid",0,2,Medium
+2015,3600.00,36,15.77,126.16,D,D1,3.0,RENT,70000.00,40-70k,"Source Verified",other,VT,14.33,10-20,687.0,52.00,1,"Fully Paid",0,2,Medium
+2015,16500.00,36,11.99,547.96,C,C1,10.0,MORTGAGE,76000.00,70-100k,"Source Verified",credit_card,OR,2.56,0-10,727.0,23.50,0,"Fully Paid",0,1,Low
+2015,8275.00,36,10.78,270.06,B,B4,NULL,MORTGAGE,55000.00,40-70k,Verified,credit_card,NJ,38.05,30-40,717.0,89.70,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,17.27,1252.56,D,D3,0.0,MORTGAGE,80000.00,70-100k,"Source Verified",home_improvement,CO,15.77,10-20,692.0,74.10,2,"Fully Paid",0,3,Medium
+2015,20000.00,36,5.32,602.30,A,A1,0.0,MORTGAGE,106000.00,100-150k,"Not Verified",debt_consolidation,MA,20.04,20-30,737.0,35.20,0,"Fully Paid",0,0,Low
+2015,22800.00,36,5.32,686.62,A,A1,6.0,MORTGAGE,76000.00,70-100k,"Not Verified",debt_consolidation,NY,21.96,20-30,737.0,37.30,0,"Fully Paid",0,0,Low
+2015,10000.00,36,8.49,315.63,B,B1,4.0,OWN,35000.00,<40k,"Not Verified",credit_card,MS,33.54,30-40,707.0,44.30,0,"Fully Paid",0,1,Low
+2015,19000.00,36,10.78,620.06,B,B4,10.0,MORTGAGE,155000.00,150k+,"Not Verified",debt_consolidation,NJ,18.42,10-20,667.0,75.20,0,"Fully Paid",0,2,Medium
+2015,6000.00,36,16.59,212.70,D,D2,2.0,RENT,40000.00,<40k,"Not Verified",debt_consolidation,OR,10.80,10-20,662.0,46.80,0,"Charged Off",1,2,Medium
+2015,35000.00,36,16.59,1240.72,D,D2,10.0,MORTGAGE,105000.00,100-150k,Verified,credit_card,PA,27.22,20-30,702.0,66.30,0,"Fully Paid",0,3,Medium
+2015,6000.00,36,13.99,205.04,C,C4,10.0,MORTGAGE,210000.00,150k+,"Source Verified",debt_consolidation,TX,12.55,10-20,667.0,88.80,0,"Fully Paid",0,3,Medium
+2015,16000.00,36,13.99,546.77,C,C4,0.0,RENT,52000.00,40-70k,"Source Verified",debt_consolidation,NJ,33.12,30-40,707.0,26.20,0,"Charged Off",1,2,Medium
+2015,5000.00,36,16.59,177.25,D,D2,NULL,RENT,19000.00,<40k,Verified,debt_consolidation,PA,14.28,10-20,667.0,80.80,0,"Fully Paid",0,3,Medium
+2015,3000.00,36,18.49,109.20,D,D5,1.0,RENT,54000.00,40-70k,"Not Verified",house,NY,32.18,30-40,682.0,33.20,1,"Charged Off",1,3,Medium
+2015,20000.00,36,14.85,691.84,C,C5,10.0,OWN,120000.00,100-150k,"Not Verified",other,NY,33.29,30-40,687.0,91.90,0,"Charged Off",1,3,Medium
+2015,24000.00,60,23.13,678.37,F,F2,6.0,MORTGAGE,43435.00,40-70k,Verified,debt_consolidation,TX,35.70,30-40,682.0,73.10,0,"Fully Paid",0,4,High
+2015,20000.00,36,7.49,622.04,A,A4,10.0,MORTGAGE,106000.00,100-150k,"Not Verified",debt_consolidation,TX,27.20,20-30,707.0,54.60,0,"Fully Paid",0,1,Low
+2015,8000.00,36,9.17,255.04,B,B2,0.0,RENT,65000.00,40-70k,Verified,major_purchase,OH,22.05,20-30,687.0,79.80,2,"Fully Paid",0,2,Medium
+2015,5000.00,36,12.88,168.19,C,C2,0.0,RENT,47000.00,40-70k,"Source Verified",debt_consolidation,TX,38.61,30-40,682.0,54.90,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,5.32,602.30,A,A1,10.0,MORTGAGE,135000.00,100-150k,"Not Verified",debt_consolidation,NY,15.90,10-20,707.0,44.40,0,"Fully Paid",0,0,Low
+2015,5000.00,36,13.44,169.54,C,C3,6.0,RENT,110000.00,100-150k,Verified,debt_consolidation,CA,24.66,20-30,672.0,74.50,0,"Fully Paid",0,3,Medium
+2015,12000.00,36,10.78,391.62,B,B4,5.0,RENT,29500.00,<40k,"Source Verified",debt_consolidation,CA,16.27,10-20,682.0,53.40,0,"Fully Paid",0,0,Low
+2015,19675.00,60,21.48,537.61,E,E5,0.0,MORTGAGE,86000.00,70-100k,"Source Verified",debt_consolidation,MD,8.09,0-10,662.0,39.20,1,"Fully Paid",0,4,High
+2015,24000.00,36,9.80,772.17,B,B3,3.0,OWN,125000.00,100-150k,"Not Verified",home_improvement,IL,2.96,0-10,702.0,14.50,0,"Charged Off",1,0,Low
+2015,12000.00,36,10.78,391.62,B,B4,2.0,MORTGAGE,85000.00,70-100k,"Source Verified",debt_consolidation,PA,24.06,20-30,682.0,46.30,0,"Fully Paid",0,0,Low
+2015,12000.00,36,5.32,361.38,A,A1,4.0,OWN,45000.00,40-70k,"Not Verified",debt_consolidation,CA,29.87,20-30,782.0,63.30,0,"Fully Paid",0,2,Medium
+2015,28000.00,36,7.91,876.26,A,A5,2.0,MORTGAGE,112000.00,100-150k,"Source Verified",credit_card,CO,11.95,10-20,717.0,50.00,0,"Fully Paid",0,0,Low
+2015,14000.00,36,10.78,456.89,B,B4,7.0,RENT,105000.00,100-150k,"Source Verified",credit_card,NY,26.66,20-30,692.0,88.30,0,"Fully Paid",0,2,Medium
+2015,9975.00,36,23.13,386.81,F,F2,9.0,OWN,31200.00,<40k,Verified,other,CA,21.14,20-30,687.0,35.60,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,5.32,301.15,A,A1,8.0,RENT,72000.00,70-100k,"Source Verified",debt_consolidation,OR,16.42,10-20,692.0,59.50,0,"Fully Paid",0,0,Low
+2015,3600.00,36,13.99,123.03,C,C4,5.0,MORTGAGE,34000.00,<40k,Verified,credit_card,NC,29.79,20-30,662.0,30.10,0,"Fully Paid",0,3,Medium
+2015,27850.00,36,24.24,1096.15,F,F3,10.0,MORTGAGE,55702.00,40-70k,Verified,debt_consolidation,MI,26.18,20-30,677.0,95.70,1,"Fully Paid",0,6,High
+2015,14000.00,36,9.80,450.43,B,B3,4.0,MORTGAGE,175000.00,150k+,"Source Verified",credit_card,LA,25.43,20-30,692.0,83.20,0,"Fully Paid",0,2,Medium
+2015,12475.00,36,5.32,375.69,A,A1,2.0,OWN,26000.00,<40k,"Not Verified",credit_card,CA,28.49,20-30,742.0,69.90,0,"Fully Paid",0,2,Medium
+2015,24000.00,60,13.44,551.50,C,C3,1.0,MORTGAGE,96000.00,70-100k,Verified,credit_card,MO,22.70,20-30,677.0,53.30,0,"Fully Paid",0,2,Medium
+2015,22400.00,60,14.85,531.14,C,C5,3.0,RENT,96000.00,70-100k,Verified,debt_consolidation,TX,20.45,20-30,677.0,85.10,1,"Fully Paid",0,4,High
+2015,26000.00,36,6.49,796.76,A,A2,6.0,MORTGAGE,124400.00,100-150k,"Not Verified",credit_card,AL,26.03,20-30,737.0,59.00,0,"Fully Paid",0,1,Low
+2015,25000.00,60,13.44,574.48,C,C3,NULL,OWN,50000.00,40-70k,"Not Verified",home_improvement,AL,6.39,0-10,777.0,12.20,0,"Fully Paid",0,1,Low
+2015,14000.00,36,9.80,450.43,B,B3,10.0,MORTGAGE,130000.00,100-150k,"Source Verified",credit_card,IL,11.99,10-20,677.0,85.10,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,6.49,306.45,A,A2,8.0,OWN,52600.00,40-70k,"Not Verified",debt_consolidation,NY,13.16,10-20,722.0,16.30,0,"Fully Paid",0,0,Low
+2015,11550.00,36,18.99,423.32,E,E1,NULL,MORTGAGE,28948.92,<40k,Verified,credit_card,WA,18.41,10-20,687.0,77.80,0,"Fully Paid",0,3,Medium
+2015,14000.00,36,6.99,432.22,A,A3,6.0,MORTGAGE,100200.00,100-150k,"Source Verified",credit_card,VA,19.34,10-20,742.0,69.00,0,"Fully Paid",0,1,Low
+2015,9000.00,36,7.91,281.66,A,A5,10.0,MORTGAGE,90000.00,70-100k,"Not Verified",credit_card,NJ,9.28,0-10,717.0,11.10,2,"Fully Paid",0,1,Low
+2015,8000.00,36,10.78,261.08,B,B4,3.0,RENT,38000.00,<40k,Verified,debt_consolidation,KS,25.36,20-30,662.0,63.60,0,"Fully Paid",0,3,Medium
+2015,11000.00,36,7.91,344.25,A,A5,2.0,MORTGAGE,60000.00,40-70k,"Not Verified",other,IL,28.36,20-30,712.0,47.20,0,"Fully Paid",0,1,Low
+2015,11200.00,36,5.32,337.29,A,A1,2.0,MORTGAGE,82500.00,70-100k,"Not Verified",credit_card,NC,14.79,10-20,827.0,6.00,0,"Fully Paid",0,0,Low
+2015,21000.00,60,13.44,482.56,C,C3,2.0,MORTGAGE,75000.00,70-100k,"Not Verified",debt_consolidation,MS,21.56,20-30,677.0,37.90,0,"Charged Off",1,2,Medium
+2015,35000.00,36,11.99,1162.34,C,C1,10.0,RENT,130000.00,100-150k,"Source Verified",debt_consolidation,NY,19.75,10-20,712.0,62.50,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,13.44,678.13,C,C3,3.0,MORTGAGE,64000.00,40-70k,Verified,credit_card,NY,23.85,20-30,697.0,73.40,0,"Fully Paid",0,2,Medium
+2015,24000.00,36,6.49,735.47,A,A2,10.0,MORTGAGE,105000.00,100-150k,"Source Verified",debt_consolidation,CA,17.15,10-20,692.0,87.40,0,"Fully Paid",0,1,Low
+2015,19800.00,36,11.99,657.55,C,C1,3.0,RENT,45000.00,40-70k,"Not Verified",debt_consolidation,FL,23.47,20-30,697.0,26.50,0,"Fully Paid",0,1,Low
+2015,30000.00,36,12.88,1009.09,C,C2,9.0,RENT,84000.00,70-100k,"Not Verified",debt_consolidation,TX,24.39,20-30,702.0,21.80,1,"Charged Off",1,2,Medium
+2015,28000.00,36,5.32,843.22,A,A1,3.0,MORTGAGE,205200.00,150k+,"Source Verified",credit_card,GA,21.60,20-30,682.0,54.00,0,"Fully Paid",0,0,Low
+2015,27300.00,60,17.97,692.80,D,D4,4.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,NM,17.02,10-20,677.0,72.70,1,"Fully Paid",0,4,High
+2015,24000.00,60,12.88,544.61,C,C2,10.0,RENT,73000.00,70-100k,"Not Verified",credit_card,IL,19.76,10-20,662.0,88.40,2,"Charged Off",1,4,High
+2015,1450.00,36,9.17,46.23,B,B2,2.0,MORTGAGE,35000.00,<40k,"Source Verified",home_improvement,VA,18.59,10-20,677.0,69.20,0,"Fully Paid",0,2,Medium
+2015,4000.00,36,9.80,128.70,B,B3,2.0,MORTGAGE,47500.00,40-70k,"Source Verified",debt_consolidation,NY,5.79,0-10,687.0,56.80,0,"Fully Paid",0,0,Low
+2015,1000.00,36,11.48,32.97,B,B5,10.0,RENT,86000.00,70-100k,"Not Verified",major_purchase,NM,20.64,20-30,662.0,80.30,0,"Fully Paid",0,2,Medium
+2015,24950.00,36,10.78,814.24,B,B4,5.0,MORTGAGE,65000.00,40-70k,"Not Verified",major_purchase,FL,15.95,10-20,792.0,21.90,0,"Fully Paid",0,0,Low
+2015,25000.00,36,5.32,752.87,A,A1,10.0,MORTGAGE,300000.00,150k+,"Not Verified",home_improvement,FL,9.14,0-10,752.0,33.50,0,"Fully Paid",0,0,Low
+2015,6000.00,36,7.91,187.77,A,A5,10.0,MORTGAGE,250000.00,150k+,"Source Verified",other,WA,16.17,10-20,682.0,82.30,1,"Fully Paid",0,2,Medium
+2015,21000.00,36,9.17,669.46,B,B2,0.0,MORTGAGE,110000.00,100-150k,"Not Verified",debt_consolidation,GA,22.50,20-30,702.0,46.10,1,"Charged Off",1,1,Low
+2015,2950.00,36,11.99,97.97,C,C1,NULL,MORTGAGE,22000.00,<40k,Verified,debt_consolidation,MI,16.58,10-20,667.0,45.00,0,"Fully Paid",0,2,Medium
+2015,33100.00,60,24.24,956.84,F,F3,10.0,MORTGAGE,72000.00,70-100k,"Source Verified",debt_consolidation,AL,23.77,20-30,687.0,64.30,0,"Charged Off",1,3,Medium
+2015,6000.00,36,17.27,214.73,D,D3,10.0,MORTGAGE,120000.00,100-150k,Verified,debt_consolidation,CO,23.03,20-30,662.0,76.40,0,"Fully Paid",0,3,Medium
+2015,10500.00,60,17.97,266.46,D,D4,1.0,RENT,28832.00,<40k,Verified,debt_consolidation,SC,23.62,20-30,692.0,41.80,1,"Charged Off",1,2,Medium
+2015,12000.00,36,11.99,398.52,C,C1,5.0,OWN,35000.00,<40k,"Not Verified",debt_consolidation,PA,20.82,20-30,752.0,40.00,0,"Fully Paid",0,1,Low
+2015,20000.00,36,6.99,617.46,A,A3,10.0,MORTGAGE,120000.00,100-150k,"Not Verified",credit_card,IL,16.80,10-20,687.0,61.10,0,"Fully Paid",0,1,Low
+2015,10000.00,36,19.48,369.00,E,E2,1.0,MORTGAGE,150000.00,100-150k,"Source Verified",other,NM,14.89,10-20,707.0,13.50,1,"Fully Paid",0,3,Medium
+2015,9525.00,36,13.99,325.50,C,C4,6.0,MORTGAGE,55000.00,40-70k,"Source Verified",credit_card,CA,30.96,30-40,692.0,76.90,0,"Charged Off",1,3,Medium
+2015,20000.00,36,5.32,602.30,A,A1,2.0,MORTGAGE,187000.00,150k+,"Not Verified",debt_consolidation,CA,14.68,10-20,767.0,25.90,0,"Fully Paid",0,0,Low
+2015,14450.00,36,11.48,476.37,B,B5,7.0,MORTGAGE,116300.00,100-150k,Verified,debt_consolidation,SC,2.86,0-10,727.0,26.00,0,"Fully Paid",0,0,Low
+2015,21600.00,36,6.99,666.85,A,A3,3.0,MORTGAGE,120000.00,100-150k,"Not Verified",debt_consolidation,TX,20.73,20-30,742.0,24.60,0,"Fully Paid",0,0,Low
+2015,12600.00,36,6.99,389.00,A,A3,1.0,RENT,73000.00,70-100k,"Not Verified",credit_card,NY,5.56,0-10,682.0,77.40,0,"Fully Paid",0,1,Low
+2015,14800.00,36,15.77,518.65,D,D1,7.0,RENT,48000.00,40-70k,Verified,debt_consolidation,WA,20.55,20-30,722.0,17.50,0,"Charged Off",1,1,Low
+2015,20000.00,36,13.44,678.13,C,C3,1.0,RENT,53000.00,40-70k,Verified,debt_consolidation,NJ,15.29,10-20,677.0,59.10,0,"Charged Off",1,2,Medium
+2015,9600.00,36,11.48,316.48,B,B5,10.0,RENT,110000.00,100-150k,"Not Verified",debt_consolidation,CA,13.83,10-20,667.0,75.40,0,"Fully Paid",0,2,Medium
+2015,11900.00,36,17.97,430.04,D,D4,3.0,MORTGAGE,34000.00,<40k,Verified,home_improvement,PA,32.83,30-40,677.0,35.00,0,"Fully Paid",0,3,Medium
+2015,20800.00,60,18.99,539.45,E,E1,0.0,RENT,60000.00,40-70k,"Source Verified",credit_card,VA,29.60,20-30,677.0,69.30,0,"Fully Paid",0,5,High
+2015,30000.00,36,10.78,979.04,B,B4,10.0,MORTGAGE,70000.00,40-70k,"Source Verified",credit_card,FL,22.99,20-30,672.0,73.90,0,"Charged Off",1,2,Medium
+2015,12000.00,36,9.80,386.09,B,B3,3.0,OWN,31200.00,<40k,Verified,credit_card,FL,30.04,30-40,687.0,56.50,0,"Fully Paid",0,1,Low
+2015,5000.00,36,11.48,164.84,B,B5,2.0,MORTGAGE,85000.00,70-100k,"Source Verified",home_improvement,NC,8.28,0-10,672.0,15.60,15,"Fully Paid",0,2,Medium
+2015,15000.00,60,17.97,380.66,D,D4,2.0,RENT,45500.00,40-70k,Verified,debt_consolidation,NJ,30.95,30-40,702.0,37.00,0,"Charged Off",1,2,Medium
+2015,18900.00,36,12.88,635.73,C,C2,5.0,RENT,45000.00,40-70k,"Source Verified",debt_consolidation,VA,30.45,30-40,662.0,69.30,0,"Fully Paid",0,4,High
+2015,5000.00,36,7.91,156.48,A,A5,10.0,MORTGAGE,67000.00,40-70k,"Source Verified",debt_consolidation,VA,36.53,30-40,702.0,60.30,0,"Fully Paid",0,2,Medium
+2015,19850.00,36,10.78,647.80,B,B4,7.0,RENT,85005.00,70-100k,"Source Verified",credit_card,NY,17.20,10-20,692.0,37.10,0,"Fully Paid",0,0,Low
+2015,8000.00,36,13.99,273.39,C,C4,2.0,MORTGAGE,80000.00,70-100k,"Not Verified",debt_consolidation,VA,19.74,10-20,682.0,36.60,0,"Fully Paid",0,1,Low
+2015,20000.00,60,16.59,492.66,D,D2,4.0,MORTGAGE,100000.00,70-100k,"Source Verified",debt_consolidation,MI,20.00,10-20,682.0,67.00,0,"Fully Paid",0,2,Medium
+2015,20000.00,60,13.99,465.27,C,C4,10.0,OWN,60000.00,40-70k,"Not Verified",debt_consolidation,NE,23.24,20-30,737.0,30.00,0,"Charged Off",1,1,Low
+2015,28000.00,60,22.45,780.52,F,F1,8.0,RENT,93000.00,70-100k,"Source Verified",debt_consolidation,CA,17.73,10-20,717.0,33.50,0,"Fully Paid",0,2,Medium
+2015,12000.00,36,13.99,410.08,C,C4,3.0,RENT,50000.00,40-70k,Verified,debt_consolidation,CA,20.31,20-30,662.0,33.00,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,9.80,482.61,B,B3,4.0,RENT,52500.00,40-70k,"Not Verified",debt_consolidation,TX,4.96,0-10,697.0,52.30,0,"Fully Paid",0,0,Low
+2015,30000.00,36,7.49,933.05,A,A4,3.0,MORTGAGE,130000.00,100-150k,Verified,credit_card,CA,9.82,0-10,722.0,28.00,0,"Fully Paid",0,0,Low
+2015,17000.00,36,5.32,511.96,A,A1,5.0,MORTGAGE,98000.00,70-100k,"Source Verified",credit_card,PA,9.21,0-10,757.0,29.80,0,"Fully Paid",0,0,Low
+2015,15750.00,36,16.59,558.33,D,D2,8.0,RENT,50000.00,40-70k,Verified,debt_consolidation,KS,21.96,20-30,677.0,65.90,0,"Fully Paid",0,3,Medium
+2015,5000.00,36,10.78,163.18,B,B4,10.0,OWN,55000.00,40-70k,"Not Verified",major_purchase,TX,30.98,30-40,677.0,78.20,1,"Fully Paid",0,4,High
+2015,24000.00,60,13.99,558.32,C,C4,10.0,MORTGAGE,115000.00,100-150k,Verified,debt_consolidation,IN,17.71,10-20,692.0,73.50,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,9.17,478.19,B,B2,10.0,RENT,45000.00,40-70k,"Not Verified",debt_consolidation,VA,16.93,10-20,662.0,55.00,1,"Fully Paid",0,2,Medium
+2015,30000.00,60,13.44,689.37,C,C3,10.0,MORTGAGE,70000.00,40-70k,"Source Verified",home_improvement,NY,12.08,10-20,702.0,52.80,0,"Fully Paid",0,1,Low
+2015,4200.00,36,7.49,130.63,A,A4,10.0,MORTGAGE,90000.00,70-100k,"Source Verified",credit_card,AZ,24.85,20-30,727.0,33.50,0,"Fully Paid",0,0,Low
+2015,6025.00,36,11.99,200.09,C,C1,7.0,RENT,25000.00,<40k,"Source Verified",debt_consolidation,MA,6.82,0-10,697.0,46.00,0,"Fully Paid",0,1,Low
+2015,14850.00,60,18.49,381.07,D,D5,10.0,MORTGAGE,45000.00,40-70k,Verified,debt_consolidation,TX,13.57,10-20,672.0,45.70,0,"Charged Off",1,2,Medium
+2015,10000.00,36,6.49,306.45,A,A2,10.0,MORTGAGE,106000.00,100-150k,"Not Verified",credit_card,IL,16.45,10-20,812.0,16.00,0,"Fully Paid",0,0,Low
+2015,10000.00,36,11.48,329.67,B,B5,2.0,MORTGAGE,105000.00,100-150k,Verified,small_business,GA,36.81,30-40,662.0,34.00,7,"Charged Off",1,3,Medium
+2015,35000.00,36,12.88,1177.27,C,C2,1.0,MORTGAGE,240000.00,150k+,"Source Verified",credit_card,NV,4.30,0-10,662.0,85.90,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,12.88,504.55,C,C2,0.0,RENT,89000.00,70-100k,Verified,debt_consolidation,PA,34.58,30-40,662.0,81.40,0,"Charged Off",1,4,High
+2015,5000.00,36,11.99,166.05,C,C1,8.0,RENT,60000.00,40-70k,Verified,moving,NJ,19.27,10-20,707.0,43.00,0,"Fully Paid",0,1,Low
+2015,11000.00,36,13.99,375.91,C,C4,3.0,RENT,65000.00,40-70k,Verified,debt_consolidation,CA,21.88,20-30,672.0,64.50,0,"Fully Paid",0,3,Medium
+2015,5500.00,36,15.77,192.74,D,D1,2.0,MORTGAGE,101000.00,100-150k,Verified,vacation,CA,25.55,20-30,677.0,88.00,0,"Fully Paid",0,4,High
+2015,2500.00,36,11.99,83.03,C,C1,0.0,MORTGAGE,50400.00,40-70k,"Source Verified",home_improvement,CO,12.48,10-20,667.0,1.10,0,"Fully Paid",0,2,Medium
+2015,21150.00,36,15.77,741.18,D,D1,5.0,MORTGAGE,52000.00,40-70k,"Source Verified",debt_consolidation,NH,26.17,20-30,687.0,63.50,0,"Fully Paid",0,3,Medium
+2015,20000.00,36,11.48,659.33,B,B5,1.0,RENT,185000.00,150k+,Verified,debt_consolidation,MO,25.70,20-30,687.0,90.20,0,"Fully Paid",0,2,Medium
+2015,5875.00,36,11.48,193.68,B,B5,3.0,RENT,25200.00,<40k,"Source Verified",debt_consolidation,CA,10.48,10-20,682.0,39.00,0,"Fully Paid",0,0,Low
+2015,24000.00,36,7.49,746.44,A,A4,10.0,RENT,107000.00,100-150k,"Source Verified",car,IL,15.15,10-20,767.0,34.80,0,"Fully Paid",0,0,Low
+2015,12000.00,36,9.80,386.09,B,B3,1.0,RENT,46000.00,40-70k,Verified,debt_consolidation,MO,27.42,20-30,702.0,41.00,0,"Charged Off",1,1,Low
+2015,19200.00,60,18.99,497.96,E,E1,10.0,OWN,113000.00,100-150k,"Source Verified",debt_consolidation,PA,23.81,20-30,667.0,79.90,0,"Charged Off",1,4,High
+2015,8000.00,36,13.99,273.39,C,C4,NULL,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,MD,19.85,10-20,682.0,83.30,0,"Fully Paid",0,2,Medium
+2015,28000.00,36,15.77,981.23,D,D1,8.0,MORTGAGE,105000.00,100-150k,"Not Verified",debt_consolidation,IL,28.35,20-30,672.0,67.70,0,"Fully Paid",0,4,High
+2015,13500.00,36,10.78,440.57,B,B4,10.0,RENT,77000.00,70-100k,"Source Verified",credit_card,CA,14.45,10-20,662.0,75.50,1,"Charged Off",1,3,Medium
+2015,11000.00,36,8.49,347.20,B,B1,10.0,MORTGAGE,125000.00,100-150k,Verified,debt_consolidation,MD,27.87,20-30,672.0,92.00,1,"Fully Paid",0,4,High
+2015,15000.00,36,10.78,489.52,B,B4,3.0,MORTGAGE,46000.00,40-70k,"Not Verified",debt_consolidation,KY,30.65,30-40,687.0,26.20,1,"Fully Paid",0,2,Medium
+2015,20000.00,36,9.80,643.47,B,B3,3.0,RENT,95000.00,70-100k,Verified,debt_consolidation,NY,21.31,20-30,712.0,63.60,0,"Fully Paid",0,1,Low
+2015,35000.00,36,9.80,1126.07,B,B3,10.0,OWN,173000.00,150k+,Verified,credit_card,NJ,22.42,20-30,702.0,86.50,0,"Fully Paid",0,1,Low
+2015,10000.00,60,11.48,219.83,B,B5,10.0,MORTGAGE,55000.00,40-70k,"Not Verified",credit_card,PA,22.74,20-30,762.0,48.80,0,"Fully Paid",0,0,Low
+2015,9000.00,36,9.17,286.92,B,B2,2.0,MORTGAGE,105000.00,100-150k,"Source Verified",debt_consolidation,NY,6.31,0-10,672.0,60.60,3,"Fully Paid",0,3,Medium
+2015,8400.00,36,16.59,297.78,D,D2,3.0,RENT,51000.00,40-70k,"Source Verified",other,DE,13.27,10-20,692.0,37.00,0,"Charged Off",1,1,Low
+2015,20000.00,36,12.88,672.73,C,C2,10.0,RENT,65000.00,40-70k,"Source Verified",debt_consolidation,FL,16.49,10-20,672.0,83.90,0,"Fully Paid",0,3,Medium
+2015,22500.00,60,7.91,455.26,A,A5,10.0,MORTGAGE,93000.00,70-100k,"Not Verified",debt_consolidation,MD,14.34,10-20,812.0,15.80,0,"Fully Paid",0,0,Low
+2015,20000.00,36,18.49,727.98,D,D5,8.0,RENT,137000.00,100-150k,"Source Verified",debt_consolidation,NY,18.48,10-20,667.0,74.90,0,"Fully Paid",0,3,Medium
+2015,21000.00,36,11.99,697.41,C,C1,5.0,MORTGAGE,63000.00,40-70k,"Not Verified",debt_consolidation,MI,28.69,20-30,687.0,56.80,0,"Fully Paid",0,2,Medium
+2015,18700.00,60,13.99,435.02,C,C4,0.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,TX,30.81,30-40,737.0,28.40,0,"Fully Paid",0,2,Medium
+2015,35000.00,60,11.99,778.38,C,C1,2.0,MORTGAGE,175000.00,150k+,"Source Verified",debt_consolidation,CA,33.80,30-40,727.0,37.80,0,"Fully Paid",0,2,Medium
+2015,21000.00,36,6.99,648.33,A,A3,10.0,MORTGAGE,85000.00,70-100k,"Not Verified",debt_consolidation,MA,24.00,20-30,712.0,41.90,3,"Fully Paid",0,1,Low
+2015,30000.00,36,13.44,1017.19,C,C3,5.0,MORTGAGE,106000.00,100-150k,"Source Verified",credit_card,VA,14.19,10-20,677.0,68.90,0,"Fully Paid",0,3,Medium
+2015,14000.00,36,16.59,496.29,D,D2,NULL,MORTGAGE,124596.00,100-150k,Verified,other,FL,23.73,20-30,687.0,88.80,0,"Fully Paid",0,2,Medium
+2015,24000.00,36,5.32,722.76,A,A1,2.0,RENT,450000.00,150k+,"Source Verified",major_purchase,CT,0.70,0-10,722.0,37.40,1,"Fully Paid",0,1,Low
+2015,35000.00,60,10.78,757.16,B,B4,10.0,RENT,89000.00,70-100k,"Source Verified",credit_card,NY,19.26,10-20,757.0,26.10,0,"Fully Paid",0,0,Low
+2015,3225.00,36,20.50,120.68,E,E4,5.0,MORTGAGE,35000.00,<40k,"Not Verified",debt_consolidation,IL,24.01,20-30,662.0,43.00,3,"Charged Off",1,4,High
+2015,28000.00,36,6.49,858.05,A,A2,3.0,MORTGAGE,108000.00,100-150k,"Source Verified",credit_card,TX,14.63,10-20,707.0,71.70,0,"Fully Paid",0,1,Low
+2015,7200.00,36,9.17,229.53,B,B2,10.0,MORTGAGE,60000.00,40-70k,"Not Verified",debt_consolidation,TX,24.60,20-30,737.0,22.90,0,"Fully Paid",0,0,Low
+2015,12000.00,36,9.80,386.09,B,B3,5.0,RENT,43000.00,40-70k,"Source Verified",debt_consolidation,IL,18.28,10-20,697.0,45.40,0,"Fully Paid",0,0,Low
+2015,35000.00,60,19.48,917.19,E,E2,10.0,MORTGAGE,123000.00,100-150k,"Source Verified",debt_consolidation,GA,21.53,20-30,702.0,72.40,0,"Fully Paid",0,3,Medium
+2015,12000.00,36,5.32,361.38,A,A1,0.0,MORTGAGE,118000.00,100-150k,"Not Verified",debt_consolidation,TX,14.06,10-20,747.0,27.00,0,"Fully Paid",0,0,Low
+2015,5000.00,36,7.91,156.48,A,A5,7.0,OWN,38000.00,<40k,"Source Verified",credit_card,PA,11.78,10-20,697.0,47.30,0,"Fully Paid",0,0,Low
+2015,25000.00,36,13.99,854.32,C,C4,6.0,RENT,85000.00,70-100k,"Source Verified",debt_consolidation,CO,11.11,10-20,672.0,65.60,0,"Fully Paid",0,3,Medium
+2015,8750.00,36,18.99,320.70,E,E1,1.0,RENT,29524.32,<40k,Verified,debt_consolidation,IL,46.71,40+,682.0,96.50,0,"Charged Off",1,4,High
+2015,6600.00,36,19.48,243.54,E,E2,4.0,MORTGAGE,240000.00,150k+,"Source Verified",debt_consolidation,OH,7.04,0-10,662.0,18.00,2,"Fully Paid",0,4,High
+2015,10000.00,36,9.17,318.79,B,B2,2.0,OWN,110000.00,100-150k,"Not Verified",credit_card,NC,28.37,20-30,717.0,54.90,2,"Fully Paid",0,2,Medium
+2015,12500.00,36,10.78,407.94,B,B4,10.0,MORTGAGE,34000.00,<40k,Verified,debt_consolidation,FL,27.11,20-30,687.0,66.30,0,"Fully Paid",0,2,Medium
+2015,26250.00,60,13.99,610.66,C,C4,10.0,MORTGAGE,65000.00,40-70k,Verified,debt_consolidation,NY,26.90,20-30,702.0,45.00,0,"Fully Paid",0,2,Medium
+2015,24000.00,60,12.88,544.61,C,C2,10.0,MORTGAGE,186000.00,150k+,"Source Verified",debt_consolidation,CA,8.29,0-10,677.0,71.00,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,11.48,494.50,B,B5,9.0,RENT,90000.00,70-100k,"Source Verified",debt_consolidation,GA,14.89,10-20,682.0,48.10,1,"Fully Paid",0,1,Low
+2015,13750.00,36,16.59,487.43,D,D2,10.0,MORTGAGE,27500.00,<40k,"Source Verified",debt_consolidation,NC,36.36,30-40,682.0,40.40,0,"Fully Paid",0,2,Medium
+2015,35000.00,60,24.24,1011.77,F,F3,0.0,MORTGAGE,117000.00,100-150k,"Source Verified",debt_consolidation,IL,16.82,10-20,677.0,59.70,0,"Fully Paid",0,3,Medium
+2015,7000.00,36,12.88,235.46,C,C2,10.0,RENT,65000.00,40-70k,"Source Verified",vacation,CA,6.68,0-10,672.0,41.30,1,"Fully Paid",0,3,Medium
+2015,5600.00,36,9.80,180.18,B,B3,10.0,MORTGAGE,91500.00,70-100k,"Source Verified",debt_consolidation,NC,30.79,30-40,662.0,71.20,3,"Fully Paid",0,4,High
+2015,21000.00,36,9.17,669.46,B,B2,8.0,MORTGAGE,150000.00,100-150k,"Source Verified",debt_consolidation,NY,13.09,10-20,667.0,49.40,0,"Fully Paid",0,1,Low
+2015,15000.00,36,5.32,451.73,A,A1,4.0,MORTGAGE,85000.00,70-100k,"Not Verified",debt_consolidation,SD,13.56,10-20,747.0,46.30,1,"Fully Paid",0,1,Low
+2015,6400.00,36,9.17,204.03,B,B2,6.0,RENT,53000.00,40-70k,"Not Verified",debt_consolidation,NY,14.40,10-20,697.0,90.50,0,"Fully Paid",0,1,Low
+2015,8400.00,36,9.80,270.26,B,B3,10.0,RENT,72701.00,70-100k,Verified,credit_card,GA,20.42,20-30,672.0,33.90,1,"Fully Paid",0,2,Medium
+2015,20000.00,60,15.77,483.93,D,D1,6.0,MORTGAGE,150000.00,100-150k,"Not Verified",other,MD,11.66,10-20,687.0,41.30,1,"Fully Paid",0,2,Medium
+2015,15000.00,36,14.85,518.88,C,C5,NULL,MORTGAGE,37534.44,<40k,Verified,debt_consolidation,CA,31.44,30-40,682.0,45.00,0,"Fully Paid",0,2,Medium
+2015,13600.00,36,11.48,448.35,B,B5,10.0,MORTGAGE,61983.00,40-70k,"Source Verified",debt_consolidation,MD,2.87,0-10,692.0,76.80,0,"Fully Paid",0,1,Low
+2015,18000.00,36,13.99,615.11,C,C4,3.0,OWN,63000.00,40-70k,"Not Verified",debt_consolidation,MD,17.49,10-20,677.0,92.20,0,"Fully Paid",0,3,Medium
+2015,35000.00,60,18.49,898.13,D,D5,10.0,OWN,160000.00,150k+,"Source Verified",debt_consolidation,MD,14.65,10-20,697.0,58.40,1,"Fully Paid",0,2,Medium
+2015,20000.00,36,8.49,631.26,B,B1,10.0,OWN,58000.00,40-70k,Verified,debt_consolidation,TX,31.24,30-40,682.0,91.00,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,5.32,602.30,A,A1,10.0,RENT,139000.00,100-150k,"Not Verified",credit_card,NY,9.24,0-10,707.0,59.90,0,"Fully Paid",0,0,Low
+2015,11200.00,36,9.17,357.05,B,B2,10.0,MORTGAGE,53000.00,40-70k,"Not Verified",debt_consolidation,AZ,11.96,10-20,722.0,24.30,0,"Fully Paid",0,0,Low
+2015,25000.00,36,6.49,766.12,A,A2,2.0,MORTGAGE,62000.00,40-70k,"Source Verified",credit_card,GA,27.24,20-30,727.0,53.60,0,"Fully Paid",0,1,Low
+2015,2500.00,36,7.91,78.24,A,A5,6.0,RENT,29000.00,<40k,"Source Verified",debt_consolidation,TX,21.19,20-30,757.0,10.90,0,"Fully Paid",0,0,Low
+2015,16000.00,36,8.49,505.01,B,B1,1.0,RENT,75000.00,70-100k,"Not Verified",debt_consolidation,TX,19.44,10-20,687.0,59.60,1,"Fully Paid",0,1,Low
+2015,5600.00,36,13.44,189.88,C,C3,10.0,RENT,50000.00,40-70k,"Source Verified",debt_consolidation,VA,28.73,20-30,742.0,29.20,0,"Charged Off",1,2,Medium
+2015,10000.00,36,7.49,311.02,A,A4,10.0,RENT,70000.00,40-70k,"Not Verified",home_improvement,NJ,13.30,10-20,777.0,5.10,0,"Fully Paid",0,0,Low
+2015,3200.00,36,9.80,102.96,B,B3,NULL,MORTGAGE,24000.00,<40k,"Not Verified",credit_card,FL,18.05,10-20,672.0,32.40,1,"Charged Off",1,2,Medium
+2015,28000.00,36,5.32,843.22,A,A1,4.0,MORTGAGE,135000.00,100-150k,"Source Verified",credit_card,IL,8.56,0-10,702.0,38.10,0,"Fully Paid",0,0,Low
+2015,15000.00,36,10.78,489.52,B,B4,10.0,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,AL,26.24,20-30,707.0,73.30,0,"Fully Paid",0,2,Medium
+2015,21600.00,36,6.99,666.85,A,A3,1.0,MORTGAGE,120000.00,100-150k,"Source Verified",debt_consolidation,GA,15.84,10-20,717.0,59.80,0,"Fully Paid",0,0,Low
+2015,10000.00,36,5.32,301.15,A,A1,9.0,MORTGAGE,75000.00,70-100k,"Not Verified",credit_card,CT,3.86,0-10,712.0,16.20,0,"Fully Paid",0,0,Low
+2015,5000.00,36,9.80,160.87,B,B3,10.0,OWN,92000.00,70-100k,Verified,credit_card,OH,16.01,10-20,672.0,53.80,1,"Charged Off",1,2,Medium
+2015,12000.00,36,6.49,367.74,A,A2,3.0,MORTGAGE,73000.00,70-100k,"Not Verified",credit_card,TN,14.75,10-20,717.0,65.40,0,"Fully Paid",0,1,Low
+2015,15175.00,36,17.27,543.08,D,D3,2.0,MORTGAGE,58000.00,40-70k,"Source Verified",home_improvement,IL,7.57,0-10,747.0,4.30,0,"Charged Off",1,1,Low
+2015,21000.00,36,9.17,669.46,B,B2,0.0,RENT,80000.00,70-100k,"Source Verified",debt_consolidation,FL,14.69,10-20,707.0,48.10,0,"Fully Paid",0,0,Low
+2015,7000.00,36,5.32,210.81,A,A1,NULL,RENT,16968.00,<40k,Verified,credit_card,OH,12.87,10-20,742.0,17.10,0,"Fully Paid",0,0,Low
+2015,12000.00,36,7.49,373.22,A,A4,3.0,MORTGAGE,108000.00,100-150k,"Source Verified",debt_consolidation,OR,6.92,0-10,717.0,33.50,1,"Fully Paid",0,1,Low
+2015,3200.00,36,10.78,104.44,B,B4,10.0,MORTGAGE,49000.00,40-70k,"Not Verified",debt_consolidation,TN,25.91,20-30,667.0,79.40,0,"Fully Paid",0,3,Medium
+2015,7200.00,36,14.85,249.07,C,C5,10.0,RENT,52000.00,40-70k,"Not Verified",credit_card,NC,39.21,30-40,672.0,61.80,1,"Charged Off",1,5,High
+2015,13200.00,36,12.88,444.00,C,C2,10.0,MORTGAGE,45000.00,40-70k,"Source Verified",debt_consolidation,MN,32.56,30-40,677.0,56.90,0,"Fully Paid",0,3,Medium
+2015,20000.00,36,12.88,672.73,C,C2,NULL,OWN,65000.00,40-70k,"Not Verified",debt_consolidation,WA,17.38,10-20,732.0,9.80,2,"Charged Off",1,2,Medium
+2015,18000.00,60,8.49,369.22,B,B1,2.0,MORTGAGE,120000.00,100-150k,"Not Verified",credit_card,TX,6.42,0-10,702.0,48.30,0,"Charged Off",1,0,Low
+2015,18000.00,36,16.59,638.09,D,D2,6.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,WA,14.69,10-20,707.0,97.20,0,"Fully Paid",0,2,Medium
+2015,7500.00,36,15.77,262.83,D,D1,3.0,RENT,75000.00,70-100k,"Source Verified",debt_consolidation,CO,9.74,0-10,667.0,63.80,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,12.88,504.55,C,C2,10.0,MORTGAGE,118000.00,100-150k,Verified,credit_card,MD,23.70,20-30,707.0,44.20,0,"Fully Paid",0,1,Low
+2015,2400.00,36,7.49,74.65,A,A4,10.0,RENT,50000.00,40-70k,"Source Verified",credit_card,NJ,11.67,10-20,737.0,100.30,0,"Fully Paid",0,1,Low
+2015,2000.00,36,13.44,67.82,C,C3,10.0,MORTGAGE,119945.00,100-150k,Verified,debt_consolidation,MD,15.61,10-20,662.0,64.70,0,"Fully Paid",0,3,Medium
+2015,10000.00,36,12.88,336.37,C,C2,10.0,RENT,100000.00,70-100k,Verified,credit_card,FL,16.18,10-20,677.0,60.30,0,"Fully Paid",0,3,Medium
+2015,30000.00,60,18.49,769.83,D,D5,0.0,MORTGAGE,103000.00,100-150k,Verified,debt_consolidation,TX,22.36,20-30,677.0,49.00,0,"Charged Off",1,2,Medium
+2015,25000.00,36,7.91,782.38,A,A5,10.0,MORTGAGE,105000.00,100-150k,"Source Verified",other,GA,16.87,10-20,707.0,52.20,0,"Fully Paid",0,0,Low
+2015,11925.00,36,8.49,376.39,B,B1,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,LA,28.44,20-30,772.0,19.50,0,"Fully Paid",0,1,Low
+2015,3000.00,36,6.49,91.94,A,A2,10.0,MORTGAGE,75000.00,70-100k,"Source Verified",home_improvement,NY,13.38,10-20,687.0,74.60,0,"Fully Paid",0,1,Low
+2015,13200.00,36,9.17,420.81,B,B2,1.0,MORTGAGE,98000.00,70-100k,"Source Verified",credit_card,WA,10.03,10-20,667.0,50.50,0,"Charged Off",1,1,Low
+2015,5000.00,36,12.88,168.19,C,C2,10.0,RENT,48000.00,40-70k,"Source Verified",debt_consolidation,FL,17.48,10-20,692.0,41.20,0,"Fully Paid",0,1,Low
+2015,9000.00,36,9.80,289.57,B,B3,10.0,MORTGAGE,81000.00,70-100k,"Not Verified",debt_consolidation,CA,22.64,20-30,662.0,55.10,0,"Fully Paid",0,1,Low
+2015,10000.00,36,9.17,318.79,B,B2,3.0,MORTGAGE,43000.00,40-70k,"Source Verified",debt_consolidation,MN,12.39,10-20,712.0,68.30,0,"Fully Paid",0,1,Low
+2015,1000.00,36,11.99,33.21,C,C1,10.0,MORTGAGE,36522.00,<40k,Verified,other,NY,35.72,30-40,662.0,78.00,0,"Fully Paid",0,4,High
+2015,12000.00,60,13.99,279.16,C,C4,10.0,OWN,35000.00,<40k,"Source Verified",debt_consolidation,OH,32.68,30-40,702.0,67.90,0,"Charged Off",1,3,Medium
+2015,24000.00,36,5.32,722.76,A,A1,10.0,MORTGAGE,200000.00,150k+,"Source Verified",debt_consolidation,FL,22.55,20-30,712.0,61.60,0,"Fully Paid",0,1,Low
+2015,8500.00,36,9.17,270.98,B,B2,1.0,OWN,35500.00,<40k,"Not Verified",credit_card,IL,5.88,0-10,702.0,38.40,0,"Fully Paid",0,0,Low
+2015,3500.00,36,6.49,107.26,A,A2,8.0,MORTGAGE,56000.00,40-70k,"Source Verified",debt_consolidation,MN,19.03,10-20,682.0,11.50,3,"Fully Paid",0,1,Low
+2015,16100.00,36,17.27,576.18,D,D3,10.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,NY,15.96,10-20,687.0,97.50,0,"Fully Paid",0,2,Medium
+2015,10000.00,60,19.48,262.06,E,E2,0.0,MORTGAGE,117000.00,100-150k,"Source Verified",small_business,CA,12.73,10-20,737.0,14.50,0,"Fully Paid",0,2,Medium
+2015,6000.00,36,8.49,189.38,B,B1,4.0,OWN,42000.00,40-70k,"Not Verified",debt_consolidation,MI,26.06,20-30,732.0,20.80,0,"Fully Paid",0,1,Low
+2015,5000.00,36,6.99,154.37,A,A3,10.0,MORTGAGE,61000.00,40-70k,"Source Verified",debt_consolidation,MI,30.53,30-40,712.0,29.50,4,"Fully Paid",0,2,Medium
+2015,18000.00,36,6.49,551.61,A,A2,10.0,MORTGAGE,100000.00,70-100k,"Not Verified",debt_consolidation,LA,10.49,10-20,722.0,33.40,0,"Fully Paid",0,0,Low
+2015,1000.00,36,13.99,34.18,C,C4,10.0,RENT,30000.00,<40k,"Source Verified",other,TN,31.08,30-40,682.0,57.10,0,"Charged Off",1,2,Medium
+2015,3850.00,36,13.44,130.54,C,C3,0.0,MORTGAGE,45000.00,40-70k,Verified,debt_consolidation,NE,22.59,20-30,692.0,55.40,1,"Fully Paid",0,2,Medium
+2015,2000.00,36,11.99,66.42,C,C1,4.0,RENT,35000.00,<40k,"Source Verified",debt_consolidation,MI,4.01,0-10,662.0,17.10,0,"Fully Paid",0,2,Medium
+2015,10175.00,60,19.89,268.96,E,E3,3.0,MORTGAGE,63900.00,40-70k,"Source Verified",credit_card,PA,20.28,20-30,687.0,31.50,1,"Fully Paid",0,3,Medium
+2015,10000.00,36,6.99,308.73,A,A3,0.0,MORTGAGE,70000.00,40-70k,"Not Verified",home_improvement,AZ,21.79,20-30,732.0,25.90,0,"Fully Paid",0,0,Low
+2015,20000.00,60,9.80,422.98,B,B3,5.0,MORTGAGE,52000.00,40-70k,"Not Verified",debt_consolidation,VA,17.75,10-20,747.0,33.00,0,"Fully Paid",0,0,Low
+2015,35000.00,36,10.78,1142.22,B,B4,10.0,MORTGAGE,110000.00,100-150k,"Source Verified",credit_card,GA,25.38,20-30,707.0,88.20,0,"Fully Paid",0,2,Medium
+2015,20000.00,36,12.88,672.73,C,C2,10.0,RENT,93534.00,70-100k,"Not Verified",debt_consolidation,CA,13.95,10-20,752.0,26.10,0,"Fully Paid",0,1,Low
+2015,20000.00,36,6.49,612.89,A,A2,2.0,MORTGAGE,95000.00,70-100k,"Not Verified",debt_consolidation,TN,12.63,10-20,742.0,35.50,0,"Fully Paid",0,0,Low
+2015,12250.00,36,14.85,423.76,C,C5,4.0,RENT,26679.38,<40k,Verified,debt_consolidation,CA,34.10,30-40,712.0,41.30,0,"Charged Off",1,2,Medium
+2015,15000.00,36,5.32,451.73,A,A1,8.0,MORTGAGE,90000.00,70-100k,"Not Verified",credit_card,MO,16.91,10-20,767.0,30.30,0,"Fully Paid",0,0,Low
+2015,10000.00,36,5.32,301.15,A,A1,10.0,RENT,80000.00,70-100k,"Source Verified",credit_card,CA,5.27,0-10,687.0,47.20,0,"Fully Paid",0,0,Low
+2015,3600.00,36,10.78,117.49,B,B4,7.0,MORTGAGE,39000.00,<40k,"Not Verified",credit_card,IL,9.48,0-10,767.0,33.60,0,"Fully Paid",0,0,Low
+2015,5000.00,36,11.99,166.05,C,C1,10.0,MORTGAGE,68500.00,40-70k,"Source Verified",home_improvement,NJ,16.36,10-20,677.0,61.80,3,"Fully Paid",0,4,High
+2015,35000.00,60,11.99,778.38,C,C1,10.0,MORTGAGE,80000.00,70-100k,Verified,credit_card,TN,26.84,20-30,727.0,32.50,0,"Fully Paid",0,2,Medium
+2015,13000.00,36,12.88,437.28,C,C2,10.0,MORTGAGE,38000.00,<40k,"Source Verified",home_improvement,MS,25.89,20-30,677.0,49.30,0,"Fully Paid",0,3,Medium
+2015,4000.00,36,16.59,141.80,D,D2,5.0,OWN,35000.00,<40k,Verified,debt_consolidation,TX,11.45,10-20,667.0,55.70,0,"Charged Off",1,2,Medium
+2015,22450.00,60,18.99,582.25,E,E1,10.0,MORTGAGE,74000.00,70-100k,"Source Verified",debt_consolidation,WA,33.18,30-40,677.0,80.60,1,"Charged Off",1,6,High
+2015,4800.00,36,11.99,159.41,C,C1,1.0,RENT,45000.00,40-70k,"Source Verified",credit_card,TX,10.29,10-20,672.0,78.20,0,"Fully Paid",0,3,Medium
+2015,21275.00,36,14.85,735.95,C,C5,4.0,MORTGAGE,56035.00,40-70k,Verified,debt_consolidation,MN,32.79,30-40,687.0,65.10,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,5.32,451.73,A,A1,10.0,RENT,100000.00,70-100k,"Not Verified",credit_card,CA,15.76,10-20,747.0,19.60,0,"Fully Paid",0,0,Low
+2015,12000.00,36,12.88,403.64,C,C2,4.0,MORTGAGE,110000.00,100-150k,"Source Verified",credit_card,TX,9.44,0-10,682.0,21.90,0,"Fully Paid",0,1,Low
+2015,9650.00,36,12.88,324.59,C,C2,0.0,RENT,55500.00,40-70k,"Source Verified",debt_consolidation,MA,15.18,10-20,662.0,61.20,1,"Fully Paid",0,4,High
+2015,24000.00,36,9.80,772.17,B,B3,10.0,MORTGAGE,100000.00,70-100k,"Source Verified",debt_consolidation,FL,15.46,10-20,667.0,65.90,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,10.78,1142.22,B,B4,10.0,MORTGAGE,134000.00,100-150k,Verified,debt_consolidation,TX,23.09,20-30,727.0,88.60,0,"Fully Paid",0,1,Low
+2015,25000.00,36,5.32,752.87,A,A1,10.0,MORTGAGE,125000.00,100-150k,"Not Verified",credit_card,MN,6.66,0-10,717.0,60.70,1,"Fully Paid",0,2,Medium
+2015,9100.00,36,7.91,284.79,A,A5,10.0,MORTGAGE,40000.00,<40k,Verified,debt_consolidation,MI,12.57,10-20,742.0,22.30,0,"Fully Paid",0,0,Low
+2015,25000.00,60,14.85,592.79,C,C5,2.0,MORTGAGE,118450.00,100-150k,"Not Verified",debt_consolidation,MA,25.97,20-30,697.0,87.10,0,"Fully Paid",0,3,Medium
+2015,18000.00,36,7.49,559.83,A,A4,6.0,OWN,60000.00,40-70k,"Not Verified",credit_card,FL,35.00,30-40,742.0,47.00,0,"Fully Paid",0,1,Low
+2015,10800.00,36,11.48,356.04,B,B5,10.0,OWN,123000.00,100-150k,"Source Verified",credit_card,AZ,23.62,20-30,682.0,79.40,0,"Fully Paid",0,1,Low
+2015,9600.00,36,9.17,306.04,B,B2,2.0,MORTGAGE,150000.00,100-150k,Verified,debt_consolidation,FL,5.54,0-10,662.0,55.50,0,"Fully Paid",0,1,Low
+2015,3600.00,36,11.48,118.68,B,B5,3.0,MORTGAGE,55000.00,40-70k,"Source Verified",debt_consolidation,OH,14.10,10-20,722.0,58.60,0,"Fully Paid",0,0,Low
+2015,12000.00,60,12.88,272.31,C,C2,10.0,OWN,100000.00,70-100k,"Not Verified",credit_card,NY,12.31,10-20,662.0,49.60,3,"Charged Off",1,3,Medium
+2015,12000.00,36,6.49,367.74,A,A2,10.0,MORTGAGE,65000.00,40-70k,"Not Verified",home_improvement,PA,19.24,10-20,767.0,46.50,0,"Fully Paid",0,0,Low
+2015,18000.00,36,6.99,555.71,A,A3,8.0,MORTGAGE,89000.00,70-100k,"Source Verified",credit_card,MN,13.88,10-20,682.0,70.20,1,"Fully Paid",0,2,Medium
+2015,22925.00,60,16.59,564.71,D,D2,0.0,RENT,51000.00,40-70k,"Not Verified",debt_consolidation,CA,31.04,30-40,722.0,65.30,0,"Fully Paid",0,3,Medium
+2015,8000.00,36,6.49,245.16,A,A2,3.0,RENT,120000.00,100-150k,"Source Verified",credit_card,CA,4.91,0-10,777.0,15.50,0,"Fully Paid",0,0,Low
+2015,7000.00,36,8.49,220.95,B,B1,3.0,MORTGAGE,100000.00,70-100k,"Not Verified",home_improvement,MI,29.75,20-30,677.0,90.50,2,"Fully Paid",0,4,High
+2015,4500.00,36,9.80,144.79,B,B3,5.0,MORTGAGE,39600.00,<40k,Verified,debt_consolidation,MD,22.82,20-30,707.0,77.50,0,"Fully Paid",0,1,Low
+2015,11500.00,36,19.48,424.35,E,E2,NULL,RENT,33888.00,<40k,Verified,other,VA,39.16,30-40,662.0,59.10,0,"Fully Paid",0,4,High
+2015,5000.00,36,9.17,159.40,B,B2,4.0,MORTGAGE,52000.00,40-70k,"Not Verified",other,TX,24.79,20-30,757.0,28.10,0,"Fully Paid",0,0,Low
+2015,5000.00,36,8.49,157.82,B,B1,2.0,MORTGAGE,141934.00,100-150k,"Not Verified",credit_card,TX,25.58,20-30,712.0,53.90,1,"Charged Off",1,2,Medium
+2015,2800.00,36,17.27,100.21,D,D3,7.0,RENT,114400.00,100-150k,Verified,debt_consolidation,FL,6.34,0-10,697.0,0.00,0,"Fully Paid",0,1,Low
+2015,12000.00,36,9.80,386.09,B,B3,8.0,RENT,75000.00,70-100k,"Source Verified",small_business,WI,14.11,10-20,687.0,49.70,0,"Fully Paid",0,0,Low
+2015,16075.00,36,12.88,540.71,C,C2,3.0,OWN,66666.00,40-70k,Verified,debt_consolidation,OH,13.29,10-20,667.0,56.20,0,"Fully Paid",0,2,Medium
+2015,21000.00,36,9.17,669.46,B,B2,4.0,MORTGAGE,85000.00,70-100k,"Source Verified",credit_card,PA,14.65,10-20,687.0,83.70,1,"Fully Paid",0,2,Medium
+2015,20000.00,36,5.32,602.30,A,A1,10.0,MORTGAGE,71665.00,70-100k,Verified,debt_consolidation,IL,12.31,10-20,717.0,56.00,0,"Fully Paid",0,0,Low
+2015,28000.00,60,8.49,574.33,B,B1,5.0,MORTGAGE,95000.00,70-100k,"Source Verified",credit_card,TX,19.60,10-20,712.0,31.80,0,"Charged Off",1,0,Low
+2015,15000.00,36,9.80,482.61,B,B3,2.0,RENT,89000.00,70-100k,"Not Verified",debt_consolidation,CA,19.50,10-20,762.0,26.40,0,"Fully Paid",0,0,Low
+2015,15000.00,36,17.27,536.81,D,D3,7.0,RENT,101000.00,100-150k,Verified,debt_consolidation,CA,39.87,30-40,662.0,71.30,0,"Fully Paid",0,4,High
+2015,24000.00,36,13.99,820.15,C,C4,10.0,MORTGAGE,120000.00,100-150k,"Source Verified",debt_consolidation,LA,8.91,0-10,702.0,40.00,0,"Fully Paid",0,1,Low
+2015,35000.00,36,15.77,1226.53,D,D1,4.0,MORTGAGE,120000.00,100-150k,"Source Verified",credit_card,VA,13.34,10-20,692.0,73.00,0,"Fully Paid",0,2,Medium
+2015,17125.00,60,27.99,533.10,G,G3,4.0,RENT,45000.00,40-70k,"Source Verified",debt_consolidation,RI,17.44,10-20,662.0,40.60,0,"Fully Paid",0,3,Medium
+2015,30000.00,60,13.99,697.90,C,C4,9.0,MORTGAGE,70000.00,40-70k,"Source Verified",debt_consolidation,MO,19.90,10-20,692.0,54.80,0,"Charged Off",1,1,Low
+2015,8000.00,36,10.78,261.08,B,B4,2.0,MORTGAGE,43500.00,40-70k,"Source Verified",debt_consolidation,TX,11.98,10-20,667.0,43.00,0,"Charged Off",1,1,Low
+2015,5000.00,36,9.17,159.40,B,B2,3.0,MORTGAGE,113000.00,100-150k,"Source Verified",credit_card,OH,26.45,20-30,672.0,72.20,1,"Fully Paid",0,4,High
+2015,9100.00,36,9.17,290.10,B,B2,5.0,MORTGAGE,70000.00,40-70k,"Not Verified",credit_card,MA,25.60,20-30,727.0,93.30,0,"Fully Paid",0,2,Medium
+2015,1800.00,36,7.49,55.99,A,A4,10.0,MORTGAGE,50000.00,40-70k,"Source Verified",credit_card,FL,8.28,0-10,692.0,63.20,0,"Fully Paid",0,1,Low
+2015,4850.00,36,7.49,150.85,A,A4,0.0,MORTGAGE,56000.00,40-70k,Verified,debt_consolidation,MN,6.15,0-10,772.0,13.30,0,"Fully Paid",0,0,Low
+2015,24000.00,36,6.99,740.95,A,A3,10.0,MORTGAGE,127000.00,100-150k,"Not Verified",home_improvement,GA,12.07,10-20,712.0,38.30,1,"Fully Paid",0,1,Low
+2015,8000.00,36,5.32,240.92,A,A1,10.0,OWN,31500.00,<40k,"Not Verified",debt_consolidation,TX,15.62,10-20,752.0,15.60,0,"Fully Paid",0,0,Low
+2015,10000.00,36,9.17,318.79,B,B2,3.0,MORTGAGE,35000.00,<40k,"Source Verified",credit_card,WA,11.69,10-20,677.0,59.10,0,"Fully Paid",0,1,Low
+2015,9600.00,36,6.49,294.19,A,A2,4.0,RENT,64567.05,40-70k,"Not Verified",credit_card,FL,10.48,10-20,682.0,44.80,0,"Fully Paid",0,0,Low
+2015,20000.00,60,18.99,518.71,E,E1,1.0,OWN,52000.00,40-70k,"Source Verified",credit_card,MS,26.93,20-30,667.0,52.20,0,"Fully Paid",0,4,High
+2015,10000.00,36,5.32,301.15,A,A1,10.0,OWN,32500.00,<40k,"Not Verified",credit_card,DE,12.15,10-20,797.0,26.00,0,"Fully Paid",0,0,Low
+2015,6000.00,36,5.32,180.69,A,A1,10.0,MORTGAGE,80000.00,70-100k,"Not Verified",credit_card,WV,13.50,10-20,747.0,20.00,0,"Fully Paid",0,0,Low
+2015,22000.00,36,5.32,662.53,A,A1,NULL,MORTGAGE,110000.00,100-150k,"Not Verified",credit_card,TX,7.21,0-10,772.0,40.90,0,"Fully Paid",0,0,Low
+2015,28000.00,60,11.99,622.71,C,C1,1.0,MORTGAGE,82000.00,70-100k,"Not Verified",home_improvement,CA,10.57,10-20,822.0,2.00,0,"Fully Paid",0,1,Low
+2015,5000.00,36,7.91,156.48,A,A5,4.0,RENT,93000.00,70-100k,"Source Verified",credit_card,FL,14.30,10-20,682.0,24.30,2,"Fully Paid",0,1,Low
+2015,18000.00,36,5.32,542.07,A,A1,10.0,OWN,76000.00,70-100k,"Not Verified",home_improvement,GA,18.44,10-20,752.0,8.70,1,"Fully Paid",0,1,Low
+2015,10000.00,36,5.32,301.15,A,A1,10.0,MORTGAGE,80000.00,70-100k,"Not Verified",credit_card,SC,25.73,20-30,732.0,47.50,0,"Fully Paid",0,1,Low
+2015,11200.00,36,11.99,371.95,C,C1,0.0,RENT,37000.00,<40k,Verified,debt_consolidation,IN,7.78,0-10,677.0,49.30,0,"Charged Off",1,2,Medium
+2015,2150.00,36,17.27,76.95,D,D3,3.0,OWN,18300.00,<40k,Verified,medical,OH,11.74,10-20,697.0,13.10,0,"Charged Off",1,1,Low
+2015,9000.00,36,12.88,302.73,C,C2,10.0,RENT,110000.00,100-150k,Verified,debt_consolidation,MO,17.29,10-20,677.0,34.60,0,"Fully Paid",0,2,Medium
+2015,12500.00,36,7.49,388.78,A,A4,10.0,MORTGAGE,99500.00,70-100k,"Not Verified",debt_consolidation,RI,12.18,10-20,707.0,83.10,0,"Fully Paid",0,1,Low
+2015,6000.00,36,5.32,180.69,A,A1,0.0,MORTGAGE,52000.00,40-70k,"Not Verified",credit_card,NM,15.82,10-20,767.0,28.70,0,"Fully Paid",0,0,Low
+2015,20000.00,36,14.85,691.84,C,C5,6.0,RENT,60000.00,40-70k,Verified,debt_consolidation,SC,26.02,20-30,717.0,19.50,0,"Charged Off",1,2,Medium
+2015,21000.00,60,16.59,517.29,D,D2,10.0,RENT,90000.00,70-100k,"Not Verified",debt_consolidation,CA,12.09,10-20,712.0,16.20,1,"Charged Off",1,2,Medium
+2015,35000.00,60,11.99,778.38,C,C1,0.0,MORTGAGE,148000.00,100-150k,"Source Verified",credit_card,NC,13.33,10-20,737.0,54.00,0,"Fully Paid",0,1,Low
+2015,30000.00,60,16.59,738.98,D,D2,10.0,MORTGAGE,94000.00,70-100k,"Source Verified",debt_consolidation,TN,33.15,30-40,687.0,70.70,1,"Fully Paid",0,4,High
+2015,6000.00,36,8.49,189.38,B,B1,3.0,RENT,36000.00,<40k,"Not Verified",debt_consolidation,NJ,23.84,20-30,712.0,36.60,2,"Fully Paid",0,1,Low
+2015,28000.00,36,7.91,876.26,A,A5,10.0,MORTGAGE,111000.00,100-150k,"Source Verified",debt_consolidation,GA,17.76,10-20,717.0,88.10,0,"Fully Paid",0,1,Low
+2015,6000.00,36,11.99,199.26,C,C1,10.0,RENT,51000.00,40-70k,Verified,debt_consolidation,OR,25.04,20-30,707.0,32.80,0,"Fully Paid",0,2,Medium
+2015,15000.00,60,11.99,333.60,C,C1,10.0,MORTGAGE,103000.00,100-150k,Verified,home_improvement,TX,32.33,30-40,682.0,77.00,0,"Charged Off",1,3,Medium
+2015,30800.00,60,17.97,781.62,D,D4,10.0,MORTGAGE,111000.00,100-150k,Verified,credit_card,VA,33.98,30-40,702.0,80.60,0,"Fully Paid",0,3,Medium
+2015,12000.00,36,10.78,391.62,B,B4,10.0,RENT,86308.00,70-100k,"Source Verified",debt_consolidation,MD,19.13,10-20,692.0,36.20,0,"Charged Off",1,0,Low
+2015,2000.00,36,12.88,67.28,C,C2,6.0,RENT,86564.00,70-100k,Verified,credit_card,VA,27.73,20-30,662.0,89.70,0,"Fully Paid",0,4,High
+2015,4275.00,36,17.27,153.00,D,D3,1.0,MORTGAGE,38500.00,<40k,Verified,debt_consolidation,NY,28.55,20-30,662.0,59.00,1,"Fully Paid",0,4,High
+2015,6000.00,36,5.32,180.69,A,A1,2.0,MORTGAGE,42000.00,40-70k,"Not Verified",home_improvement,MD,16.11,10-20,747.0,42.30,0,"Fully Paid",0,0,Low
+2015,18000.00,36,7.91,563.31,A,A5,1.0,RENT,45000.00,40-70k,"Source Verified",credit_card,MN,10.48,10-20,692.0,37.50,1,"Fully Paid",0,1,Low
+2015,25000.00,36,11.99,830.24,C,C1,10.0,MORTGAGE,70000.00,40-70k,"Not Verified",debt_consolidation,TX,23.21,20-30,672.0,57.20,0,"Fully Paid",0,2,Medium
+2015,6000.00,36,9.80,193.05,B,B3,3.0,RENT,41500.00,40-70k,Verified,credit_card,NJ,19.81,10-20,677.0,22.10,1,"Fully Paid",0,2,Medium
+2015,9900.00,36,9.17,315.61,B,B2,10.0,RENT,57000.00,40-70k,"Not Verified",credit_card,MA,21.71,20-30,692.0,49.50,0,"Fully Paid",0,0,Low
+2015,35000.00,36,7.49,1088.56,A,A4,5.0,MORTGAGE,125000.00,100-150k,"Source Verified",credit_card,WA,21.72,20-30,722.0,45.70,0,"Fully Paid",0,0,Low
+2015,18250.00,60,19.89,482.40,E,E3,1.0,OWN,36500.00,<40k,"Source Verified",debt_consolidation,TN,27.52,20-30,672.0,45.50,0,"Charged Off",1,4,High
+2015,12000.00,36,5.32,361.38,A,A1,NULL,MORTGAGE,110000.00,100-150k,"Not Verified",credit_card,PA,16.19,10-20,747.0,25.00,0,"Fully Paid",0,0,Low
+2015,30000.00,36,12.88,1009.09,C,C2,10.0,RENT,139000.00,100-150k,Verified,credit_card,WA,21.38,20-30,662.0,80.20,1,"Fully Paid",0,4,High
+2015,21000.00,36,9.17,669.46,B,B2,4.0,RENT,80000.00,70-100k,"Not Verified",debt_consolidation,GA,23.42,20-30,707.0,37.20,0,"Fully Paid",0,0,Low
+2015,1000.00,36,12.88,33.64,C,C2,10.0,RENT,45000.00,40-70k,"Not Verified",other,VA,39.11,30-40,697.0,89.30,0,"Fully Paid",0,3,Medium
+2015,3600.00,36,11.99,119.56,C,C1,10.0,RENT,55000.00,40-70k,"Not Verified",debt_consolidation,FL,27.93,20-30,662.0,42.10,0,"Charged Off",1,3,Medium
+2015,12000.00,36,11.48,395.60,B,B5,3.0,MORTGAGE,47140.00,40-70k,"Source Verified",debt_consolidation,NJ,33.10,30-40,697.0,56.70,2,"Fully Paid",0,2,Medium
+2015,20000.00,36,6.99,617.46,A,A3,1.0,MORTGAGE,100000.00,70-100k,"Not Verified",debt_consolidation,NY,7.10,0-10,762.0,5.80,0,"Fully Paid",0,0,Low
+2015,15000.00,36,5.32,451.73,A,A1,0.0,RENT,55000.00,40-70k,"Source Verified",credit_card,NJ,25.25,20-30,692.0,70.20,0,"Fully Paid",0,2,Medium
+2015,7000.00,36,11.48,230.77,B,B5,4.0,OWN,41000.00,40-70k,Verified,home_improvement,MI,19.79,10-20,672.0,20.40,0,"Fully Paid",0,1,Low
+2015,30000.00,36,14.85,1037.76,C,C5,10.0,MORTGAGE,112000.00,100-150k,"Source Verified",debt_consolidation,FL,19.07,10-20,672.0,47.60,2,"Fully Paid",0,3,Medium
+2015,2000.00,36,13.44,67.82,C,C3,10.0,MORTGAGE,43500.00,40-70k,"Source Verified",debt_consolidation,AR,27.61,20-30,687.0,25.80,6,"Fully Paid",0,3,Medium
+2015,13000.00,36,10.78,424.26,B,B4,10.0,MORTGAGE,45000.00,40-70k,Verified,debt_consolidation,KY,26.64,20-30,697.0,24.00,0,"Fully Paid",0,1,Low
+2015,15000.00,36,7.91,469.43,A,A5,10.0,OWN,170000.00,150k+,Verified,credit_card,PA,7.24,0-10,747.0,77.20,0,"Fully Paid",0,1,Low
+2015,17000.00,36,12.88,571.82,C,C2,9.0,RENT,89000.00,70-100k,Verified,debt_consolidation,CA,21.02,20-30,682.0,78.10,0,"Fully Paid",0,2,Medium
+2015,14000.00,36,6.99,432.22,A,A3,5.0,OWN,65000.00,40-70k,"Not Verified",debt_consolidation,NJ,15.22,10-20,737.0,11.20,1,"Fully Paid",0,1,Low
+2015,10500.00,60,18.49,269.44,D,D5,8.0,MORTGAGE,47000.00,40-70k,"Not Verified",debt_consolidation,NC,29.55,20-30,687.0,68.80,0,"Charged Off",1,3,Medium
+2015,15000.00,60,13.44,344.69,C,C3,7.0,OWN,43500.00,40-70k,Verified,debt_consolidation,TX,24.61,20-30,667.0,57.90,0,"Fully Paid",0,2,Medium
+2015,12600.00,36,7.91,394.32,A,A5,7.0,RENT,73000.00,70-100k,"Not Verified",credit_card,IN,21.58,20-30,687.0,51.00,0,"Fully Paid",0,0,Low
+2015,12000.00,36,5.32,361.38,A,A1,9.0,MORTGAGE,98000.00,70-100k,"Not Verified",major_purchase,CA,17.73,10-20,777.0,19.80,0,"Fully Paid",0,0,Low
+2015,28000.00,60,15.77,677.49,D,D1,1.0,RENT,118000.00,100-150k,Verified,debt_consolidation,IN,35.91,30-40,712.0,21.50,0,"Fully Paid",0,2,Medium
+2015,11750.00,60,28.49,369.33,G,G4,1.0,OWN,28000.00,<40k,Verified,debt_consolidation,MS,22.16,20-30,692.0,25.10,0,"Charged Off",1,2,Medium
+2015,24000.00,60,9.80,507.58,B,B3,2.0,MORTGAGE,105000.00,100-150k,"Not Verified",debt_consolidation,TX,8.32,0-10,707.0,28.20,0,"Fully Paid",0,0,Low
+2015,8300.00,36,7.91,259.75,A,A5,NULL,RENT,52000.00,40-70k,"Not Verified",debt_consolidation,CO,9.46,0-10,672.0,35.10,0,"Fully Paid",0,1,Low
+2015,15000.00,36,7.49,466.53,A,A4,10.0,MORTGAGE,67879.00,40-70k,"Not Verified",credit_card,NY,29.60,20-30,732.0,40.40,0,"Fully Paid",0,1,Low
+2015,8000.00,36,10.78,261.08,B,B4,5.0,MORTGAGE,53000.00,40-70k,Verified,debt_consolidation,FL,20.13,20-30,672.0,50.90,0,"Fully Paid",0,1,Low
+2015,24000.00,60,18.99,622.45,E,E1,4.0,RENT,230000.00,150k+,"Source Verified",debt_consolidation,OR,14.44,10-20,677.0,39.70,0,"Charged Off",1,3,Medium
+2015,35000.00,60,14.85,829.90,C,C5,10.0,OWN,90000.00,70-100k,Verified,debt_consolidation,OH,19.13,10-20,727.0,66.40,0,"Fully Paid",0,2,Medium
+2015,12000.00,36,11.48,395.60,B,B5,7.0,MORTGAGE,85000.00,70-100k,"Source Verified",debt_consolidation,PA,22.87,20-30,722.0,31.50,1,"Fully Paid",0,1,Low
+2015,13050.00,60,26.06,391.19,F,F5,10.0,MORTGAGE,43500.00,40-70k,Verified,debt_consolidation,NC,22.79,20-30,717.0,88.30,0,"Fully Paid",0,3,Medium
+2015,8400.00,36,5.32,252.97,A,A1,10.0,MORTGAGE,95000.00,70-100k,"Not Verified",debt_consolidation,NJ,21.79,20-30,727.0,29.50,0,"Charged Off",1,0,Low
+2015,9600.00,36,9.17,306.04,B,B2,8.0,MORTGAGE,90000.00,70-100k,"Not Verified",debt_consolidation,KY,15.15,10-20,707.0,31.30,1,"Fully Paid",0,1,Low
+2015,10000.00,36,9.17,318.79,B,B2,4.0,RENT,35000.00,<40k,"Not Verified",debt_consolidation,FL,10.55,10-20,707.0,37.00,0,"Fully Paid",0,0,Low
+2015,1800.00,36,9.17,57.39,B,B2,1.0,MORTGAGE,72000.00,70-100k,"Not Verified",debt_consolidation,GA,13.42,10-20,757.0,9.90,0,"Fully Paid",0,0,Low
+2015,15000.00,36,12.88,504.55,C,C2,5.0,MORTGAGE,94000.00,70-100k,"Source Verified",debt_consolidation,OH,13.21,10-20,672.0,52.00,0,"Fully Paid",0,2,Medium
+2015,6000.00,36,9.17,191.28,B,B2,1.0,RENT,20000.00,<40k,"Source Verified",debt_consolidation,WA,16.99,10-20,717.0,79.30,0,"Fully Paid",0,1,Low
+2015,10000.00,36,6.49,306.45,A,A2,0.0,MORTGAGE,35000.00,<40k,"Source Verified",home_improvement,MI,19.44,10-20,757.0,19.70,0,"Fully Paid",0,0,Low
+2015,25000.00,36,5.32,752.87,A,A1,10.0,RENT,99000.00,70-100k,"Not Verified",credit_card,IL,18.47,10-20,747.0,43.30,0,"Fully Paid",0,0,Low
+2015,8675.00,36,19.89,321.91,E,E3,NULL,MORTGAGE,36000.00,<40k,Verified,debt_consolidation,MD,33.93,30-40,677.0,54.00,0,"Fully Paid",0,4,High
+2015,14000.00,36,14.85,484.29,C,C5,2.0,RENT,44500.00,40-70k,Verified,debt_consolidation,LA,20.05,20-30,672.0,82.30,0,"Charged Off",1,3,Medium
+2015,16000.00,60,12.88,363.07,C,C2,10.0,MORTGAGE,64000.00,40-70k,"Not Verified",debt_consolidation,FL,5.76,0-10,687.0,79.20,0,"Fully Paid",0,2,Medium
+2015,21700.00,60,22.45,604.90,F,F1,10.0,OWN,60300.00,40-70k,Verified,debt_consolidation,MD,24.74,20-30,672.0,71.10,1,"Fully Paid",0,5,High
+2015,2800.00,36,17.97,101.19,D,D4,2.0,RENT,58000.00,40-70k,"Not Verified",small_business,CA,18.60,10-20,697.0,53.90,0,"Fully Paid",0,1,Low
+2015,3600.00,36,6.99,111.15,A,A3,10.0,MORTGAGE,150000.00,100-150k,"Source Verified",debt_consolidation,MA,28.08,20-30,727.0,58.80,0,"Fully Paid",0,1,Low
+2015,20000.00,36,6.99,617.46,A,A3,10.0,RENT,105000.00,100-150k,Verified,credit_card,OH,19.02,10-20,712.0,66.90,0,"Fully Paid",0,1,Low
+2015,30000.00,60,19.48,786.17,E,E2,10.0,MORTGAGE,88000.00,70-100k,"Source Verified",debt_consolidation,TX,18.47,10-20,667.0,69.20,0,"Fully Paid",0,4,High
+2015,20000.00,36,7.49,622.04,A,A4,4.0,RENT,105000.00,100-150k,"Not Verified",debt_consolidation,NC,9.71,0-10,702.0,65.80,1,"Fully Paid",0,2,Medium
+2015,30000.00,60,20.50,803.19,E,E4,0.0,MORTGAGE,98000.00,70-100k,"Source Verified",debt_consolidation,MA,7.96,0-10,662.0,69.30,2,"Fully Paid",0,5,High
+2015,10000.00,36,9.80,321.74,B,B3,1.0,RENT,75000.00,70-100k,"Source Verified",debt_consolidation,CA,14.16,10-20,702.0,30.00,0,"Fully Paid",0,0,Low
+2015,30000.00,60,13.99,697.90,C,C4,0.0,OWN,70000.00,40-70k,Verified,home_improvement,NC,20.72,20-30,767.0,12.20,0,"Fully Paid",0,1,Low
+2015,3350.00,36,7.91,104.84,A,A5,NULL,MORTGAGE,42251.00,40-70k,"Not Verified",credit_card,MS,23.49,20-30,682.0,78.00,0,"Fully Paid",0,1,Low
+2015,12000.00,60,18.99,311.23,E,E1,0.0,RENT,50000.00,40-70k,Verified,credit_card,CA,21.87,20-30,667.0,61.00,0,"Charged Off",1,4,High
+2015,6000.00,36,7.49,186.61,A,A4,10.0,MORTGAGE,67000.00,40-70k,"Not Verified",credit_card,UT,29.05,20-30,717.0,87.10,0,"Fully Paid",0,2,Medium
+2015,19200.00,60,10.78,415.36,B,B4,0.0,RENT,65000.00,40-70k,"Not Verified",debt_consolidation,GA,15.50,10-20,692.0,74.90,0,"Fully Paid",0,1,Low
+2015,12000.00,60,11.48,263.80,B,B5,5.0,MORTGAGE,110000.00,100-150k,"Source Verified",debt_consolidation,GA,4.90,0-10,677.0,53.80,5,"Fully Paid",0,2,Medium
+2015,20000.00,36,6.49,612.89,A,A2,10.0,OWN,78000.00,70-100k,"Not Verified",credit_card,FL,21.60,20-30,732.0,63.60,0,"Fully Paid",0,1,Low
+2015,13200.00,36,14.85,456.62,C,C5,1.0,OWN,61000.00,40-70k,Verified,debt_consolidation,NY,15.42,10-20,682.0,46.50,0,"Fully Paid",0,1,Low
+2015,35000.00,36,7.91,1095.33,A,A5,4.0,OWN,145000.00,100-150k,"Source Verified",credit_card,NC,13.77,10-20,712.0,50.60,0,"Fully Paid",0,0,Low
+2015,14400.00,36,8.49,454.51,B,B1,0.0,RENT,47000.00,40-70k,"Not Verified",debt_consolidation,TX,27.96,20-30,717.0,55.30,0,"Fully Paid",0,1,Low
+2015,3000.00,36,11.48,98.90,B,B5,5.0,MORTGAGE,45000.00,40-70k,"Source Verified",debt_consolidation,GA,15.73,10-20,767.0,15.90,0,"Fully Paid",0,0,Low
+2015,23200.00,36,9.17,739.60,B,B2,0.0,RENT,110000.00,100-150k,Verified,credit_card,MA,18.84,10-20,667.0,80.80,0,"Fully Paid",0,2,Medium
+2015,18250.00,36,11.48,601.64,B,B5,NULL,MORTGAGE,39696.00,<40k,"Not Verified",credit_card,GA,24.55,20-30,667.0,54.90,0,"Fully Paid",0,1,Low
+2015,14000.00,60,19.89,370.06,E,E3,3.0,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,OH,16.03,10-20,662.0,78.10,0,"Fully Paid",0,4,High
+2015,12000.00,36,13.99,410.08,C,C4,10.0,MORTGAGE,90000.00,70-100k,"Source Verified",debt_consolidation,OH,29.15,20-30,672.0,82.80,2,"Charged Off",1,5,High
+2015,3000.00,36,13.44,101.72,C,C3,2.0,RENT,50740.00,40-70k,"Source Verified",other,AZ,17.24,10-20,672.0,64.30,0,"Fully Paid",0,3,Medium
+2015,4000.00,36,7.49,124.41,A,A4,5.0,RENT,83500.00,70-100k,Verified,car,MI,2.17,0-10,757.0,0.50,0,"Fully Paid",0,0,Low
+2015,5000.00,36,11.99,166.05,C,C1,2.0,RENT,65000.00,40-70k,Verified,major_purchase,TX,18.52,10-20,692.0,60.70,0,"Charged Off",1,2,Medium
+2015,12425.00,60,18.99,322.25,E,E1,NULL,RENT,24897.72,<40k,"Not Verified",debt_consolidation,NY,6.62,0-10,722.0,18.70,0,"Fully Paid",0,2,Medium
+2015,31325.00,36,15.77,1097.75,D,D1,1.0,RENT,157000.00,150k+,"Source Verified",credit_card,NY,30.13,30-40,692.0,70.50,0,"Fully Paid",0,3,Medium
+2015,28000.00,36,6.49,858.05,A,A2,10.0,MORTGAGE,82000.00,70-100k,Verified,credit_card,CT,12.67,10-20,702.0,61.00,0,"Fully Paid",0,1,Low
+2015,2500.00,36,14.85,86.48,C,C5,10.0,RENT,32000.00,<40k,"Source Verified",major_purchase,CA,16.73,10-20,672.0,59.20,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,8.49,157.82,B,B1,0.0,MORTGAGE,29000.00,<40k,"Not Verified",debt_consolidation,AL,6.46,0-10,692.0,56.00,0,"Fully Paid",0,0,Low
+2015,1400.00,36,16.59,49.63,D,D2,10.0,MORTGAGE,54000.00,40-70k,"Source Verified",home_improvement,AL,20.24,20-30,667.0,46.10,0,"Fully Paid",0,2,Medium
+2015,8200.00,36,16.59,290.69,D,D2,3.0,MORTGAGE,79000.00,70-100k,"Not Verified",debt_consolidation,MI,0.76,0-10,672.0,8.80,1,"Fully Paid",0,3,Medium
+2015,5400.00,36,5.32,162.62,A,A1,2.0,RENT,41000.00,40-70k,"Not Verified",credit_card,MA,26.23,20-30,772.0,3.90,0,"Fully Paid",0,1,Low
+2015,25000.00,36,11.48,824.17,B,B5,10.0,RENT,185000.00,150k+,"Not Verified",debt_consolidation,AZ,14.03,10-20,707.0,46.80,0,"Fully Paid",0,0,Low
+2015,20000.00,36,12.88,672.73,C,C2,10.0,OWN,50000.00,40-70k,"Source Verified",debt_consolidation,OH,4.94,0-10,662.0,59.20,0,"Fully Paid",0,2,Medium
+2015,25500.00,36,11.99,846.85,C,C1,7.0,RENT,72000.00,70-100k,"Not Verified",credit_card,NJ,16.37,10-20,717.0,38.10,0,"Fully Paid",0,1,Low
+2015,13475.00,36,7.91,421.70,A,A5,10.0,OWN,120000.00,100-150k,Verified,other,NJ,19.79,10-20,747.0,54.00,0,"Fully Paid",0,0,Low
+2015,7200.00,36,8.49,227.26,B,B1,4.0,RENT,42000.00,40-70k,"Source Verified",major_purchase,GA,13.54,10-20,692.0,18.20,0,"Fully Paid",0,0,Low
+2015,30000.00,36,14.85,1037.76,C,C5,6.0,MORTGAGE,124000.00,100-150k,"Not Verified",debt_consolidation,NY,15.61,10-20,677.0,74.10,0,"Fully Paid",0,3,Medium
+2015,15000.00,36,8.49,473.45,B,B1,0.0,RENT,50500.00,40-70k,"Not Verified",debt_consolidation,MN,24.76,20-30,782.0,20.50,0,"Fully Paid",0,0,Low
+2015,21600.00,60,19.48,566.04,E,E2,5.0,MORTGAGE,121000.00,100-150k,Verified,debt_consolidation,KS,19.93,10-20,667.0,70.00,2,"Charged Off",1,5,High
+2015,15000.00,60,11.99,333.60,C,C1,3.0,MORTGAGE,100000.00,70-100k,"Source Verified",debt_consolidation,PA,7.58,0-10,662.0,23.80,0,"Fully Paid",0,2,Medium
+2015,11000.00,60,18.99,285.29,E,E1,10.0,RENT,55000.00,40-70k,Verified,moving,NY,0.94,0-10,732.0,4.50,0,"Fully Paid",0,2,Medium
+2015,6400.00,36,13.44,217.01,C,C3,10.0,RENT,54000.00,40-70k,"Source Verified",debt_consolidation,MA,27.44,20-30,682.0,21.20,2,"Charged Off",1,3,Medium
+2015,10000.00,36,8.49,315.63,B,B1,4.0,RENT,63000.00,40-70k,"Not Verified",debt_consolidation,TX,24.67,20-30,692.0,86.30,0,"Charged Off",1,1,Low
+2015,5725.00,36,6.99,176.75,A,A3,3.0,RENT,25000.00,<40k,"Not Verified",debt_consolidation,CA,12.67,10-20,702.0,31.00,0,"Fully Paid",0,0,Low
+2015,15600.00,36,8.49,492.39,B,B1,5.0,OWN,38000.00,<40k,"Not Verified",debt_consolidation,LA,17.59,10-20,712.0,29.70,0,"Charged Off",1,0,Low
+2015,20000.00,60,17.27,499.96,D,D3,9.0,RENT,124000.00,100-150k,"Not Verified",credit_card,CA,31.23,30-40,672.0,65.60,0,"Charged Off",1,4,High
+2015,4550.00,36,10.78,148.49,B,B4,5.0,MORTGAGE,78000.00,70-100k,"Not Verified",small_business,IN,26.08,20-30,672.0,56.10,0,"Fully Paid",0,2,Medium
+2015,11000.00,36,11.48,362.64,B,B5,4.0,MORTGAGE,75000.00,70-100k,Verified,debt_consolidation,MN,10.78,10-20,667.0,92.30,0,"Fully Paid",0,2,Medium
+2015,26825.00,60,18.99,695.71,E,E1,10.0,MORTGAGE,66548.00,40-70k,Verified,debt_consolidation,MN,31.61,30-40,687.0,84.00,0,"Fully Paid",0,4,High
+2015,8375.00,36,13.99,286.20,C,C4,10.0,OWN,32000.00,<40k,"Source Verified",debt_consolidation,AR,7.50,0-10,662.0,29.30,0,"Charged Off",1,2,Medium
+2015,25000.00,36,8.49,789.08,B,B1,3.0,MORTGAGE,135000.00,100-150k,"Not Verified",debt_consolidation,NY,22.37,20-30,717.0,37.30,2,"Fully Paid",0,1,Low
+2015,15000.00,60,19.89,396.50,E,E3,9.0,RENT,50000.00,40-70k,Verified,debt_consolidation,GA,21.87,20-30,692.0,26.80,0,"Charged Off",1,2,Medium
+2015,19200.00,36,5.32,578.21,A,A1,8.0,RENT,60000.00,40-70k,"Not Verified",credit_card,NY,17.84,10-20,722.0,75.90,0,"Fully Paid",0,1,Low
+2015,16000.00,36,14.85,553.48,C,C5,5.0,MORTGAGE,70000.00,40-70k,"Source Verified",small_business,IL,26.16,20-30,737.0,0.90,0,"Fully Paid",0,2,Medium
+2015,24000.00,36,7.49,746.44,A,A4,NULL,MORTGAGE,48000.00,40-70k,"Not Verified",credit_card,AZ,16.58,10-20,737.0,47.50,0,"Fully Paid",0,0,Low
+2015,12000.00,36,5.32,361.38,A,A1,2.0,OWN,50000.00,40-70k,"Source Verified",credit_card,KY,7.54,0-10,772.0,17.60,0,"Fully Paid",0,0,Low
+2015,14400.00,36,9.17,459.06,B,B2,10.0,RENT,82000.00,70-100k,"Not Verified",major_purchase,IN,12.47,10-20,672.0,39.00,1,"Fully Paid",0,2,Medium
+2015,4325.00,36,9.80,139.15,B,B3,2.0,MORTGAGE,40000.00,<40k,"Not Verified",car,MO,14.79,10-20,662.0,60.00,0,"Fully Paid",0,1,Low
+2015,7500.00,36,16.59,265.87,D,D2,3.0,OWN,50000.00,40-70k,"Source Verified",home_improvement,WV,26.76,20-30,667.0,44.60,1,"Fully Paid",0,4,High
+2015,25000.00,60,10.78,540.83,B,B4,6.0,RENT,50000.00,40-70k,Verified,credit_card,TX,39.30,30-40,727.0,71.60,0,"Fully Paid",0,2,Medium
+2015,14000.00,36,10.78,456.89,B,B4,NULL,MORTGAGE,120000.00,100-150k,"Source Verified",credit_card,TN,12.52,10-20,707.0,62.70,1,"Fully Paid",0,2,Medium
+2015,3525.00,36,11.48,116.21,B,B5,1.0,RENT,20000.00,<40k,"Not Verified",credit_card,FL,25.63,20-30,677.0,68.00,0,"Fully Paid",0,3,Medium
+2015,5400.00,36,9.80,173.74,B,B3,2.0,RENT,80000.00,70-100k,"Source Verified",debt_consolidation,TX,18.17,10-20,667.0,75.20,3,"Charged Off",1,3,Medium
+2015,24000.00,60,23.13,678.37,F,F2,6.0,MORTGAGE,104000.00,100-150k,Verified,debt_consolidation,MD,24.75,20-30,667.0,87.40,0,"Fully Paid",0,4,High
+2015,17000.00,36,6.49,520.96,A,A2,2.0,MORTGAGE,52000.00,40-70k,"Not Verified",debt_consolidation,FL,12.29,10-20,682.0,10.70,1,"Fully Paid",0,1,Low
+2015,10000.00,36,13.44,339.07,C,C3,10.0,MORTGAGE,90000.00,70-100k,Verified,credit_card,FL,16.28,10-20,687.0,20.40,0,"Fully Paid",0,1,Low
+2015,35000.00,60,17.97,888.20,D,D4,10.0,MORTGAGE,150000.00,100-150k,"Not Verified",debt_consolidation,PA,25.11,20-30,672.0,85.30,1,"Fully Paid",0,5,High
+2015,12000.00,60,8.49,246.15,B,B1,0.0,MORTGAGE,68000.00,40-70k,"Not Verified",debt_consolidation,NC,12.02,10-20,742.0,37.30,0,"Fully Paid",0,0,Low
+2015,21600.00,60,14.85,512.17,C,C5,4.0,MORTGAGE,86000.00,70-100k,"Source Verified",other,MA,13.58,10-20,687.0,25.40,0,"Fully Paid",0,1,Low
+2015,4000.00,36,15.77,140.18,D,D1,1.0,RENT,60000.00,40-70k,Verified,credit_card,VA,38.02,30-40,697.0,30.30,0,"Fully Paid",0,2,Medium
+2015,18000.00,36,5.32,542.07,A,A1,7.0,OWN,200000.00,150k+,"Not Verified",debt_consolidation,TX,13.57,10-20,777.0,17.60,0,"Fully Paid",0,0,Low
+2015,20900.00,36,18.49,760.74,D,D5,2.0,OWN,55000.00,40-70k,"Not Verified",car,MA,18.96,10-20,667.0,84.10,0,"Fully Paid",0,3,Medium
+2015,20825.00,60,16.59,512.98,D,D2,10.0,MORTGAGE,81500.00,70-100k,Verified,debt_consolidation,GA,24.59,20-30,677.0,34.00,2,"Fully Paid",0,3,Medium
+2015,10175.00,36,9.80,327.37,B,B3,3.0,MORTGAGE,65000.00,40-70k,Verified,debt_consolidation,FL,28.03,20-30,692.0,57.00,0,"Fully Paid",0,1,Low
+2015,12000.00,60,16.59,295.60,D,D2,10.0,MORTGAGE,101000.00,100-150k,"Not Verified",debt_consolidation,CA,22.96,20-30,687.0,46.90,0,"Fully Paid",0,1,Low
+2015,20000.00,60,15.77,483.93,D,D1,6.0,RENT,57000.00,40-70k,Verified,debt_consolidation,NC,21.09,20-30,682.0,98.10,0,"Charged Off",1,2,Medium
+2015,4000.00,36,9.80,128.70,B,B3,10.0,MORTGAGE,47000.00,40-70k,"Not Verified",home_improvement,IL,19.59,10-20,757.0,14.70,0,"Fully Paid",0,0,Low
+2015,15000.00,36,10.78,489.52,B,B4,10.0,MORTGAGE,200000.00,150k+,"Source Verified",credit_card,IL,13.57,10-20,712.0,55.90,0,"Charged Off",1,0,Low
+2015,16000.00,60,18.49,410.58,D,D5,10.0,RENT,65000.00,40-70k,Verified,credit_card,GA,15.73,10-20,682.0,77.10,0,"Fully Paid",0,2,Medium
+2015,14000.00,60,15.77,338.75,D,D1,10.0,RENT,132700.00,100-150k,"Source Verified",debt_consolidation,PA,25.38,20-30,662.0,78.00,2,"Fully Paid",0,5,High
+2015,4175.00,36,12.88,140.44,C,C2,4.0,MORTGAGE,50720.00,40-70k,"Source Verified",debt_consolidation,MN,9.16,0-10,667.0,85.00,0,"Fully Paid",0,3,Medium
+2015,5000.00,36,11.48,164.84,B,B5,8.0,OWN,43498.00,40-70k,Verified,debt_consolidation,TX,26.20,20-30,662.0,75.20,1,"Charged Off",1,4,High
+2015,20000.00,36,9.17,637.58,B,B2,NULL,MORTGAGE,60000.00,40-70k,"Source Verified",credit_card,WA,10.45,10-20,667.0,52.30,0,"Fully Paid",0,1,Low
+2015,30000.00,36,6.99,926.18,A,A3,10.0,MORTGAGE,202000.00,150k+,"Not Verified",credit_card,NH,11.65,10-20,732.0,82.20,0,"Fully Paid",0,1,Low
+2015,5500.00,36,11.99,182.66,C,C1,3.0,RENT,37000.00,<40k,"Source Verified",debt_consolidation,CA,21.15,20-30,722.0,81.00,0,"Fully Paid",0,2,Medium
+2015,30000.00,36,12.88,1009.09,C,C2,3.0,RENT,100000.00,70-100k,Verified,debt_consolidation,CA,16.21,10-20,697.0,56.00,0,"Fully Paid",0,1,Low
+2015,24000.00,36,13.44,813.76,C,C3,3.0,OWN,120000.00,100-150k,Verified,debt_consolidation,NY,14.42,10-20,702.0,82.50,0,"Fully Paid",0,2,Medium
+2015,9800.00,36,10.78,319.82,B,B4,10.0,MORTGAGE,47000.00,40-70k,"Source Verified",debt_consolidation,OH,14.69,10-20,667.0,67.90,0,"Fully Paid",0,2,Medium
+2015,12000.00,36,9.17,382.55,B,B2,3.0,MORTGAGE,110000.00,100-150k,"Not Verified",credit_card,OH,24.61,20-30,697.0,68.30,0,"Fully Paid",0,1,Low
+2015,15000.00,36,5.32,451.73,A,A1,10.0,OWN,70000.00,40-70k,"Not Verified",credit_card,CA,22.77,20-30,707.0,58.80,0,"Fully Paid",0,0,Low
+2015,24000.00,36,7.91,751.08,A,A5,6.0,MORTGAGE,80000.00,70-100k,"Not Verified",debt_consolidation,GA,27.58,20-30,757.0,44.50,0,"Fully Paid",0,1,Low
+2015,10000.00,36,8.49,315.63,B,B1,0.0,RENT,45000.00,40-70k,"Not Verified",debt_consolidation,TX,31.80,30-40,702.0,48.00,1,"Fully Paid",0,2,Medium
+2015,19800.00,36,12.88,666.00,C,C2,7.0,MORTGAGE,78924.00,70-100k,"Not Verified",debt_consolidation,MD,13.12,10-20,767.0,24.70,0,"Fully Paid",0,1,Low
+2015,8000.00,36,9.17,255.04,B,B2,3.0,RENT,38480.00,<40k,Verified,credit_card,NY,29.20,20-30,707.0,11.20,1,"Fully Paid",0,2,Medium
+2015,5600.00,36,12.88,188.37,C,C2,10.0,RENT,38000.00,<40k,Verified,debt_consolidation,FL,30.98,30-40,687.0,55.70,1,"Fully Paid",0,3,Medium
+2015,20000.00,36,9.80,643.47,B,B3,3.0,OWN,100000.00,70-100k,"Source Verified",debt_consolidation,NY,15.83,10-20,682.0,37.70,0,"Fully Paid",0,0,Low
+2015,10000.00,36,5.32,301.15,A,A1,6.0,MORTGAGE,118000.00,100-150k,"Not Verified",debt_consolidation,MD,7.37,0-10,712.0,44.30,0,"Fully Paid",0,0,Low
+2015,3000.00,36,11.99,99.63,C,C1,0.0,RENT,42000.00,40-70k,"Source Verified",house,NY,6.74,0-10,687.0,50.40,0,"Fully Paid",0,1,Low
+2015,9525.00,36,20.50,356.42,E,E4,3.0,RENT,35000.00,<40k,"Source Verified",debt_consolidation,NY,18.39,10-20,662.0,33.50,0,"Fully Paid",0,3,Medium
+2015,10000.00,36,9.80,321.74,B,B3,3.0,OWN,52000.00,40-70k,"Source Verified",debt_consolidation,GA,18.69,10-20,692.0,32.20,0,"Fully Paid",0,0,Low
+2015,10000.00,36,7.49,311.02,A,A4,8.0,MORTGAGE,60000.00,40-70k,"Source Verified",debt_consolidation,CA,26.02,20-30,747.0,66.10,0,"Fully Paid",0,2,Medium
+2015,15500.00,36,11.99,514.75,C,C1,10.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,MN,12.63,10-20,667.0,28.20,1,"Fully Paid",0,3,Medium
+2015,3000.00,36,7.49,93.31,A,A4,10.0,MORTGAGE,86000.00,70-100k,Verified,medical,CA,1.94,0-10,787.0,7.10,0,"Fully Paid",0,0,Low
+2015,1000.00,36,13.44,33.91,C,C3,10.0,RENT,50000.00,40-70k,"Source Verified",debt_consolidation,NY,3.07,0-10,662.0,29.80,1,"Fully Paid",0,3,Medium
+2015,20000.00,36,11.48,659.33,B,B5,4.0,OWN,79000.00,70-100k,"Source Verified",debt_consolidation,NJ,8.39,0-10,672.0,31.40,0,"Charged Off",1,1,Low
+2015,16275.00,60,27.49,501.74,G,G2,1.0,RENT,37000.00,<40k,Verified,debt_consolidation,AZ,18.72,10-20,687.0,12.30,0,"Charged Off",1,2,Medium
+2015,16000.00,36,18.49,582.38,D,D5,2.0,OWN,40000.00,<40k,Verified,small_business,FL,34.41,30-40,682.0,50.00,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,11.48,329.67,B,B5,3.0,RENT,72000.00,70-100k,Verified,debt_consolidation,TX,22.83,20-30,692.0,16.00,0,"Fully Paid",0,0,Low
+2015,4000.00,36,7.91,125.18,A,A5,0.0,RENT,45000.00,40-70k,"Not Verified",debt_consolidation,MO,19.07,10-20,742.0,11.60,0,"Fully Paid",0,0,Low
+2015,4000.00,36,11.99,132.84,C,C1,10.0,RENT,53000.00,40-70k,Verified,other,PA,15.53,10-20,702.0,50.50,1,"Fully Paid",0,2,Medium
+2015,10650.00,36,19.89,395.20,E,E3,6.0,RENT,87500.00,70-100k,Verified,house,MD,11.41,10-20,692.0,25.10,2,"Charged Off",1,3,Medium
+2015,6950.00,36,13.99,237.51,C,C4,10.0,MORTGAGE,20000.00,<40k,Verified,home_improvement,OH,24.13,20-30,667.0,84.70,0,"Fully Paid",0,3,Medium
+2015,8000.00,36,9.80,257.39,B,B3,7.0,RENT,26000.00,<40k,"Source Verified",debt_consolidation,WA,5.68,0-10,712.0,66.80,0,"Fully Paid",0,1,Low
+2015,8000.00,36,9.80,257.39,B,B3,7.0,MORTGAGE,76000.00,70-100k,"Source Verified",debt_consolidation,NC,12.29,10-20,687.0,83.20,0,"Fully Paid",0,1,Low
+2015,8000.00,36,13.44,271.26,C,C3,8.0,MORTGAGE,65000.00,40-70k,"Not Verified",credit_card,TN,38.63,30-40,672.0,77.10,0,"Fully Paid",0,4,High
+2015,7500.00,36,5.32,225.87,A,A1,1.0,RENT,60000.00,40-70k,"Not Verified",credit_card,AZ,21.84,20-30,762.0,11.40,0,"Fully Paid",0,0,Low
+2015,22350.00,60,19.48,585.70,E,E2,9.0,MORTGAGE,85000.00,70-100k,Verified,credit_card,WV,35.79,30-40,717.0,71.30,0,"Charged Off",1,4,High
+2015,10000.00,36,9.80,321.74,B,B3,7.0,RENT,75000.00,70-100k,"Not Verified",major_purchase,KS,10.94,10-20,732.0,39.10,0,"Fully Paid",0,0,Low
+2015,6000.00,36,9.17,191.28,B,B2,0.0,RENT,44000.00,40-70k,"Source Verified",credit_card,TX,20.62,20-30,682.0,56.80,0,"Fully Paid",0,0,Low
+2015,15000.00,60,19.89,396.50,E,E3,10.0,MORTGAGE,62800.00,40-70k,"Source Verified",debt_consolidation,OR,21.19,20-30,662.0,37.80,1,"Fully Paid",0,4,High
+2015,4900.00,36,15.77,171.72,D,D1,3.0,RENT,36000.00,<40k,Verified,major_purchase,NY,20.50,20-30,667.0,71.00,1,"Fully Paid",0,4,High
+2015,13450.00,60,17.97,341.33,D,D4,8.0,MORTGAGE,52500.00,40-70k,"Source Verified",other,IN,25.07,20-30,682.0,42.20,1,"Fully Paid",0,3,Medium
+2015,5000.00,36,11.99,166.05,C,C1,0.0,MORTGAGE,95000.00,70-100k,Verified,credit_card,NV,18.65,10-20,777.0,33.40,0,"Fully Paid",0,1,Low
+2015,28000.00,60,9.80,592.17,B,B3,8.0,MORTGAGE,118000.00,100-150k,"Not Verified",credit_card,MS,19.34,10-20,717.0,69.10,1,"Fully Paid",0,2,Medium
+2015,9600.00,36,11.99,318.82,C,C1,10.0,RENT,43420.00,40-70k,"Source Verified",debt_consolidation,CA,7.19,0-10,692.0,72.20,0,"Fully Paid",0,2,Medium
+2015,14000.00,36,6.49,429.03,A,A2,3.0,MORTGAGE,40000.00,<40k,"Not Verified",credit_card,TX,14.27,10-20,802.0,23.20,0,"Fully Paid",0,0,Low
+2015,30000.00,36,13.99,1025.19,C,C4,10.0,MORTGAGE,95000.00,70-100k,"Source Verified",debt_consolidation,NC,18.97,10-20,687.0,61.00,0,"Charged Off",1,2,Medium
+2015,17600.00,36,23.13,682.49,F,F2,0.0,RENT,40000.00,<40k,Verified,credit_card,OR,39.23,30-40,682.0,94.60,0,"Fully Paid",0,4,High
+2015,5000.00,36,12.88,168.19,C,C2,5.0,OWN,25000.00,<40k,"Not Verified",other,CA,30.94,30-40,717.0,37.10,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,13.44,1186.72,C,C3,9.0,RENT,86000.00,70-100k,"Source Verified",home_improvement,CA,16.93,10-20,672.0,3.20,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,10.78,163.18,B,B4,0.0,RENT,42000.00,40-70k,"Source Verified",debt_consolidation,CT,22.09,20-30,687.0,63.10,1,"Fully Paid",0,2,Medium
+2015,30000.00,36,7.91,938.85,A,A5,10.0,MORTGAGE,153996.00,150k+,Verified,debt_consolidation,IL,19.87,10-20,742.0,94.50,0,"Fully Paid",0,1,Low
+2015,31075.00,60,13.99,722.90,C,C4,6.0,MORTGAGE,107901.00,100-150k,"Source Verified",debt_consolidation,WA,6.80,0-10,682.0,70.40,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,10.78,489.52,B,B4,7.0,OWN,100000.00,70-100k,"Not Verified",debt_consolidation,NY,15.48,10-20,672.0,93.30,0,"Fully Paid",0,2,Medium
+2015,24000.00,60,7.91,485.61,A,A5,8.0,MORTGAGE,116250.00,100-150k,"Not Verified",debt_consolidation,AR,19.88,10-20,712.0,49.30,0,"Fully Paid",0,0,Low
+2015,24000.00,36,6.49,735.47,A,A2,6.0,RENT,100000.00,70-100k,"Not Verified",credit_card,NC,10.06,10-20,712.0,39.60,0,"Fully Paid",0,0,Low
+2015,6225.00,36,11.48,205.22,B,B5,10.0,MORTGAGE,35000.00,<40k,"Source Verified",credit_card,CA,34.16,30-40,697.0,73.50,0,"Fully Paid",0,2,Medium
+2015,9500.00,36,9.17,302.85,B,B2,4.0,RENT,72500.00,70-100k,"Not Verified",debt_consolidation,AL,9.63,0-10,682.0,25.60,1,"Fully Paid",0,1,Low
+2015,7800.00,36,10.78,254.56,B,B4,2.0,RENT,50500.00,40-70k,"Source Verified",medical,MO,12.02,10-20,662.0,46.60,0,"Charged Off",1,1,Low
+2015,14400.00,36,7.49,447.87,A,A4,10.0,MORTGAGE,78000.00,70-100k,Verified,credit_card,FL,28.80,20-30,697.0,40.00,0,"Fully Paid",0,1,Low
+2015,35000.00,60,12.88,794.21,C,C2,5.0,RENT,195300.00,150k+,"Source Verified",debt_consolidation,AZ,17.64,10-20,737.0,57.60,0,"Fully Paid",0,1,Low
+2015,35000.00,60,19.48,917.19,E,E2,6.0,RENT,70000.00,40-70k,"Source Verified",major_purchase,HI,31.27,30-40,677.0,36.30,0,"Fully Paid",0,4,High
+2015,15350.00,36,18.99,562.60,E,E1,10.0,RENT,61000.00,40-70k,Verified,debt_consolidation,PA,19.83,10-20,667.0,70.50,0,"Fully Paid",0,4,High
+2015,12125.00,36,17.97,438.17,D,D4,NULL,OWN,27577.00,<40k,Verified,debt_consolidation,SC,38.16,30-40,692.0,73.00,0,"Fully Paid",0,3,Medium
+2015,12000.00,36,5.32,361.38,A,A1,10.0,MORTGAGE,107000.00,100-150k,"Not Verified",debt_consolidation,VA,21.61,20-30,767.0,10.50,0,"Fully Paid",0,0,Low
+2015,18000.00,36,11.48,593.40,B,B5,10.0,RENT,86000.00,70-100k,"Not Verified",medical,CA,31.23,30-40,757.0,18.90,0,"Charged Off",1,1,Low
+2015,14100.00,36,16.59,499.84,D,D2,0.0,RENT,42000.00,40-70k,Verified,credit_card,NY,15.97,10-20,692.0,52.10,0,"Fully Paid",0,1,Low
+2015,20000.00,36,11.48,659.33,B,B5,10.0,MORTGAGE,120000.00,100-150k,"Not Verified",debt_consolidation,MA,13.83,10-20,697.0,44.70,0,"Fully Paid",0,0,Low
+2015,12000.00,60,13.44,275.75,C,C3,8.0,MORTGAGE,55000.00,40-70k,"Not Verified",debt_consolidation,IN,15.75,10-20,692.0,44.30,1,"Charged Off",1,2,Medium
+2015,8000.00,36,11.48,263.74,B,B5,1.0,RENT,50000.00,40-70k,"Source Verified",credit_card,CA,12.67,10-20,682.0,30.00,0,"Fully Paid",0,0,Low
+2015,5525.00,36,17.97,199.66,D,D4,0.0,RENT,60000.00,40-70k,"Source Verified",debt_consolidation,AZ,17.58,10-20,682.0,35.70,0,"Charged Off",1,1,Low
+2015,3600.00,36,13.44,122.07,C,C3,10.0,MORTGAGE,90791.91,70-100k,"Source Verified",other,MD,13.03,10-20,667.0,8.50,0,"Fully Paid",0,2,Medium
+2015,9600.00,36,6.49,294.19,A,A2,3.0,MORTGAGE,50000.00,40-70k,"Not Verified",debt_consolidation,NV,8.76,0-10,712.0,8.20,0,"Fully Paid",0,0,Low
+2015,14225.00,60,15.77,344.19,D,D1,5.0,MORTGAGE,68000.00,40-70k,Verified,home_improvement,AL,11.33,10-20,662.0,25.00,0,"Fully Paid",0,2,Medium
+2015,1500.00,36,9.17,47.82,B,B2,10.0,MORTGAGE,83000.00,70-100k,"Not Verified",major_purchase,TN,22.40,20-30,677.0,79.00,0,"Fully Paid",0,2,Medium
+2015,24000.00,60,16.59,591.19,D,D2,10.0,MORTGAGE,155000.00,150k+,"Not Verified",home_improvement,GA,16.89,10-20,672.0,72.50,2,"Fully Paid",0,4,High
+2015,20000.00,36,8.49,631.26,B,B1,0.0,MORTGAGE,80000.00,70-100k,"Source Verified",credit_card,KS,19.26,10-20,682.0,41.50,0,"Fully Paid",0,0,Low
+2015,24800.00,60,21.48,677.64,E,E5,5.0,RENT,70000.00,40-70k,Verified,credit_card,CO,14.17,10-20,682.0,45.30,0,"Fully Paid",0,2,Medium
+2015,35000.00,36,18.49,1273.96,D,D5,10.0,OWN,170000.00,150k+,"Source Verified",debt_consolidation,TX,16.04,10-20,672.0,55.80,1,"Charged Off",1,3,Medium
+2015,28000.00,36,11.99,929.87,C,C1,NULL,MORTGAGE,75000.00,70-100k,"Source Verified",debt_consolidation,KS,11.36,10-20,662.0,64.00,4,"Fully Paid",0,4,High
+2015,21500.00,36,18.99,788.00,E,E1,10.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,NV,30.26,30-40,672.0,48.40,0,"Fully Paid",0,4,High
+2015,10000.00,36,12.88,336.37,C,C2,3.0,RENT,160000.00,150k+,Verified,debt_consolidation,MD,11.44,10-20,677.0,36.90,0,"Fully Paid",0,2,Medium
+2015,10400.00,36,7.91,325.47,A,A5,8.0,RENT,35620.00,<40k,Verified,debt_consolidation,WA,21.46,20-30,702.0,75.00,0,"Fully Paid",0,1,Low
+2015,2800.00,36,16.59,99.26,D,D2,0.0,RENT,29000.00,<40k,"Not Verified",other,OH,30.92,30-40,667.0,87.90,0,"Fully Paid",0,4,High
+2015,24000.00,60,12.88,544.61,C,C2,9.0,MORTGAGE,70000.00,40-70k,Verified,debt_consolidation,NC,22.69,20-30,662.0,92.20,0,"Charged Off",1,3,Medium
+2015,28000.00,60,15.77,677.49,D,D1,8.0,MORTGAGE,95000.00,70-100k,"Source Verified",credit_card,NY,8.59,0-10,707.0,96.90,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,7.91,156.48,A,A5,2.0,MORTGAGE,300000.00,150k+,"Source Verified",home_improvement,PA,8.69,0-10,687.0,45.60,0,"Fully Paid",0,0,Low
+2015,10000.00,36,8.49,315.63,B,B1,5.0,MORTGAGE,50000.00,40-70k,"Source Verified",debt_consolidation,FL,21.75,20-30,677.0,56.00,0,"Fully Paid",0,1,Low
+2015,32000.00,60,23.13,904.49,F,F2,3.0,MORTGAGE,104800.00,100-150k,Verified,home_improvement,AR,14.92,10-20,712.0,88.40,0,"Fully Paid",0,3,Medium
+2015,10000.00,36,9.80,321.74,B,B3,3.0,RENT,78000.00,70-100k,"Source Verified",other,CA,12.28,10-20,687.0,89.20,0,"Fully Paid",0,1,Low
+2015,18625.00,36,13.44,631.51,C,C3,10.0,MORTGAGE,44400.00,40-70k,Verified,debt_consolidation,TN,7.78,0-10,682.0,88.60,1,"Charged Off",1,3,Medium
+2015,6000.00,36,7.49,186.61,A,A4,10.0,MORTGAGE,110000.00,100-150k,"Not Verified",debt_consolidation,CA,18.80,10-20,712.0,71.70,0,"Fully Paid",0,1,Low
+2015,15000.00,36,10.78,489.52,B,B4,10.0,RENT,48000.00,40-70k,"Not Verified",debt_consolidation,CO,33.60,30-40,707.0,60.20,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,10.78,163.18,B,B4,10.0,RENT,36000.00,<40k,Verified,other,NV,24.03,20-30,747.0,33.80,0,"Fully Paid",0,0,Low
+2015,15000.00,36,6.00,371.20,D,D1,10.0,MORTGAGE,125000.00,100-150k,Verified,debt_consolidation,IL,23.15,20-30,697.0,95.30,0,"Fully Paid",0,2,Medium
+2015,15000.00,36,15.77,525.66,D,D1,10.0,MORTGAGE,80350.00,70-100k,"Not Verified",debt_consolidation,TX,26.88,20-30,712.0,17.10,0,"Fully Paid",0,2,Medium
+2015,35000.00,60,10.78,757.16,B,B4,10.0,OWN,118000.00,100-150k,"Source Verified",credit_card,CO,20.47,20-30,722.0,51.80,0,"Fully Paid",0,0,Low
+2015,15000.00,36,9.17,478.19,B,B2,10.0,RENT,90509.00,70-100k,"Source Verified",debt_consolidation,CA,6.27,0-10,712.0,25.30,0,"Fully Paid",0,0,Low
+2015,3000.00,36,10.78,97.91,B,B4,NULL,MORTGAGE,48650.00,40-70k,Verified,debt_consolidation,IL,10.11,10-20,677.0,15.80,0,"Fully Paid",0,1,Low
+2015,18000.00,60,11.99,400.31,C,C1,10.0,MORTGAGE,150000.00,100-150k,"Not Verified",debt_consolidation,AZ,17.39,10-20,672.0,52.70,0,"Fully Paid",0,2,Medium
+2015,5000.00,36,12.88,168.19,C,C2,7.0,MORTGAGE,59000.00,40-70k,"Source Verified",debt_consolidation,IL,3.82,0-10,662.0,40.30,0,"Fully Paid",0,2,Medium
+2015,10000.00,36,6.99,308.73,A,A3,10.0,MORTGAGE,80000.00,70-100k,"Not Verified",credit_card,MA,11.28,10-20,747.0,17.70,0,"Fully Paid",0,0,Low
+2015,20000.00,60,13.99,465.27,C,C4,6.0,MORTGAGE,65000.00,40-70k,"Source Verified",debt_consolidation,TX,14.31,10-20,677.0,71.50,0,"Fully Paid",0,3,Medium
+2015,8000.00,36,7.91,250.36,A,A5,8.0,MORTGAGE,110000.00,100-150k,"Not Verified",debt_consolidation,TX,22.32,20-30,727.0,34.90,0,"Fully Paid",0,0,Low
+2015,6000.00,36,15.77,210.27,D,D1,1.0,OWN,26000.00,<40k,"Source Verified",other,TX,24.52,20-30,662.0,36.40,0,"Fully Paid",0,2,Medium
+2015,8000.00,36,5.32,240.92,A,A1,1.0,MORTGAGE,113000.00,100-150k,"Not Verified",credit_card,NJ,10.44,10-20,732.0,29.20,0,"Fully Paid",0,0,Low
+2015,9000.00,36,11.99,298.89,C,C1,2.0,RENT,41000.00,40-70k,"Not Verified",credit_card,AZ,34.95,30-40,717.0,65.80,0,"Fully Paid",0,3,Medium
+2015,35000.00,36,7.49,1088.56,A,A4,10.0,MORTGAGE,210000.00,150k+,Verified,debt_consolidation,NJ,21.90,20-30,707.0,78.00,0,"Fully Paid",0,1,Low
+2015,21000.00,60,19.48,550.32,E,E2,9.0,MORTGAGE,79500.00,70-100k,Verified,credit_card,PA,16.91,10-20,697.0,96.00,0,"Fully Paid",0,3,Medium
+2015,6400.00,36,14.85,221.39,C,C5,5.0,RENT,45000.00,40-70k,"Source Verified",debt_consolidation,CA,18.53,10-20,757.0,7.80,0,"Fully Paid",0,1,Low
+2015,12000.00,36,11.48,395.60,B,B5,10.0,MORTGAGE,36000.00,<40k,Verified,debt_consolidation,OH,23.26,20-30,707.0,68.40,0,"Fully Paid",0,1,Low
+2015,15000.00,36,11.48,494.50,B,B5,3.0,MORTGAGE,60000.00,40-70k,Verified,debt_consolidation,IL,24.32,20-30,692.0,86.90,1,"Fully Paid",0,2,Medium
+2015,22000.00,36,6.99,679.20,A,A3,2.0,RENT,75000.00,70-100k,"Not Verified",debt_consolidation,MA,22.79,20-30,727.0,77.40,0,"Fully Paid",0,1,Low
+2015,30000.00,36,8.49,946.89,B,B1,10.0,MORTGAGE,160300.00,150k+,"Source Verified",credit_card,MD,28.48,20-30,707.0,66.70,0,"Fully Paid",0,2,Medium
+2015,18000.00,36,5.32,542.07,A,A1,5.0,MORTGAGE,415000.00,150k+,Verified,credit_card,GA,8.59,0-10,772.0,43.00,0,"Fully Paid",0,0,Low
+2015,5500.00,36,11.99,182.66,C,C1,10.0,MORTGAGE,135000.00,100-150k,Verified,home_improvement,NY,20.06,20-30,662.0,68.10,0,"Charged Off",1,3,Medium
+2015,10000.00,36,9.17,318.79,B,B2,10.0,MORTGAGE,40000.00,<40k,"Not Verified",debt_consolidation,GA,15.12,10-20,697.0,53.80,0,"Fully Paid",0,0,Low
+2015,10000.00,36,13.99,341.73,C,C4,10.0,RENT,35000.00,<40k,"Source Verified",credit_card,MA,29.01,20-30,662.0,64.50,0,"Charged Off",1,4,High
+2015,31500.00,36,10.78,1028.00,B,B4,10.0,MORTGAGE,145000.00,100-150k,"Not Verified",debt_consolidation,IL,29.82,20-30,722.0,86.20,2,"Fully Paid",0,3,Medium
+2015,20000.00,36,9.17,637.58,B,B2,10.0,RENT,57500.00,40-70k,Verified,credit_card,CA,12.06,10-20,697.0,100.10,0,"Fully Paid",0,1,Low
+2015,3600.00,36,14.85,124.54,C,C5,10.0,OWN,41200.00,40-70k,Verified,medical,TX,34.66,30-40,667.0,82.80,0,"Fully Paid",0,4,High
+2015,25000.00,36,6.49,766.12,A,A2,10.0,MORTGAGE,52000.00,40-70k,"Not Verified",credit_card,IN,27.03,20-30,727.0,40.70,0,"Fully Paid",0,1,Low
+2015,24000.00,60,9.17,500.19,B,B2,10.0,MORTGAGE,85000.00,70-100k,"Not Verified",debt_consolidation,NJ,11.66,10-20,772.0,26.20,0,"Fully Paid",0,0,Low
+2015,22950.00,36,17.97,829.36,D,D4,8.0,OWN,115000.00,100-150k,"Not Verified",debt_consolidation,NJ,10.66,10-20,692.0,27.60,0,"Fully Paid",0,1,Low
+2015,35000.00,36,12.88,1177.27,C,C2,10.0,RENT,145000.00,100-150k,"Source Verified",credit_card,CA,13.25,10-20,672.0,52.80,0,"Fully Paid",0,2,Medium
+2015,3600.00,36,7.91,112.67,A,A5,6.0,MORTGAGE,51000.00,40-70k,"Source Verified",car,VA,12.92,10-20,692.0,25.90,0,"Fully Paid",0,0,Low
+2015,18000.00,36,9.80,579.13,B,B3,2.0,MORTGAGE,45000.00,40-70k,"Not Verified",major_purchase,CA,21.39,20-30,732.0,8.80,0,"Fully Paid",0,0,Low
+2015,15000.00,36,17.27,536.81,D,D3,5.0,RENT,55000.00,40-70k,Verified,other,VA,33.86,30-40,667.0,77.00,0,"Fully Paid",0,4,High
+2015,28000.00,36,15.77,981.23,D,D1,10.0,MORTGAGE,90000.00,70-100k,Verified,debt_consolidation,CT,11.12,10-20,667.0,67.00,0,"Fully Paid",0,3,Medium
+2015,3850.00,36,21.48,146.00,E,E5,4.0,RENT,88000.00,70-100k,"Source Verified",home_improvement,NY,6.23,0-10,717.0,0.50,1,"Charged Off",1,3,Medium
+2015,35000.00,60,14.85,829.90,C,C5,9.0,RENT,110000.00,100-150k,"Source Verified",debt_consolidation,CA,4.64,0-10,702.0,58.10,0,"Fully Paid",0,1,Low
+2015,9000.00,36,9.17,286.92,B,B2,10.0,RENT,62000.00,40-70k,"Source Verified",credit_card,TX,19.32,10-20,662.0,40.10,0,"Fully Paid",0,1,Low
+2015,35000.00,36,14.85,1210.72,C,C5,7.0,MORTGAGE,100000.00,70-100k,"Source Verified",home_improvement,NV,26.47,20-30,742.0,32.30,0,"Fully Paid",0,2,Medium
